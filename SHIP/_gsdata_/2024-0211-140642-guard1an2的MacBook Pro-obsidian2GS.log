@@ -1,0 +1,65 @@
+2024-02-11 14:06:43: >> Resolved stor-dca1.storage to stor-dca1.goodsync.com:443-:443
+2024-02-11 14:06:44: REMOTE C:103.238.130.133(198.18.0.1) -> S:stor-dca1.goodsync.com:443
+2024-02-11 14:06:46: -- 分析开始 Periodic Timer
+2024-02-11 14:06:46: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-11 14:06:48: 右侧: 正在读取文件状态 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/_gsdata_/_file_state_v4._gs
+2024-02-11 14:06:50: 变更：64 (156)， 冲突：0， 复制时间：0， 复制状态：2， 错误： 0, All: 575
+2024-02-11 14:06:50: Left to Right: Copy File: 11 Delete File: 3 Rename/Move File/Folder: 50 
+2024-02-11 14:06:50: == 同步开始由 Periodic Timer
+2024-02-11 14:06:51: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 14:06:51: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 14:06:51: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 14:06:52: REMOTE C:103.238.130.133(198.18.0.1) -> S:stor-dca1.goodsync.com:443
+2024-02-11 14:06:52: REMOTE C:103.238.130.133(198.18.0.1) -> S:stor-dca1.goodsync.com:443
+2024-02-11 14:06:52: REMOTE C:103.238.130.133(198.18.0.1) -> S:stor-dca1.goodsync.com:443
+2024-02-11 14:06:52: ConnectCloned connected to gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y
+2024-02-11 14:06:52: ConnectCloned connected to gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y
+2024-02-11 14:06:52: ConnectCloned connected to gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y
+2024-02-11 14:06:55: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/标签/笔记.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/标签/笔记.md' (98)
+2024-02-11 14:06:55: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/日记/2024-02-11_周日.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/日记/2024-02-11_周日.md' (1,331)
+2024-02-11 14:06:57: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/模板/template模板/卡片模板.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/模板/template模板/卡片模板.md' (161)
+2024-02-11 14:06:58: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/模板/template模板/复盘Note模板.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/模板/template模板/复盘Note模板.md' (790)
+2024-02-11 14:06:59: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/模板/template模板/日记模板.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/模板/template模板/日记模板.md' (2,978)
+2024-02-11 14:06:59: 创建文件夹 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/闪念笔记
+2024-02-11 14:07:00: 删除文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/2024-02-10项目追踪复盘.md
+2024-02-11 14:07:00: 移动文件夹 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/personal -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/闪念笔记/personal
+2024-02-11 14:07:01: 创建文件夹 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/闪念笔记/Notes
+2024-02-11 14:07:01: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/🏡 StartPage.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/🏡 StartPage.md' (16,360)
+2024-02-11 14:07:03: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/20230628复盘.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/闪念笔记/Notes/20230628复盘.md
+2024-02-11 14:07:04: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/20230830复盘.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/闪念笔记/Notes/20230830复盘.md
+2024-02-11 14:07:04: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/20230907复盘.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/闪念笔记/Notes/20230907复盘.md
+2024-02-11 14:07:04: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/20230911复盘.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/闪念笔记/Notes/20230911复盘.md
+2024-02-11 14:07:05: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/20230913复盘.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/闪念笔记/Notes/20230913复盘.md
+2024-02-11 14:07:05: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/20230920复盘.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/闪念笔记/Notes/20230920复盘.md
+2024-02-11 14:07:06: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/20230922复盘.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/闪念笔记/Notes/20230922复盘.md
+2024-02-11 14:07:06: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/20230925复盘.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/闪念笔记/Notes/20230925复盘.md
+2024-02-11 14:07:07: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/20230927复盘.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/闪念笔记/Notes/20230927复盘.md
+2024-02-11 14:07:07: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/20231001复盘.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/闪念笔记/Notes/20231001复盘.md
+2024-02-11 14:07:08: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/20231008复盘.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/闪念笔记/Notes/20231008复盘.md
+2024-02-11 14:07:08: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/20231025复盘.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/闪念笔记/Notes/20231025复盘.md
+2024-02-11 14:07:09: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/20231028复盘.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/闪念笔记/Notes/20231028复盘.md
+2024-02-11 14:07:09: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/世界观复盘.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/闪念笔记/Notes/世界观复盘.md
+2024-02-11 14:07:10: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/动作设计复盘.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/闪念笔记/Notes/动作设计复盘.md
+2024-02-11 14:07:10: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/参考复盘.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/闪念笔记/Notes/参考复盘.md
+2024-02-11 14:07:10: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/Notes/2024-02-10项目追踪复盘.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/闪念笔记/Notes/2024-02-10项目追踪复盘.md' (302)
+2024-02-11 14:07:11: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/工作总结复盘.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/闪念笔记/Notes/工作总结复盘.md
+2024-02-11 14:07:11: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/心态复盘.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/闪念笔记/Notes/心态复盘.md
+2024-02-11 14:07:12: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/效率复盘.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/闪念笔记/Notes/效率复盘.md
+2024-02-11 14:07:12: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/日常练习复盘.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/闪念笔记/Notes/日常练习复盘.md
+2024-02-11 14:07:13: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/深度工作复盘.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/闪念笔记/Notes/深度工作复盘.md
+2024-02-11 14:07:13: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/线稿图形复盘.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/闪念笔记/Notes/线稿图形复盘.md
+2024-02-11 14:07:14: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/线稿线条复盘.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/闪念笔记/Notes/线稿线条复盘.md
+2024-02-11 14:07:14: 移动文件夹 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄 -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/闪念笔记/摘抄
+2024-02-11 14:07:14: 创建文件夹 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/闪念笔记/卡片盒
+2024-02-11 14:07:23: Close Modified Folder (mod-time, acl): /日记
+2024-02-11 14:07:23: Close Modified Folder (mod-time, acl): /Setting/标签
+2024-02-11 14:07:24: Close Modified Folder (mod-time, acl): /Setting/模板/template模板
+2024-02-11 14:07:25: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/卡片盒/CardBox.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/闪念笔记/卡片盒/CardBox.md' (152)
+2024-02-11 14:07:25: Close Modified Folder (mod-time, acl): /闪念笔记/Notes
+2024-02-11 14:07:25: 删除文件夹 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes
+2024-02-11 14:07:25: Close Modified Folder (mod-time, acl): /闪念笔记/卡片盒
+2024-02-11 14:07:25: Close Modified Folder (mod-time, acl): /闪念笔记
+2024-02-11 14:07:26: 删除文件夹 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记
+2024-02-11 14:07:26: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-11 14:07:27: 保持文件状态 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/_gsdata_/_file_state_v4._gs
+2024-02-11 14:07:29: == 同步完成. 历时: 00:00:47, 速度: 3.18 KB/s, 完成: 158, 错误: 0

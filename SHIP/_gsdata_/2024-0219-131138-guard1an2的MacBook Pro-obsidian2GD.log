@@ -1,0 +1,20 @@
+2024-02-19 13:11:39: -- 分析开始 Periodic Timer
+2024-02-19 13:11:39: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-19 13:11:43: 右侧: 正在读取文件状态 gdrive://www.googleapis.com/shipy/_gsdata_/_file_state_v4._gs
+2024-02-19 13:11:46: 变更：3， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 626
+2024-02-19 13:11:46: Left to Right: Copy File: 3 
+2024-02-19 13:11:46: == 同步开始由 Periodic Timer
+2024-02-19 13:11:46: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-19 13:11:46: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-19 13:11:46: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-19 13:11:46: GsConnectAndSetRoot1 connected to gdrive://www.googleapis.com/shipy
+2024-02-19 13:11:46: GsConnectAndSetRoot1 connected to gdrive://www.googleapis.com/shipy
+2024-02-19 13:11:47: GsConnectAndSetRoot1 connected to gdrive://www.googleapis.com/shipy
+2024-02-19 13:11:54: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/日记/2024-02-19_周一.md' -> 'gdrive://www.googleapis.com/shipy/日记/2024-02-19_周一.md' (1,343)
+2024-02-19 13:11:54: /Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json: Source file has changed between Analyze and Sync from '[file] size=3,412 accu-time=2024-02-19 13:07:31 attr=Hidden644 cktype=0' to 'size=3,412 time=2024-02-19 13:11:41', noted in source file state
+2024-02-19 13:11:54: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/bookmarks.json' (3,412)
+2024-02-19 13:11:55: /Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json: Source file has changed between Analyze and Sync from '[file] size=8,459 accu-time=2024-02-19 13:07:31 attr=Hidden644 cktype=0' to 'size=8,459 time=2024-02-19 13:11:41', noted in source file state
+2024-02-19 13:11:55: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/workspace.json' (8,459)
+2024-02-19 13:11:55: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-19 13:11:57: 保持文件状态 gdrive://www.googleapis.com/shipy/_gsdata_/_file_state_v4._gs
+2024-02-19 13:11:59: == 同步完成. 历时: 00:00:21, 速度: 876.00/s, 完成: 3, 错误: 0

@@ -1,0 +1,32 @@
+2024-02-18 21:07:32: -- 分析开始 Periodic Timer
+2024-02-18 21:07:32: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-18 21:07:34: 右侧: 正在读取文件状态 gdrive://www.googleapis.com/shipy/_gsdata_/_file_state_v4._gs
+2024-02-18 21:07:35: File ModTime changed but CheckSum remains the same, request CopyState: /.obsidian/bookmarks.json
+2024-02-18 21:07:36: 变更：13， 冲突：0， 复制时间：0， 复制状态：7， 错误： 0, All: 625
+2024-02-18 21:07:36: Left to Right: Copy File: 13 
+2024-02-18 21:07:36: == 同步开始由 Periodic Timer
+2024-02-18 21:07:36: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-18 21:07:36: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-18 21:07:36: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-18 21:07:37: GsConnectAndSetRoot1 connected to gdrive://www.googleapis.com/shipy
+2024-02-18 21:07:37: GsConnectAndSetRoot1 connected to gdrive://www.googleapis.com/shipy
+2024-02-18 21:07:37: GsConnectAndSetRoot1 connected to gdrive://www.googleapis.com/shipy
+2024-02-18 21:07:45: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/graph.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/graph.json' (511)
+2024-02-18 21:07:46: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/community-plugins.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/community-plugins.json' (593)
+2024-02-18 21:07:47: /Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json: Source file has changed between Analyze and Sync from '[file] size=3,412 accu-time=2024-02-18 21:07:29 attr=Hidden644 cktype=0' to 'size=3,412 time=2024-02-18 21:07:32', noted in source file state
+2024-02-18 21:07:47: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/bookmarks.json' (3,412)
+2024-02-18 21:07:48: 创建文件夹 gdrive://www.googleapis.com/shipy/.obsidian/plugins/obsidian-mind-map
+2024-02-18 21:07:49: > 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-mind-map/main.js' -> 'gdrive://www.googleapis.com/shipy/.obsidian/plugins/obsidian-mind-map/main.js' (4,003,690)
+2024-02-18 21:07:50: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/types.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/types.json' (826)
+2024-02-18 21:07:51: < 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-mind-map/main.js' -> 'gdrive://www.googleapis.com/shipy/.obsidian/plugins/obsidian-mind-map/main.js' (4,003,690)
+2024-02-18 21:07:54: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-mind-map/manifest.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/plugins/obsidian-mind-map/manifest.json' (194)
+2024-02-18 21:07:57: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/recent-files-obsidian/data.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/plugins/recent-files-obsidian/data.json' (6,398)
+2024-02-18 21:07:57: /Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json: Source file has changed between Analyze and Sync from '[file] size=8,062 accu-time=2024-02-18 21:07:30 attr=Hidden644 cktype=0' to 'size=8,062 time=2024-02-18 21:07:33', noted in source file state
+2024-02-18 21:07:57: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/workspace.json' (8,062)
+2024-02-18 21:07:58: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspaces.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/workspaces.json' (7,043)
+2024-02-18 21:08:02: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/Project/IDEA 备忘.md' -> 'gdrive://www.googleapis.com/shipy/Project/IDEA 备忘.md' (17)
+2024-02-18 21:08:03: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/日记/2024-02-18_周日.md' -> 'gdrive://www.googleapis.com/shipy/日记/2024-02-18_周日.md' (1,106)
+2024-02-18 21:08:04: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/日记/2024-02-15_周四.md' -> 'gdrive://www.googleapis.com/shipy/日记/2024-02-15_周四.md' (1,387)
+2024-02-18 21:08:04: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-18 21:08:06: 保持文件状态 gdrive://www.googleapis.com/shipy/_gsdata_/_file_state_v4._gs
+2024-02-18 21:08:08: == 同步完成. 历时: 00:00:38, 速度: 116.41 KB/s, 完成: 20, 错误: 0

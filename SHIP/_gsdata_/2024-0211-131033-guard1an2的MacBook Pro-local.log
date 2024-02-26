@@ -1,0 +1,35 @@
+2024-02-11 13:10:33: -- 分析开始 Periodic Timer
+2024-02-11 13:10:33: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-11 13:10:33: 右侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-11 13:10:33: 变更：12， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 504
+2024-02-11 13:10:33: Left to Right: Copy File: 12 
+2024-02-11 13:10:33: == 同步开始由 Periodic Timer
+2024-02-11 13:10:33: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 13:10:33: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 13:10:33: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 13:10:33: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-11 13:10:33: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-11 13:10:33: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-11 13:10:33: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/app.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/app.json' (206)
+2024-02-11 13:10:33: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/标签/笔记.md' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/标签/笔记.md' (98)
+2024-02-11 13:10:33: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/appearance.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/appearance.json' (717)
+2024-02-11 13:10:33: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/模板/template模板/卡片模板.md' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/模板/template模板/卡片模板.md' (43)
+2024-02-11 13:10:33: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/bookmarks.json' (2,725)
+2024-02-11 13:10:33: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/hotkeys.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/hotkeys.json' (1,298)
+2024-02-11 13:10:33: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/snippets/【卡片视图】zettelkasten.css' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/snippets/【卡片视图】zettelkasten.css' (11,098)
+2024-02-11 13:10:33: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-minimal-settings/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/obsidian-minimal-settings/data.json' (934)
+2024-02-11 13:10:33: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/quickadd/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/quickadd/data.json' (2,362)
+2024-02-11 13:10:33: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/recent-files-obsidian/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/recent-files-obsidian/data.json' (5,153)
+2024-02-11 13:10:33: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/workspace.json' (8,525)
+2024-02-11 13:10:33: Close Modified Folder (mod-time, acl): /Setting/标签
+2024-02-11 13:10:33: Close Modified Folder (mod-time, acl): /Setting/模板/template模板
+2024-02-11 13:10:33: Close Modified Folder (mod-time, acl): /.obsidian/snippets
+2024-02-11 13:10:33: Close Modified Folder (mod-time, acl): /.obsidian/plugins/obsidian-minimal-settings
+2024-02-11 13:10:33: Close Modified Folder (mod-time, acl): /.obsidian/plugins/quickadd
+2024-02-11 13:10:33: Close Modified Folder (mod-time, acl): /.obsidian/plugins/recent-files-obsidian
+2024-02-11 13:10:33: Close Modified Folder (mod-time, acl): /.obsidian
+2024-02-11 13:10:33: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/卡片盒/CardBox.md' -> '/Users/IntoSoranohate/个人仓库/backup/灵感笔记/卡片盒/CardBox.md' (153)
+2024-02-11 13:10:33: Close Modified Folder (mod-time, acl): /灵感笔记/卡片盒
+2024-02-11 13:10:33: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-11 13:10:33: 保持文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-11 13:10:33: == 同步完成. 历时: 00:00:00, 速度: 0.00/s, 完成: 12, 错误: 0

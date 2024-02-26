@@ -1,0 +1,31 @@
+2024-02-11 12:02:08: -- 分析开始 Periodic Timer
+2024-02-11 12:02:08: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-11 12:02:08: 右侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-11 12:02:08: 变更：13， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 500
+2024-02-11 12:02:08: Left to Right: Copy File: 6 Delete File: 7 
+2024-02-11 12:02:08: == 同步开始由 Periodic Timer
+2024-02-11 12:02:08: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 12:02:08: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 12:02:08: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-11 12:02:08: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 12:02:08: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-11 12:02:08: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-11 12:02:08: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/bookmarks.json' (2,725)
+2024-02-11 12:02:08: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/community-plugins.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/community-plugins.json' (570)
+2024-02-11 12:02:08: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/hotkeys.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/hotkeys.json' (1,192)
+2024-02-11 12:02:08: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/workspace.json' (8,048)
+2024-02-11 12:02:08: 删除文件 /Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/obsidian-dictionary-plugin/cache.json
+2024-02-11 12:02:08: 删除文件 /Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/obsidian-dictionary-plugin/data.json
+2024-02-11 12:02:08: 删除文件 /Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/obsidian-dictionary-plugin/main.js
+2024-02-11 12:02:08: 删除文件 /Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/obsidian-dictionary-plugin/manifest.json
+2024-02-11 12:02:08: 删除文件 /Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/obsidian-dictionary-plugin/offlineDictionary.json
+2024-02-11 12:02:08: 删除文件 /Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/obsidian-dictionary-plugin/styles.css
+2024-02-11 12:02:08: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspaces.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/workspaces.json' (6,886)
+2024-02-11 12:02:08: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/recent-files-obsidian/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/recent-files-obsidian/data.json' (4,952)
+2024-02-11 12:02:08: Close Modified Folder (mod-time, acl): /.obsidian/plugins/recent-files-obsidian
+2024-02-11 12:02:08: 删除文件夹 /Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/obsidian-dictionary-plugin
+2024-02-11 12:02:08: Close Modified Folder (mod-time, acl): /.obsidian/plugins
+2024-02-11 12:02:08: Close Modified Folder (mod-time, acl): /.obsidian
+2024-02-11 12:02:08: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-11 12:02:08: 保持文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-11 12:02:09: == 同步完成. 历时: 00:00:01, 速度: 0.00/s, 完成: 13, 错误: 0

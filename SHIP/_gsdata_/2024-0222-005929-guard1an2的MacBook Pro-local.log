@@ -1,0 +1,21 @@
+2024-02-22 00:59:29: -- 分析开始 Periodic Timer
+2024-02-22 00:59:29: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-22 00:59:29: 右侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-22 00:59:29: 变更：3， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 710
+2024-02-22 00:59:29: Left to Right: Copy File: 3 
+2024-02-22 00:59:29: == 同步开始由 Periodic Timer
+2024-02-22 00:59:29: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-22 00:59:29: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-22 00:59:29: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-22 00:59:29: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-22 00:59:29: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-22 00:59:29: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-22 00:59:29: /Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json: Source file has changed between Analyze and Sync from '[file] size=3,411 accu-time=2024-02-22 00:55:56 attr=Hidden644 cktype=0' to 'size=3,411 time=2024-02-22 00:59:29', noted in source file state
+2024-02-22 00:59:29: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/bookmarks.json' (3,411)
+2024-02-22 00:59:29: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/workspace.json' (8,925)
+2024-02-22 00:59:29: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/recent-files-obsidian/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/recent-files-obsidian/data.json' (5,733)
+2024-02-22 00:59:29: Close Modified Folder (mod-time, acl): /.obsidian/plugins/recent-files-obsidian
+2024-02-22 00:59:29: Close Modified Folder (mod-time, acl): /.obsidian
+2024-02-22 00:59:29: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-22 00:59:29: 保持文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-22 00:59:29: == 同步完成. 历时: 00:00:00, 速度: 0.00/s, 完成: 3, 错误: 0

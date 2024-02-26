@@ -1,0 +1,32 @@
+2024-02-11 11:16:59: -- 分析开始 Periodic Timer
+2024-02-11 11:16:59: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-11 11:16:59: 右侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-11 11:16:59: 变更：12， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 487
+2024-02-11 11:16:59: Left to Right: Copy File: 9 Delete File: 3 
+2024-02-11 11:16:59: == 同步开始由 Periodic Timer
+2024-02-11 11:16:59: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 11:16:59: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 11:16:59: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 11:16:59: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-11 11:16:59: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-11 11:16:59: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-11 11:16:59: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/bookmarks.json' (2,725)
+2024-02-11 11:16:59: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/community-plugins.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/community-plugins.json' (541)
+2024-02-11 11:16:59: 删除文件 /Users/IntoSoranohate/个人仓库/backup/Setting/Files/Pasted Graphic 16.png
+2024-02-11 11:16:59: 删除文件 /Users/IntoSoranohate/个人仓库/backup/Setting/Files/Pasted Graphic 17.png
+2024-02-11 11:16:59: 删除文件 /Users/IntoSoranohate/个人仓库/backup/Setting/Files/Pasted Graphic 3.png
+2024-02-11 11:16:59: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/workspace.json' (8,184)
+2024-02-11 11:16:59: 创建文件夹 /Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/oz-clear-unused-images
+2024-02-11 11:16:59: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/oz-clear-unused-images/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/oz-clear-unused-images/data.json' (134)
+2024-02-11 11:16:59: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/recent-files-obsidian/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/recent-files-obsidian/data.json' (4,848)
+2024-02-11 11:16:59: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/oz-clear-unused-images/main.js' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/oz-clear-unused-images/main.js' (22,301)
+2024-02-11 11:16:59: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/oz-clear-unused-images/manifest.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/oz-clear-unused-images/manifest.json' (338)
+2024-02-11 11:16:59: Close Modified Folder (mod-time, acl): /Setting/Files
+2024-02-11 11:16:59: Close Modified Folder (mod-time, acl): /.obsidian/plugins/recent-files-obsidian
+2024-02-11 11:16:59: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/oz-clear-unused-images/styles.css' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/oz-clear-unused-images/styles.css' (178)
+2024-02-11 11:17:00: Close Modified Folder (mod-time, acl): /.obsidian/plugins/oz-clear-unused-images
+2024-02-11 11:17:00: Close Modified Folder (mod-time, acl): /.obsidian/plugins
+2024-02-11 11:17:00: Close Modified Folder (mod-time, acl): /.obsidian
+2024-02-11 11:17:00: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-11 11:17:00: 保持文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-11 11:17:00: == 同步完成. 历时: 00:00:01, 速度: 0.00/s, 完成: 12, 错误: 0

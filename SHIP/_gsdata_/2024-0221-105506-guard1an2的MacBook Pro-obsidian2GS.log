@@ -1,0 +1,56 @@
+2024-02-21 10:55:36: Waiting for 30+4(120) sec on verb Med-Get:1: Cannot connect to Mediator (no Internet connection): Cannot resolve IP name (bad name or no connection); name=mediator.goodsync.com.; port=443
+2024-02-21 10:56:06: Waiting for 60+8(120) sec on verb Med-Get:1: Cannot connect to Mediator (no Internet connection): [connecting mediator.goodsync.com:443]: Connection refused
+2024-02-21 10:56:15: >> Resolved stor-dca1.storage to stor-dca1.goodsync.com:443-:443
+2024-02-21 10:56:18: REMOTE C:182.255.32.10(198.18.0.1) -> S:stor-dca1.goodsync.com:443
+2024-02-21 10:56:18: Recovered the connection, continuing operations
+2024-02-21 10:56:19: -- 分析开始 Periodic Timer
+2024-02-21 10:56:19: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-21 10:56:21: 右侧: 正在读取文件状态 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/_gsdata_/_file_state_v4._gs
+2024-02-21 10:56:24: 变更：33， 冲突：0， 复制时间：0， 复制状态：2， 错误： 0, All: 654
+2024-02-21 10:56:24: Left to Right: Copy File: 11 Delete File: 8 Rename/Move File/Folder: 14 
+2024-02-21 10:56:25: == 同步开始由 Periodic Timer
+2024-02-21 10:56:25: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-21 10:56:25: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-21 10:56:25: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-21 10:56:26: REMOTE C:182.255.32.10(198.18.0.1) -> S:stor-dca1.goodsync.com:443
+2024-02-21 10:56:26: REMOTE C:182.255.32.10(198.18.0.1) -> S:stor-dca1.goodsync.com:443
+2024-02-21 10:56:26: REMOTE C:182.255.32.10(198.18.0.1) -> S:stor-dca1.goodsync.com:443
+2024-02-21 10:56:27: ConnectCloned connected to gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y
+2024-02-21 10:56:27: ConnectCloned connected to gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y
+2024-02-21 10:56:27: ConnectCloned connected to gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y
+2024-02-21 10:56:28: 创建文件夹 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/components
+2024-02-21 10:56:30: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/Project/IDEA 备忘.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Project/IDEA 备忘.md' (23)
+2024-02-21 10:56:30: 删除文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/组件/ReactJS/react_weather.md
+2024-02-21 10:56:30: 创建文件夹 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/components/ReactJS
+2024-02-21 10:56:31: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/组件/ReactJS/ColorfulClock.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/components/ReactJS/ColorfulClock.md
+2024-02-21 10:56:31: 创建文件夹 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/components/script
+2024-02-21 10:56:31: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/组件/ReactJS/DigitalClock.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/components/ReactJS/DigitalClock.md
+2024-02-21 10:56:32: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/组件/script/changeInlineToYaml.js -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/components/script/changeInlineToYaml.js
+2024-02-21 10:56:32: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/组件/script/colorclock.js -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/components/script/colorclock.js
+2024-02-21 10:56:33: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/组件/script/dv_weatherSvg.js -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/components/script/dv_weatherSvg.js
+2024-02-21 10:56:33: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/组件/script/dv_weatherView.js -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/components/script/dv_weatherView.js
+2024-02-21 10:56:34: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/组件/彩色时钟.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/components/彩色时钟.md
+2024-02-21 10:56:34: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/components/ReactJS/react_weather.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/components/ReactJS/react_weather.md' (710)
+2024-02-21 10:56:36: 删除文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/组件/ReactJS/ReactJS.md
+2024-02-21 10:56:36: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/components/最近天气查询.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/components/最近天气查询.md' (558)
+2024-02-21 10:56:37: 删除文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/组件/script/dv_project_tracking.js
+2024-02-21 10:56:37: 删除文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/组件/最近天气查询.md
+2024-02-21 10:56:39: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/Project/中国风角色(主角)设计.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Project/中国风角色(主角)设计.md' (1,421)
+2024-02-21 10:56:41: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/🏡 StartPage.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/🏡 StartPage.md' (16,360)
+2024-02-21 10:56:41: 删除文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/日记/2024-02-19_周一.md
+2024-02-21 10:56:42: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/日记/2024-02-18_周日.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/日记/2024-02-18_周日.md' (1,227)
+2024-02-21 10:56:42: Close Modified Folder (mod-time, acl): /Setting/components/script
+2024-02-21 10:56:42: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/日记/Invalid date.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/日记/Invalid date.md' (1,475)
+- 错误: Error copying file: Cannot open file '/Users/IntoSoranohate/个人仓库/SHIP/日记/Invalid date.md' for read: No such file or directory (error 2)
+2024-02-21 10:56:42: Close Modified Folder (mod-time, acl): /Setting/components/ReactJS
+2024-02-21 10:56:42: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/日记/2024-02-21_周三.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/日记/2024-02-21_周三.md' (1,032)
+2024-02-21 10:56:43: 删除文件夹 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/组件/ReactJS
+2024-02-21 10:56:43: Close Modified Folder (mod-time, acl): /Project
+2024-02-21 10:56:43: Close Modified Folder (mod-time, acl): /日记
+2024-02-21 10:56:43: 删除文件夹 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/组件/script
+2024-02-21 10:56:43: Close Modified Folder (mod-time, acl): /Setting/components
+2024-02-21 10:56:44: 删除文件夹 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/组件
+2024-02-21 10:56:44: Close Modified Folder (mod-time, acl): /Setting
+2024-02-21 10:56:44: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-21 10:56:45: 保持文件状态 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/_gsdata_/_file_state_v4._gs
+2024-02-21 10:56:47: == 同步完成. 历时: 00:01:41, 速度: 2.28 KB/s, 完成: 34, 错误: 1

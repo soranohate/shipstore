@@ -1,0 +1,55 @@
+2024-02-11 01:49:31: -- 分析开始 Periodic Timer
+2024-02-11 01:49:31: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-11 01:49:31: 右侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-11 01:49:31: 变更：28， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 454
+2024-02-11 01:49:31: Left to Right: Copy File: 21 Delete File: 7 
+2024-02-11 01:49:31: == 同步开始由 Periodic Timer
+2024-02-11 01:49:31: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 01:49:31: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 01:49:31: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-11 01:49:31: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-11 01:49:31: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 01:49:31: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-11 01:49:31: 创建文件夹 /Users/IntoSoranohate/个人仓库/backup/.makemd
+2024-02-11 01:49:31: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.makemd/fileCache.mdb' -> '/Users/IntoSoranohate/个人仓库/backup/.makemd/fileCache.mdb' (446,464)
+2024-02-11 01:49:31: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/app.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/app.json' (206)
+2024-02-11 01:49:31: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/appearance.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/appearance.json' (551)
+2024-02-11 01:49:31: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/bookmarks.json' (2,725)
+2024-02-11 01:49:31: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/community-plugins.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/community-plugins.json' (499)
+2024-02-11 01:49:31: 创建文件夹 /Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/make-md
+2024-02-11 01:49:31: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/snippets/custom-admonitions.c9c6cb.css' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/snippets/custom-admonitions.c9c6cb.css' (16,749)
+2024-02-11 01:49:31: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/make-md/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/make-md/data.json' (2,279)
+2024-02-11 01:49:31: > 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/make-md/main.js' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/make-md/main.js' (3,444,906)
+2024-02-11 01:49:31: < 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/make-md/main.js' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/make-md/main.js' (3,444,906)
+2024-02-11 01:49:31: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/make-md/manifest.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/make-md/manifest.json' (369)
+2024-02-11 01:49:31: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/make-md/Spaces.mdb' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/make-md/Spaces.mdb' (57,344)
+2024-02-11 01:49:31: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/make-md/styles.css' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/make-md/styles.css' (89,940)
+2024-02-11 01:49:31: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/snippets/【自定义】mytools 样式.css' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/snippets/【自定义】mytools 样式.css' (7,958)
+2024-02-11 01:49:31: 删除文件 /Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/obsidian-memos/main.js
+2024-02-11 01:49:31: 删除文件 /Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/obsidian-memos/manifest.json
+2024-02-11 01:49:31: 删除文件 /Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/obsidian-memos/styles.css
+2024-02-11 01:49:31: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-minimal-settings/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/obsidian-minimal-settings/data.json' (934)
+2024-02-11 01:49:31: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/recent-files-obsidian/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/recent-files-obsidian/data.json' (4,637)
+2024-02-11 01:49:31: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/workspace.json' (7,491)
+2024-02-11 01:49:31: 删除文件 /Users/IntoSoranohate/个人仓库/backup/.obsidian/themes/Blue Topaz/manifest.json
+2024-02-11 01:49:31: 删除文件 /Users/IntoSoranohate/个人仓库/backup/.obsidian/themes/Blue Topaz/theme.css
+2024-02-11 01:49:31: > 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.makemd/superstate.mdb' -> '/Users/IntoSoranohate/个人仓库/backup/.makemd/superstate.mdb' (1,064,960)
+2024-02-11 01:49:31: < 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.makemd/superstate.mdb' -> '/Users/IntoSoranohate/个人仓库/backup/.makemd/superstate.mdb' (1,064,960)
+2024-02-11 01:49:31: 创建文件夹 /Users/IntoSoranohate/个人仓库/backup/Spaces
+2024-02-11 01:49:31: 创建文件夹 /Users/IntoSoranohate/个人仓库/backup/Spaces/Home
+2024-02-11 01:49:31: Close Modified Folder (mod-time, acl): /.obsidian/plugins/make-md
+2024-02-11 01:49:31: Close Modified Folder (mod-time, acl): /.obsidian/snippets
+2024-02-11 01:49:31: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/组件/彩色时钟.md' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/组件/彩色时钟.md' (280)
+2024-02-11 01:49:31: Close Modified Folder (mod-time, acl): /.obsidian/plugins/obsidian-minimal-settings
+2024-02-11 01:49:31: 删除文件夹 /Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/obsidian-memos
+2024-02-11 01:49:31: Close Modified Folder (mod-time, acl): /.obsidian/plugins/recent-files-obsidian
+2024-02-11 01:49:31: Close Modified Folder (mod-time, acl): /.makemd
+2024-02-11 01:49:31: 删除文件夹 /Users/IntoSoranohate/个人仓库/backup/.obsidian/themes/Blue Topaz
+2024-02-11 01:49:31: Close Modified Folder (mod-time, acl): /Spaces
+2024-02-11 01:49:31: Close Modified Folder (mod-time, acl): /Setting/组件
+2024-02-11 01:49:31: Close Modified Folder (mod-time, acl): /.obsidian/plugins
+2024-02-11 01:49:31: Close Modified Folder (mod-time, acl): /.obsidian/themes
+2024-02-11 01:49:31: Close Modified Folder (mod-time, acl): /.obsidian
+2024-02-11 01:49:31: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-11 01:49:31: 保持文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-11 01:49:31: == 同步完成. 历时: 00:00:00, 速度: 0.00/s, 完成: 28, 错误: 0

@@ -1,0 +1,29 @@
+2024-02-21 23:06:13: >> Resolved stor-dca1.storage to stor-dca1.goodsync.com:443-:443
+2024-02-21 23:06:14: REMOTE C:182.255.32.10(198.18.0.1) -> S:stor-dca1.goodsync.com:443
+2024-02-21 23:06:16: -- 分析开始 Periodic Timer
+2024-02-21 23:06:16: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-21 23:06:18: 右侧: 正在读取文件状态 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/_gsdata_/_file_state_v4._gs
+2024-02-21 23:06:20: 变更：5， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 705
+2024-02-21 23:06:20: Left to Right: Copy File: 5 
+2024-02-21 23:06:21: == 同步开始由 Periodic Timer
+2024-02-21 23:06:21: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-21 23:06:21: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-21 23:06:21: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-21 23:06:22: REMOTE C:182.255.32.10(198.18.0.1) -> S:stor-dca1.goodsync.com:443
+2024-02-21 23:06:22: REMOTE C:182.255.32.10(198.18.0.1) -> S:stor-dca1.goodsync.com:443
+2024-02-21 23:06:22: REMOTE C:182.255.32.10(198.18.0.1) -> S:stor-dca1.goodsync.com:443
+2024-02-21 23:06:22: ConnectCloned connected to gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y
+2024-02-21 23:06:22: ConnectCloned connected to gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y
+2024-02-21 23:06:22: ConnectCloned connected to gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y
+2024-02-21 23:06:26: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/Project/2024-02-21中国风角色策划.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Project/2024-02-21中国风角色策划.md' (157)
+2024-02-21 23:06:26: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/daily/2024-02-21_周三.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/daily/2024-02-21_周三.md' (1,595)
+2024-02-21 23:06:29: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/daily/情绪日记/心情记录2024-02-19_周一.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/daily/情绪日记/心情记录2024-02-19_周一.md' (599)
+2024-02-21 23:06:29: Close Modified Folder (mod-time, acl): /Project
+2024-02-21 23:06:29: Close Modified Folder (mod-time, acl): /daily/情绪日记
+2024-02-21 23:06:29: Close Modified Folder (mod-time, acl): /daily
+2024-02-21 23:06:30: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/🏡 StartPage.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/🏡 StartPage.md' (16,282)
+2024-02-21 23:06:30: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/components/彩色时钟.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/components/彩色时钟.md' (151)
+2024-02-21 23:06:31: Close Modified Folder (mod-time, acl): /Setting/components
+2024-02-21 23:06:31: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-21 23:06:32: 保持文件状态 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/_gsdata_/_file_state_v4._gs
+2024-02-21 23:06:34: == 同步完成. 历时: 00:00:23, 速度: 1.55 KB/s, 完成: 5, 错误: 0

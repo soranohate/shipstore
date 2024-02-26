@@ -1,0 +1,55 @@
+2024-02-21 14:10:41: -- 分析开始 Periodic Timer
+2024-02-21 14:10:41: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-21 14:10:41: 右侧: 正在读取文件状态 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/_gsdata_/_file_state_v4._gs
+2024-02-21 14:10:41: 变更：29， 冲突：0， 复制时间：0， 复制状态：1， 错误： 0, All: 672
+2024-02-21 14:10:41: Left to Right: Copy File: 20 Delete File: 9 
+2024-02-21 14:10:41: == 同步开始由 Periodic Timer
+2024-02-21 14:10:41: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-21 14:10:41: ConnectCloned connected to file:///Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy
+2024-02-21 14:10:41: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-21 14:10:41: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-21 14:10:41: ConnectCloned connected to file:///Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy
+2024-02-21 14:10:41: ConnectCloned connected to file:///Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy
+2024-02-21 14:10:41: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/app.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/app.json' (206)
+2024-02-21 14:10:41: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/appearance.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/appearance.json' (755)
+2024-02-21 14:10:41: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/bookmarks.json' (3,412)
+2024-02-21 14:10:41: 删除文件 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/Setting/components/script/fetchhomepage.js
+2024-02-21 14:10:41: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/community-plugins.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/community-plugins.json' (588)
+2024-02-21 14:10:41: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/core-plugins-migration.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/core-plugins-migration.json' (637)
+2024-02-21 14:10:41: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/core-plugins.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/core-plugins.json' (295)
+2024-02-21 14:10:41: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/graph.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/graph.json' (511)
+2024-02-21 14:10:41: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/workspace.json' (8,076)
+2024-02-21 14:10:41: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/calendar/data.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/plugins/calendar/data.json' (231)
+2024-02-21 14:10:41: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-admonition/data.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/plugins/obsidian-admonition/data.json' (1,705)
+2024-02-21 14:10:41: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-hover-editor/data.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/plugins/obsidian-hover-editor/data.json' (284)
+2024-02-21 14:10:41: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-hover-editor/main.js' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/plugins/obsidian-hover-editor/main.js' (179,464)
+2024-02-21 14:10:41: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-hover-editor/manifest.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/plugins/obsidian-hover-editor/manifest.json' (319)
+2024-02-21 14:10:41: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-hover-editor/styles.css' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/plugins/obsidian-hover-editor/styles.css' (15,381)
+2024-02-21 14:10:41: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-hider/data.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/plugins/obsidian-hider/data.json' (321)
+2024-02-21 14:10:41: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-minimal-settings/data.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/plugins/obsidian-minimal-settings/data.json' (934)
+2024-02-21 14:10:41: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/quickadd/data.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/plugins/quickadd/data.json' (5,675)
+2024-02-21 14:10:41: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/recent-files-obsidian/data.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/plugins/recent-files-obsidian/data.json' (5,704)
+2024-02-21 14:10:41: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/table-editor-obsidian/data.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/plugins/table-editor-obsidian/data.json' (95)
+2024-02-21 14:10:41: 删除文件 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/plugins/workspaces-plus/app.json.bak
+2024-02-21 14:10:41: 删除文件 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/plugins/workspaces-plus/appearance.json.bak
+2024-02-21 14:10:41: 删除文件 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/plugins/workspaces-plus/data.json
+2024-02-21 14:10:41: 删除文件 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/plugins/workspaces-plus/main.js
+2024-02-21 14:10:41: 删除文件 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/plugins/workspaces-plus/manifest.json
+2024-02-21 14:10:41: 删除文件 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/plugins/workspaces-plus/styles.css
+2024-02-21 14:10:41: 删除文件 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/plugins/workspaces-plus/workspaces.json.bak
+2024-02-21 14:10:41: Close Modified Folder (mod-time, acl): /Setting/components/script
+2024-02-21 14:10:41: Close Modified Folder (mod-time, acl): /.obsidian/plugins/calendar
+2024-02-21 14:10:41: Close Modified Folder (mod-time, acl): /.obsidian/plugins/obsidian-admonition
+2024-02-21 14:10:41: Close Modified Folder (mod-time, acl): /.obsidian/plugins/obsidian-hover-editor
+2024-02-21 14:10:41: Close Modified Folder (mod-time, acl): /.obsidian/plugins/obsidian-hider
+2024-02-21 14:10:41: Close Modified Folder (mod-time, acl): /.obsidian/plugins/obsidian-minimal-settings
+2024-02-21 14:10:41: Close Modified Folder (mod-time, acl): /.obsidian/plugins/quickadd
+2024-02-21 14:10:41: Close Modified Folder (mod-time, acl): /.obsidian/plugins/recent-files-obsidian
+2024-02-21 14:10:41: Close Modified Folder (mod-time, acl): /.obsidian/plugins/table-editor-obsidian
+2024-02-21 14:10:41: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspaces.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/workspaces.json' (6,642)
+2024-02-21 14:10:41: 删除文件夹 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/plugins/workspaces-plus
+2024-02-21 14:10:41: Close Modified Folder (mod-time, acl): /.obsidian/plugins
+2024-02-21 14:10:41: Close Modified Folder (mod-time, acl): /.obsidian
+2024-02-21 14:10:41: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-21 14:10:41: 保持文件状态 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/_gsdata_/_file_state_v4._gs
+2024-02-21 14:10:41: == 同步完成. 历时: 00:00:00, 速度: 0.00/s, 完成: 30, 错误: 0

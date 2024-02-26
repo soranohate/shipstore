@@ -1,0 +1,13 @@
+2024-02-11 03:37:13: >> Resolved stor-dca1.storage to stor-dca1.goodsync.com:443-:443
+2024-02-11 03:37:14: REMOTE C:103.238.130.133(198.18.0.1) -> S:stor-dca1.goodsync.com:443
+2024-02-11 03:37:16: -- 分析开始 Analyze And Sync All Command
+2024-02-11 03:37:16: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-11 03:37:18: 右侧: 正在读取文件状态 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/_gsdata_/_file_state_v4._gs
+2024-02-11 03:37:20: 变更：1， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 468
+2024-02-11 03:37:20: Left to Right: Copy File: 1 
+2024-02-11 03:37:20: == 同步开始由 Analyze And Sync All Command
+2024-02-11 03:37:20: Start only 1 threads, limited by tasks to run
+2024-02-11 03:37:23: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/🏡 StartPage.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/🏡 StartPage.md' (20,645)
+2024-02-11 03:37:23: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-11 03:37:24: 保持文件状态 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/_gsdata_/_file_state_v4._gs
+2024-02-11 03:37:26: == 同步完成. 历时: 00:00:14, 速度: 1.72 KB/s, 完成: 1, 错误: 0

@@ -1,0 +1,37 @@
+2024-02-12 01:26:08: -- 分析开始 Periodic Timer
+2024-02-12 01:26:08: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-12 01:26:08: 右侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-12 01:26:08: 变更：14， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 601
+2024-02-12 01:26:08: Left to Right: Copy File: 9 Delete File: 3 Rename/Move File/Folder: 2 
+2024-02-12 01:26:08: == 同步开始由 Periodic Timer
+2024-02-12 01:26:08: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-12 01:26:08: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-12 01:26:08: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-12 01:26:08: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-12 01:26:08: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-12 01:26:08: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-12 01:26:08: /Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json: Source file has changed between Analyze and Sync from '[file] size=3,412 accu-time=2024-02-12 01:15:58 attr=Hidden644 cktype=0' to 'size=3,412 time=2024-02-12 01:26:08', noted in source file state
+2024-02-12 01:26:08: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/bookmarks.json' (3,412)
+2024-02-12 01:26:08: 删除文件夹 /Users/IntoSoranohate/个人仓库/backup/Setting/Files/词典
+2024-02-12 01:26:08: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-linter/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/obsidian-linter/data.json' (10,325)
+2024-02-12 01:26:08: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/recent-files-obsidian/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/recent-files-obsidian/data.json' (6,937)
+2024-02-12 01:26:08: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/workspace.json' (9,789)
+2024-02-12 01:26:08: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/日记/2024-02-11_周日.md' -> '/Users/IntoSoranohate/个人仓库/backup/日记/2024-02-11_周日.md' (1,697)
+2024-02-12 01:26:08: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/CardBox.md' -> '/Users/IntoSoranohate/个人仓库/backup/闪念笔记/CardBox.md' (185)
+2024-02-12 01:26:08: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/卡片盒/毛姆的「写作建议」.md' -> '/Users/IntoSoranohate/个人仓库/backup/闪念笔记/卡片盒/毛姆的「写作建议」.md' (4,368)
+2024-02-12 01:26:08: 删除文件 /Users/IntoSoranohate/个人仓库/backup/闪念笔记/摘抄/毛姆的「写作建议」.md
+2024-02-12 01:26:08: 移动文件 /Users/IntoSoranohate/个人仓库/backup/闪念笔记/真诚就是“不欺”，能够“全身心投入行动”“不遗余力”……这意味着，既不浪费一丝力量，也不保留一丝力量，真实不虚。一个人能这样生活，他….md -> /Users/IntoSoranohate/个人仓库/backup/闪念笔记/摘抄/真诚就是“不欺”，能够“全身心投入行动”“不遗余力”……这意味着，既不浪费一丝力量，也不保留一丝力量，真实不虚。一个人能这样生活，他….md
+2024-02-12 01:26:08: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/摘抄/焦虑与拖延.md' -> '/Users/IntoSoranohate/个人仓库/backup/闪念笔记/摘抄/焦虑与拖延.md' (109)
+2024-02-12 01:26:08: 删除文件 /Users/IntoSoranohate/个人仓库/backup/闪念笔记/卡片盒/焦虑与拖延.md
+2024-02-12 01:26:08: Close Modified Folder (mod-time, acl): /Setting/Files
+2024-02-12 01:26:08: Close Modified Folder (mod-time, acl): /.obsidian/plugins/obsidian-linter
+2024-02-12 01:26:08: Close Modified Folder (mod-time, acl): /.obsidian/plugins/recent-files-obsidian
+2024-02-12 01:26:08: Close Modified Folder (mod-time, acl): /闪念笔记/摘抄
+2024-02-12 01:26:08: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/日记/2024-02-12_周一.md' -> '/Users/IntoSoranohate/个人仓库/backup/日记/2024-02-12_周一.md' (1,306)
+2024-02-12 01:26:08: Close Modified Folder (mod-time, acl): /闪念笔记/卡片盒
+2024-02-12 01:26:08: Close Modified Folder (mod-time, acl): /日记
+2024-02-12 01:26:08: Close Modified Folder (mod-time, acl): /闪念笔记
+2024-02-12 01:26:08: Close Modified Folder (mod-time, acl): /.obsidian
+2024-02-12 01:26:08: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-12 01:26:08: 保持文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-12 01:26:08: == 同步完成. 历时: 00:00:00, 速度: 0.00/s, 完成: 14, 错误: 0

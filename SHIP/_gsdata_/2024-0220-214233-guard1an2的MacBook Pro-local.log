@@ -1,0 +1,32 @@
+2024-02-20 21:42:33: -- 分析开始 Periodic Timer
+2024-02-20 21:42:33: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-20 21:42:33: 右侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-20 21:42:33: 变更：13， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 643
+2024-02-20 21:42:33: Left to Right: Copy File: 4 Delete File: 9 
+2024-02-20 21:42:33: == 同步开始由 Periodic Timer
+2024-02-20 21:42:33: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-20 21:42:33: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-20 21:42:33: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-20 21:42:33: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-20 21:42:33: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-20 21:42:33: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-20 21:42:33: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/bookmarks.json' (3,412)
+2024-02-20 21:42:33: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/Project/中国风角色(主角)设计.md' -> '/Users/IntoSoranohate/个人仓库/backup/Project/中国风角色(主角)设计.md' (1,291)
+2024-02-20 21:42:33: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/workspace.json' (8,835)
+2024-02-20 21:42:33: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/recent-files-obsidian/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/recent-files-obsidian/data.json' (5,707)
+2024-02-20 21:42:33: Close Modified Folder (mod-time, acl): /Project
+2024-02-20 21:42:33: 删除文件 /Users/IntoSoranohate/个人仓库/backup/Setting/Files/Notability 笔记.pdf
+2024-02-20 21:42:33: 删除文件 /Users/IntoSoranohate/个人仓库/backup/Setting/Files/备注  2021年7月1日.pdf
+2024-02-20 21:42:33: 删除文件 /Users/IntoSoranohate/个人仓库/backup/Setting/Files/备注 2021年3月24日.pdf
+2024-02-20 21:42:33: 删除文件 /Users/IntoSoranohate/个人仓库/backup/Setting/Files/备注 2021年3月25日.pdf
+2024-02-20 21:42:33: 删除文件 /Users/IntoSoranohate/个人仓库/backup/Setting/Files/备注 2021年4月15日.pdf
+2024-02-20 21:42:33: 删除文件 /Users/IntoSoranohate/个人仓库/backup/Setting/Files/备注 2021年5月15日.pdf
+2024-02-20 21:42:33: 删除文件 /Users/IntoSoranohate/个人仓库/backup/Setting/Files/备注 2021年5月17日 1.pdf
+2024-02-20 21:42:33: 删除文件 /Users/IntoSoranohate/个人仓库/backup/Setting/Files/备注 2021年5月17日.pdf
+2024-02-20 21:42:33: Close Modified Folder (mod-time, acl): /.obsidian/plugins/recent-files-obsidian
+2024-02-20 21:42:33: 删除文件 /Users/IntoSoranohate/个人仓库/backup/Setting/Files/备注 2021年7月7日.pdf
+2024-02-20 21:42:33: Close Modified Folder (mod-time, acl): /Setting/Files
+2024-02-20 21:42:33: Close Modified Folder (mod-time, acl): /.obsidian
+2024-02-20 21:42:33: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-20 21:42:33: 保持文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-20 21:42:33: == 同步完成. 历时: 00:00:00, 速度: 0.00/s, 完成: 13, 错误: 0

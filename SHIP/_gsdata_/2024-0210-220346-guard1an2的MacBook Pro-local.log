@@ -1,0 +1,24 @@
+2024-02-10 22:03:46: -- 分析开始 Periodic Timer
+2024-02-10 22:03:46: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-10 22:03:46: 右侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-10 22:03:46: 变更：5， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 338
+2024-02-10 22:03:46: Left to Right: Copy File: 5 
+2024-02-10 22:03:46: == 同步开始由 Periodic Timer
+2024-02-10 22:03:46: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-10 22:03:46: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-10 22:03:46: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-10 22:03:46: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-10 22:03:46: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-10 22:03:46: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-10 22:03:46: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/bookmarks.json' (2,725)
+2024-02-10 22:03:46: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/日记/2024-02-10_周六.md' -> '/Users/IntoSoranohate/个人仓库/backup/日记/2024-02-10_周六.md' (1,424)
+2024-02-10 22:03:46: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/workspace.json' (7,461)
+2024-02-10 22:03:46: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-linter/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/obsidian-linter/data.json' (10,244)
+2024-02-10 22:03:46: Close Modified Folder (mod-time, acl): /日记
+2024-02-10 22:03:46: Close Modified Folder (mod-time, acl): /.obsidian/plugins/obsidian-linter
+2024-02-10 22:03:46: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/recent-files-obsidian/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/recent-files-obsidian/data.json' (5,276)
+2024-02-10 22:03:47: Close Modified Folder (mod-time, acl): /.obsidian/plugins/recent-files-obsidian
+2024-02-10 22:03:47: Close Modified Folder (mod-time, acl): /.obsidian
+2024-02-10 22:03:47: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-10 22:03:47: 保持文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-10 22:03:47: == 同步完成. 历时: 00:00:01, 速度: 0.00/s, 完成: 5, 错误: 0

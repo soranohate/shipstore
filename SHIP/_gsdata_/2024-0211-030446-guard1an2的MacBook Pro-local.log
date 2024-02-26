@@ -1,0 +1,47 @@
+2024-02-11 03:04:46: -- 分析开始 Periodic Timer
+2024-02-11 03:04:46: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-11 03:04:46: 右侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-11 03:04:46: 变更：23， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 472
+2024-02-11 03:04:46: Left to Right: Copy File: 23 
+2024-02-11 03:04:46: == 同步开始由 Periodic Timer
+2024-02-11 03:04:46: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 03:04:46: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 03:04:46: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-11 03:04:46: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-11 03:04:46: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 03:04:46: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-11 03:04:46: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/🏡 StartPage.md' -> '/Users/IntoSoranohate/个人仓库/backup/🏡 StartPage.md' (20,645)
+2024-02-11 03:04:46: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/app.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/app.json' (206)
+2024-02-11 03:04:46: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/appearance.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/appearance.json' (654)
+2024-02-11 03:04:46: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/bookmarks.json' (2,725)
+2024-02-11 03:04:46: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/community-plugins.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/community-plugins.json' (513)
+2024-02-11 03:04:46: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/core-plugins-migration.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/core-plugins-migration.json' (639)
+2024-02-11 03:04:46: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/core-plugins.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/core-plugins.json' (258)
+2024-02-11 03:04:46: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/graph.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/graph.json' (511)
+2024-02-11 03:04:46: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/workspace.json' (7,385)
+2024-02-11 03:04:46: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/calendar/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/calendar/data.json' (231)
+2024-02-11 03:04:46: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-admonition/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/obsidian-admonition/data.json' (1,705)
+2024-02-11 03:04:46: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-hider/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/obsidian-hider/data.json' (327)
+2024-02-11 03:04:46: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-minimal-settings/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/obsidian-minimal-settings/data.json' (934)
+2024-02-11 03:04:46: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/recent-files-obsidian/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/recent-files-obsidian/data.json' (4,637)
+2024-02-11 03:04:46: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/table-editor-obsidian/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/table-editor-obsidian/data.json' (95)
+2024-02-11 03:04:46: 创建文件夹 /Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/workspaces-plus
+2024-02-11 03:04:46: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspaces.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/workspaces.json' (6,461)
+2024-02-11 03:04:46: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/workspaces-plus/app.json.bak' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/workspaces-plus/app.json.bak' (206)
+2024-02-11 03:04:46: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/workspaces-plus/appearance.json.bak' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/workspaces-plus/appearance.json.bak' (654)
+2024-02-11 03:04:46: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/workspaces-plus/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/workspaces-plus/data.json' (1,293)
+2024-02-11 03:04:46: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/workspaces-plus/main.js' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/workspaces-plus/main.js' (183,830)
+2024-02-11 03:04:46: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/workspaces-plus/manifest.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/workspaces-plus/manifest.json' (285)
+2024-02-11 03:04:46: Close Modified Folder (mod-time, acl): /.obsidian/plugins/calendar
+2024-02-11 03:04:46: Close Modified Folder (mod-time, acl): /.obsidian/plugins/obsidian-admonition
+2024-02-11 03:04:46: Close Modified Folder (mod-time, acl): /.obsidian/plugins/obsidian-hider
+2024-02-11 03:04:46: Close Modified Folder (mod-time, acl): /.obsidian/plugins/obsidian-minimal-settings
+2024-02-11 03:04:46: Close Modified Folder (mod-time, acl): /.obsidian/plugins/recent-files-obsidian
+2024-02-11 03:04:46: Close Modified Folder (mod-time, acl): /.obsidian/plugins/table-editor-obsidian
+2024-02-11 03:04:46: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/workspaces-plus/styles.css' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/workspaces-plus/styles.css' (5,587)
+2024-02-11 03:04:46: Close Modified Folder (mod-time, acl): /.obsidian/plugins/workspaces-plus
+2024-02-11 03:04:46: Close Modified Folder (mod-time, acl): /.obsidian/plugins
+2024-02-11 03:04:46: Close Modified Folder (mod-time, acl): /.obsidian
+2024-02-11 03:04:46: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-11 03:04:46: 保持文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-11 03:04:46: == 同步完成. 历时: 00:00:00, 速度: 0.00/s, 完成: 23, 错误: 0

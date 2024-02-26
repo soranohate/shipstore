@@ -1,0 +1,48 @@
+2024-02-22 11:03:51: -- 分析开始 Periodic Timer
+2024-02-22 11:03:51: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-22 11:03:51: 右侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-22 11:03:51: 变更：29， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 714
+2024-02-22 11:03:51: Left to Right: Copy File: 29 
+2024-02-22 11:03:51: == 同步开始由 Periodic Timer
+2024-02-22 11:03:51: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-22 11:03:51: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-22 11:03:51: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-22 11:03:51: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-22 11:03:51: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-22 11:03:51: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-22 11:03:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/bookmarks.json' (3,411)
+2024-02-22 11:03:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/Notes/20230628复盘.md' -> '/Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/20230628复盘.md' (4,545)
+2024-02-22 11:03:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/hidden-folder-obsidian/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/hidden-folder-obsidian/data.json' (45)
+2024-02-22 11:03:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/recent-files-obsidian/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/recent-files-obsidian/data.json' (6,863)
+2024-02-22 11:03:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/Notes/20230830复盘.md' -> '/Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/20230830复盘.md' (364)
+2024-02-22 11:03:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/Notes/20230907复盘.md' -> '/Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/20230907复盘.md' (415)
+2024-02-22 11:03:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/Notes/20230911复盘.md' -> '/Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/20230911复盘.md' (393)
+2024-02-22 11:03:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/Notes/20230913复盘.md' -> '/Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/20230913复盘.md' (339)
+2024-02-22 11:03:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/Notes/20230920复盘.md' -> '/Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/20230920复盘.md' (416)
+2024-02-22 11:03:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/Notes/20230922复盘.md' -> '/Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/20230922复盘.md' (466)
+2024-02-22 11:03:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/Notes/20230925复盘.md' -> '/Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/20230925复盘.md' (326)
+2024-02-22 11:03:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/Notes/20230927复盘.md' -> '/Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/20230927复盘.md' (523)
+2024-02-22 11:03:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/Notes/20231001复盘.md' -> '/Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/20231001复盘.md' (295)
+2024-02-22 11:03:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/Notes/20231008复盘.md' -> '/Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/20231008复盘.md' (522)
+2024-02-22 11:03:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/Notes/20231025复盘.md' -> '/Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/20231025复盘.md' (657)
+2024-02-22 11:03:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/Notes/20231028复盘.md' -> '/Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/20231028复盘.md' (1,649)
+2024-02-22 11:03:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/Notes/2024-02-10项目追踪复盘.md' -> '/Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/2024-02-10项目追踪复盘.md' (435)
+2024-02-22 11:03:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/Notes/20240220速写复盘.md' -> '/Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/20240220速写复盘.md' (355)
+2024-02-22 11:03:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/Notes/世界观复盘.md' -> '/Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/世界观复盘.md' (476)
+2024-02-22 11:03:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/Notes/动作设计复盘.md' -> '/Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/动作设计复盘.md' (476)
+2024-02-22 11:03:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/Notes/参考复盘.md' -> '/Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/参考复盘.md' (424)
+2024-02-22 11:03:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/Notes/工作总结复盘.md' -> '/Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/工作总结复盘.md' (1,146)
+2024-02-22 11:03:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/Notes/心态复盘.md' -> '/Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/心态复盘.md' (1,173)
+2024-02-22 11:03:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/Notes/效率复盘.md' -> '/Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/效率复盘.md' (229)
+2024-02-22 11:03:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/Notes/日常练习复盘.md' -> '/Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/日常练习复盘.md' (316)
+2024-02-22 11:03:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/Notes/深度工作复盘.md' -> '/Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/深度工作复盘.md' (1,208)
+2024-02-22 11:03:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/Notes/线稿图形复盘.md' -> '/Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/线稿图形复盘.md' (542)
+2024-02-22 11:03:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/Notes/线稿线条复盘.md' -> '/Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/线稿线条复盘.md' (1,138)
+2024-02-22 11:03:51: Close Modified Folder (mod-time, acl): /.obsidian/plugins/hidden-folder-obsidian
+2024-02-22 11:03:51: Close Modified Folder (mod-time, acl): /.obsidian/plugins/recent-files-obsidian
+2024-02-22 11:03:51: Close Modified Folder (mod-time, acl): /闪念笔记/Notes
+2024-02-22 11:03:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/workspace.json' (8,394)
+2024-02-22 11:03:51: Close Modified Folder (mod-time, acl): /.obsidian
+2024-02-22 11:03:51: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-22 11:03:51: 保持文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-22 11:03:51: == 同步完成. 历时: 00:00:00, 速度: 0.00/s, 完成: 29, 错误: 0

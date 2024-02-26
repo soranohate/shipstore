@@ -1,0 +1,135 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1707222380170,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1707491285793,
+          "path": "🏡 StartPage.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "group",
+          "ctime": 1707223466246,
+          "items": [],
+          "title": "daily"
+        },
+        {
+          "type": "group",
+          "ctime": 1707223466246,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1707234158104,
+              "items": [],
+              "title": "归档"
+            },
+            {
+              "type": "file",
+              "ctime": 1707234158104,
+              "path": "Project/IDEA 备忘.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1707234158104,
+              "path": "Project/整理笔记.md",
+              "subpath": "#^-"
+            }
+          ],
+          "title": "Project"
+        },
+        {
+          "type": "group",
+          "ctime": 1707223466246,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1707633113778,
+              "path": "闪念笔记/CardBox.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "group",
+              "ctime": 1707630851066,
+              "items": [],
+              "title": "卡片盒"
+            },
+            {
+              "type": "group",
+              "ctime": 1707630851066,
+              "items": [],
+              "title": "摘抄"
+            },
+            {
+              "type": "group",
+              "ctime": 1707630851066,
+              "items": [],
+              "title": "Notes"
+            },
+            {
+              "type": "group",
+              "ctime": 1707630851066,
+              "items": [],
+              "title": "personal"
+            }
+          ],
+          "title": "闪念笔记"
+        },
+        {
+          "type": "group",
+          "ctime": 1707223466246,
+          "items": [],
+          "title": "文献笔记"
+        },
+        {
+          "type": "group",
+          "ctime": 1707223466246,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1707223563925,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1707223579558,
+                  "path": "永久笔记/ART/概念设计.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1707223579558,
+                  "items": [],
+                  "title": "设计原理"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1707398947393,
+                  "path": "永久笔记/ART/绘画练习.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1707398947393,
+                  "items": [],
+                  "title": "基础练习"
+                }
+              ],
+              "title": "ART"
+            }
+          ],
+          "title": "永久笔记"
+        },
+        {
+          "type": "group",
+          "ctime": 1707223466246,
+          "items": [],
+          "title": "Setting"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}

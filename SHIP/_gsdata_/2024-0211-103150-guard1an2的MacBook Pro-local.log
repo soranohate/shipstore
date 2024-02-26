@@ -1,0 +1,27 @@
+2024-02-11 10:31:50: -- 分析开始 Periodic Timer
+2024-02-11 10:31:50: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-11 10:31:50: 右侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-11 10:31:50: 变更：8， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 481
+2024-02-11 10:31:50: Left to Right: Copy File: 8 
+2024-02-11 10:31:50: == 同步开始由 Periodic Timer
+2024-02-11 10:31:50: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 10:31:50: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 10:31:50: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-11 10:31:50: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 10:31:50: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-11 10:31:50: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-11 10:31:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/bookmarks.json' (2,725)
+2024-02-11 10:31:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/community-plugins.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/community-plugins.json' (541)
+2024-02-11 10:31:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/hotkeys.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/hotkeys.json' (1,060)
+2024-02-11 10:31:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/workspace.json' (8,155)
+2024-02-11 10:31:51: 创建文件夹 /Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/obsidian-footnotes
+2024-02-11 10:31:51: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-footnotes/main.js' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/obsidian-footnotes/main.js' (97,160)
+2024-02-11 10:31:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-linter/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/obsidian-linter/data.json' (10,242)
+2024-02-11 10:31:51: Close Modified Folder (mod-time, acl): /.obsidian/plugins/obsidian-linter
+2024-02-11 10:31:51: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-footnotes/manifest.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/obsidian-footnotes/manifest.json' (321)
+2024-02-11 10:31:51: Close Modified Folder (mod-time, acl): /.obsidian/plugins/obsidian-footnotes
+2024-02-11 10:31:51: Close Modified Folder (mod-time, acl): /.obsidian/plugins
+2024-02-11 10:31:51: Close Modified Folder (mod-time, acl): /.obsidian
+2024-02-11 10:31:51: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-11 10:31:51: 保持文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-11 10:31:51: == 同步完成. 历时: 00:00:01, 速度: 0.00/s, 完成: 8, 错误: 0

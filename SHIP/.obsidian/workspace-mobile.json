@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "c347cbf502edf58c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2664fb1a6a00aa88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "415da9c0b7f8a1c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GTD/日记/2024-02-05.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "437d4e2afda5fd58",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8913ced41afc8e77",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "89375ea2f992ff0b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "735cb20f10fc8580",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "b7147c7344bcbfb9",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "0f8cbef781ee26d5",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "9541210685e49421",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "52221419966a60f1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "GTD/日记/2024-02-05.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4f98a5f8ccdc62e3",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "GTD/日记/2024-02-05.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "2c29c935c87a0dc8",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "GTD/日记/2024-02-05.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "8913ced41afc8e77",
+  "lastOpenFiles": [
+    "GTD/阅读清单/日记模版.md",
+    "Files/Pasted Graphic 5.png",
+    "Files/Pasted Graphic 4 1.png",
+    "Files/Pasted Graphic 6 1.png",
+    "Files/Pasted Graphic 13.png",
+    "Files/Pasted Graphic 1 2.png",
+    "Files/Pasted Graphic 9.png",
+    "Files/Pasted Graphic 8.png",
+    "Files/Pasted Graphic 6.png",
+    "Files/备注  2021年7月1日.pdf",
+    "GTD/日记/20230826.md",
+    "Files/备注 2021年5月17日 1.pdf",
+    "Files/Pasted Graphic 3.png",
+    "Files/Pasted Graphic 4 2.png",
+    "GTD/阅读清单",
+    "Files/备注 2021年7月7日.pdf",
+    "Files/Notability 笔记.pdf",
+    "Files/备注 2021年4月15日.pdf",
+    "Files/备注 2021年5月15日.pdf",
+    "Files/备注 2021年3月25日.pdf",
+    "Files/备注 2021年5月17日.pdf",
+    "Files/备注 2021年3月24日.pdf",
+    "IDEA/IDEA 备忘.md",
+    "GTD/日记/20230802日记.md",
+    "GTD/日记/2024-02-05.md",
+    "随笔/IDEA 备忘.md",
+    "2024-02-05.md",
+    "GTD/复盘总结/工作 1.md",
+    "随笔/江湖 武侠 1.md",
+    "Notes/摘抄/Into-soranohate.md",
+    "Notes/摘抄/昨天给朋友讲的插画手法总结： 2.md",
+    "Notes/信息存档/cleaner-uninstaller 2.md",
+    "GTD/日记/2021短暂日记备份 2.md",
+    "GTD/日记/20230802日记 2.md",
+    "GTD/计划&日记&复盘.md",
+    "GTD/日记/www.baidu.com.md",
+    "GTD/复盘总结/20231028(重要).md",
+    "GTD/复盘总结/20231008.md",
+    "GTD/复盘总结/动作设计.md",
+    "GTD/复盘总结/工作.md",
+    "GTD/复盘总结/工作总结.md",
+    "GTD/复盘总结/20230925.md",
+    "GTD/复盘总结/20230911.md",
+    "GTD/复盘总结/20230814.md",
+    "GTD/复盘总结/20230830.md",
+    "GTD/复盘总结/深度工作.md"
+  ]
+}

@@ -1,0 +1,34 @@
+2024-02-11 15:10:39: -- 分析开始 Periodic Timer
+2024-02-11 15:10:39: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-11 15:10:39: 右侧: 正在读取文件状态 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/_gsdata_/_file_state_v4._gs
+2024-02-11 15:10:39: 变更：12， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 584
+2024-02-11 15:10:39: Left to Right: Copy File: 10 Delete File: 2 
+2024-02-11 15:10:39: == 同步开始由 Periodic Timer
+2024-02-11 15:10:39: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 15:10:39: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 15:10:39: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 15:10:39: ConnectCloned connected to file:///Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy
+2024-02-11 15:10:39: ConnectCloned connected to file:///Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy
+2024-02-11 15:10:39: ConnectCloned connected to file:///Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy
+2024-02-11 15:10:39: 删除文件夹 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/Inbox
+2024-02-11 15:10:39: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/bookmarks.json' (3,412)
+2024-02-11 15:10:39: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/workspace.json' (8,829)
+2024-02-11 15:10:39: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/custom-sort/data.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/plugins/custom-sort/data.json' (330)
+2024-02-11 15:10:39: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-tasks-plugin/data.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/plugins/obsidian-tasks-plugin/data.json' (1,652)
+2024-02-11 15:10:39: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/quickadd/data.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/plugins/quickadd/data.json' (3,217)
+2024-02-11 15:10:39: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/recent-files-obsidian/data.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/plugins/recent-files-obsidian/data.json' (5,162)
+2024-02-11 15:10:39: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspaces.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/workspaces.json' (7,043)
+2024-02-11 15:10:39: Close Modified Folder (mod-time, acl): /.obsidian/plugins/custom-sort
+2024-02-11 15:10:39: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/CardBox.md' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/闪念笔记/CardBox.md' (213)
+2024-02-11 15:10:39: Close Modified Folder (mod-time, acl): /.obsidian/plugins/obsidian-tasks-plugin
+2024-02-11 15:10:39: 删除文件 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/闪念笔记/卡片盒/CardBox.md
+2024-02-11 15:10:39: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/卡片盒/笔记的组织方式.md' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/闪念笔记/卡片盒/笔记的组织方式.md' (238)
+2024-02-11 15:10:39: Close Modified Folder (mod-time, acl): /.obsidian/plugins/quickadd
+2024-02-11 15:10:39: Close Modified Folder (mod-time, acl): /.obsidian/plugins/recent-files-obsidian
+2024-02-11 15:10:39: Close Modified Folder (mod-time, acl): /.obsidian
+2024-02-11 15:10:39: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/卡片盒/长青笔记.md' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/闪念笔记/卡片盒/长青笔记.md' (403)
+2024-02-11 15:10:39: Close Modified Folder (mod-time, acl): /闪念笔记/卡片盒
+2024-02-11 15:10:39: Close Modified Folder (mod-time, acl): /闪念笔记
+2024-02-11 15:10:39: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-11 15:10:39: 保持文件状态 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/_gsdata_/_file_state_v4._gs
+2024-02-11 15:10:39: == 同步完成. 历时: 00:00:00, 速度: 0.00/s, 完成: 12, 错误: 0

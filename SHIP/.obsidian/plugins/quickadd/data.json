@@ -1,0 +1,247 @@
+{
+  "choices": [
+    {
+      "id": "73a633f3-ea6e-48c2-b504-56a7a12a80ef",
+      "name": "🦄闪念笔记-卡片盒",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Setting/模板/template模板/卡片模板.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "闪念笔记/卡片盒"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "1ace469b-1934-4762-81ef-61b3aeb43ec2",
+      "name": "🌸情绪记录",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "daily/情绪日记/心情记录{{DATE:YYYY-MM-DD_ddd}}",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "Setting/模板/template模板/情绪模版.md"
+      },
+      "format": {
+        "enabled": true,
+        "format": "- 记录at{{DATE:Ahh:mm}}\n  - 引发事件\n    - unexpectedevents::{{VALUE:发生什么事了？}}\n  - 观念想法\n    - {{VALUE:现在你脑海中在想什么？}}\n  - 后果\n    - {{VALUE:现在感受到什么样的情绪？程度如何?}}\n  - 辩论和备选项\n    - {{VALUE:有其他的看法吗?}}\n  - 效果\n    - feelingnow::{{VALUE:现在的感受呢?}}\n想法总结:: \n"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "## CBT",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "bottom"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "8e13842d-d8b9-4ae7-b592-ebdec1d79724",
+      "name": "🕹切换视图",
+      "type": "Macro",
+      "command": true,
+      "macroId": "c538964d-5e36-477a-88c9-5fd98645ce12"
+    },
+    {
+      "id": "ee36a9c7-a9a3-492f-b2ec-3a372d4c2f7f",
+      "name": "💡Memos-Popover",
+      "type": "Macro",
+      "command": true,
+      "macroId": "e8cb1463-89a7-4352-a46a-c58861545710"
+    },
+    {
+      "id": "71ba4ba8-e16d-41c6-bff9-35a4e44dac12",
+      "name": "📪便笺",
+      "type": "Macro",
+      "command": true,
+      "macroId": "1e9b2ee5-0faf-46e5-96b0-16a9346d0cc5"
+    },
+    {
+      "id": "7e9f0570-5707-412b-a770-74ac475a0dbf",
+      "name": "♻️刷新主页",
+      "type": "Macro",
+      "command": true,
+      "macroId": "51349c02-5b9f-43ac-8fde-d231ba1b82bc"
+    }
+  ],
+  "macros": [
+    {
+      "name": "悬浮memos",
+      "id": "e8cb1463-89a7-4352-a46a-c58861545710",
+      "commands": [
+        {
+          "name": "Hover Editor: Open new Hover Editor",
+          "type": "Obsidian",
+          "id": "bd47ddf0-0f4b-4396-aef7-3e5ef5f42a27",
+          "commandId": "obsidian-hover-editor:open-new-popover"
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "0ca591e6-e011-4d7b-900b-1e3fe9288a5d",
+          "time": 500
+        },
+        {
+          "name": "Obsidian Memos: Open Memos",
+          "type": "Obsidian",
+          "id": "05aab4db-f37d-4079-99e7-715f0e75ff4e",
+          "commandId": "obsidian-memos:open-memos"
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "54c5c85b-3f15-4976-8a71-3273856aedaf",
+          "time": 500
+        },
+        {
+          "name": "Hover Editor: Restore active Hover Editor",
+          "type": "Obsidian",
+          "id": "bc807ef6-d8d7-432e-b4aa-de6c0f139932",
+          "commandId": "obsidian-hover-editor:restore-active-popover"
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "b3fb3075-e498-4e76-afbb-dca0777ce160",
+          "time": 300
+        },
+        {
+          "name": "将当前面板移动至新窗口",
+          "type": "Obsidian",
+          "id": "86f8e6cf-839e-437e-964b-ae45eeb2803b",
+          "commandId": "workspace:move-to-new-window"
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "c1ec3183-d109-4b65-942a-afd6bd36399e",
+          "time": 300
+        },
+        {
+          "name": "将当前窗口置顶",
+          "type": "Obsidian",
+          "id": "397b038e-0bf6-4c81-8d5e-674280200e48",
+          "commandId": "window:toggle-always-on-top"
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "homepage",
+      "id": "51349c02-5b9f-43ac-8fde-d231ba1b82bc",
+      "commands": [
+        {
+          "name": "refreshhomepage",
+          "type": "UserScript",
+          "id": "039ae54d-8c37-4f67-a7f1-fa4a692a46a2",
+          "path": "Setting/components/script/refreshhomepage.js",
+          "settings": {}
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "ec0fc940-8feb-40ee-8b1c-fafed4e194b6",
+          "time": 300
+        },
+        {
+          "name": "fetchhomepage",
+          "type": "UserScript",
+          "id": "00e85b2f-11ea-4ae1-bba2-b43e98728f0a",
+          "path": "Setting/components/script/fetchhomepage.js",
+          "settings": {}
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "5ad154e1-c9ee-41d1-93c3-b5c6e5a558a2",
+          "time": 300
+        },
+        {
+          "name": "Homepage: Open homepage",
+          "type": "Obsidian",
+          "id": "de8c66e7-428c-4c62-b07d-c1597871c6ee",
+          "commandId": "homepage:open-homepage"
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "生成notice",
+      "id": "1e9b2ee5-0faf-46e5-96b0-16a9346d0cc5",
+      "commands": [
+        {
+          "name": "notice",
+          "type": "UserScript",
+          "id": "29c7bfd3-0cbe-4916-bbf8-91c7e0d3d767",
+          "path": "Setting/components/script/notice.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "切换视图",
+      "id": "c538964d-5e36-477a-88c9-5fd98645ce12",
+      "commands": [
+        {
+          "name": "SwitchViews",
+          "type": "UserScript",
+          "id": "0b662764-7387-453b-99c8-a382ce550118",
+          "path": "Setting/components/script/SwitchViews.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "Setting/模板/template模板",
+  "announceUpdates": true,
+  "version": "1.6.1",
+  "disableOnlineFeatures": true,
+  "ai": {
+    "OpenAIApiKey": "",
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}

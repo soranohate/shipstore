@@ -1,0 +1,28 @@
+2024-02-20 11:08:52: -- 分析开始 Periodic Timer
+2024-02-20 11:08:52: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-20 11:08:56: 右侧: 正在读取文件状态 gdrive://www.googleapis.com/shipy/_gsdata_/_file_state_v4._gs
+2024-02-20 11:08:58: 变更：11， 冲突：0， 复制时间：0， 复制状态：2， 错误： 0, All: 634
+2024-02-20 11:08:58: Left to Right: Copy File: 11 
+2024-02-20 11:08:58: == 同步开始由 Periodic Timer
+2024-02-20 11:08:58: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-20 11:08:58: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-20 11:08:58: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-20 11:08:59: GsConnectAndSetRoot1 connected to gdrive://www.googleapis.com/shipy
+2024-02-20 11:08:59: GsConnectAndSetRoot1 connected to gdrive://www.googleapis.com/shipy
+2024-02-20 11:09:00: GsConnectAndSetRoot1 connected to gdrive://www.googleapis.com/shipy
+2024-02-20 11:09:05: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/canvas.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/canvas.json' (115)
+2024-02-20 11:09:05: /Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json: Source file has changed between Analyze and Sync from '[file] size=3,412 accu-time=2024-02-20 11:08:43 attr=Hidden644 cktype=0' to 'size=3,412 time=2024-02-20 11:08:53', noted in source file state
+2024-02-20 11:09:05: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/bookmarks.json' (3,412)
+2024-02-20 11:09:07: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted image 20240220095229.png' -> 'gdrive://www.googleapis.com/shipy/Setting/Files/Pasted image 20240220095229.png' (665,045)
+2024-02-20 11:09:10: /Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json: Source file has changed between Analyze and Sync from '[file] size=8,527 accu-time=2024-02-20 11:08:43 attr=Hidden644 cktype=0' to 'size=8,527 time=2024-02-20 11:08:53', noted in source file state
+2024-02-20 11:09:10: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/workspace.json' (8,527)
+2024-02-20 11:09:14: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/Notes/20240220速写复盘.md' -> 'gdrive://www.googleapis.com/shipy/闪念笔记/Notes/20240220速写复盘.md' (139)
+2024-02-20 11:09:14: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/quickadd/data.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/plugins/quickadd/data.json' (4,600)
+2024-02-20 11:09:15: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/recent-files-obsidian/data.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/plugins/recent-files-obsidian/data.json' (5,168)
+2024-02-20 11:09:19: 创建文件夹 gdrive://www.googleapis.com/shipy/永久笔记/CANVAS
+2024-02-20 11:09:20: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/永久笔记/ART/绘画练习.md' -> 'gdrive://www.googleapis.com/shipy/永久笔记/ART/绘画练习.md' (482)
+2024-02-20 11:09:21: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/永久笔记/ART/基础练习/速写.md' -> 'gdrive://www.googleapis.com/shipy/永久笔记/ART/基础练习/速写.md' (380)
+2024-02-20 11:09:23: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/永久笔记/CANVAS/ART.canvas' -> 'gdrive://www.googleapis.com/shipy/永久笔记/CANVAS/ART.canvas' (5,613)
+2024-02-20 11:09:23: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-20 11:09:25: 保持文件状态 gdrive://www.googleapis.com/shipy/_gsdata_/_file_state_v4._gs
+2024-02-20 11:09:27: == 同步完成. 历时: 00:00:36, 速度: 21.99 KB/s, 完成: 13, 错误: 0

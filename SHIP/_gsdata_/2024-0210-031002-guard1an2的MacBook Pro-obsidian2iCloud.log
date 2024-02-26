@@ -1,0 +1,13 @@
+2024-02-10 03:11:01: == 同步开始由 User Command
+2024-02-10 03:11:13: File Systems limited number of parallel threads to 0
+2024-02-10 03:11:17: Cannot get file info after Sync: SSL Library already initialized
+2024-02-10 03:11:17: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/app.json' -> 'icloud://www.icloud.com/Obsidian/Shipy/.obsidian/app.json' (206)
+- 错误: Cannot get file info after Sync: SSL Library already initialized
+2024-02-10 03:11:21: Cannot get file info after Sync: SSL Library already initialized
+2024-02-10 03:11:21: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/appearance.json' -> 'icloud://www.icloud.com/Obsidian/Shipy/.obsidian/appearance.json' (385)
+- 错误: Cannot get file info after Sync: SSL Library already initialized
+2024-02-10 03:11:24: Stop requested by User Request: #1
+2024-02-10 03:11:25: Cannot get file info after Sync: stopped by User Request
+2024-02-10 03:11:25: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> 'icloud://www.icloud.com/Obsidian/Shipy/.obsidian/bookmarks.json' (2,725)
+- 错误: Cannot get file info after Sync: stopped by User Request
+2024-02-10 03:11:27: stopped by User Request

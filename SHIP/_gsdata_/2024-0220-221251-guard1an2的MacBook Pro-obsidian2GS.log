@@ -1,0 +1,44 @@
+2024-02-20 22:12:52: >> Resolved stor-dca1.storage to stor-dca1.goodsync.com:443-:443
+2024-02-20 22:12:53: REMOTE C:103.238.130.133(198.18.0.1) -> S:stor-dca1.goodsync.com:443
+2024-02-20 22:12:55: -- 分析开始 Periodic Timer
+2024-02-20 22:12:55: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-20 22:12:57: 右侧: 正在读取文件状态 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/_gsdata_/_file_state_v4._gs
+2024-02-20 22:12:59: 变更：19， 冲突：0， 复制时间：0， 复制状态：2， 错误： 0, All: 638
+2024-02-20 22:12:59: Left to Right: Copy File: 9 Delete File: 10 
+2024-02-20 22:12:59: == 同步开始由 Periodic Timer
+2024-02-20 22:12:59: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-20 22:12:59: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-20 22:12:59: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-20 22:13:00: REMOTE C:103.238.130.133(198.18.0.1) -> S:stor-dca1.goodsync.com:443
+2024-02-20 22:13:00: REMOTE C:103.238.130.133(198.18.0.1) -> S:stor-dca1.goodsync.com:443
+2024-02-20 22:13:00: REMOTE C:103.238.130.133(198.18.0.1) -> S:stor-dca1.goodsync.com:443
+2024-02-20 22:13:01: ConnectCloned connected to gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y
+2024-02-20 22:13:01: ConnectCloned connected to gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y
+2024-02-20 22:13:01: ConnectCloned connected to gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y
+2024-02-20 22:13:03: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/IMG4558a342cf6591873f4116165e43952b2306d8843b9db020afd2f9cfa21700349177589f3db861eb202402 20.jpg' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/IMG4558a342cf6591873f4116165e43952b2306d8843b9db020afd2f9cfa21700349177589f3db861eb202402 20.jpg' (66,646)
+2024-02-20 22:13:05: 删除文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/模板/template模板/复盘Note模板.md
+2024-02-20 22:13:05: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/IMG4558a342cf659187d38fb2c6dddf476a5a3f6297ed35829fafd2f9cfa21700349177589f3db861eb202402 20.jpg' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/IMG4558a342cf659187d38fb2c6dddf476a5a3f6297ed35829fafd2f9cfa21700349177589f3db861eb202402 20.jpg' (89,974)
+2024-02-20 22:13:05: 删除文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Notability 笔记.pdf
+2024-02-20 22:13:07: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/模板/template模板/项目模板.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/模板/template模板/项目模板.md' (1,096)
+2024-02-20 22:13:10: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted image 20240220203309.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted image 20240220203309.png' (584,110)
+2024-02-20 22:13:10: 删除文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/备注  2021年7月1日.pdf
+2024-02-20 22:13:10: 删除文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/备注 2021年3月24日.pdf
+2024-02-20 22:13:10: 删除文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/备注 2021年3月25日.pdf
+2024-02-20 22:13:11: 删除文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/备注 2021年4月15日.pdf
+2024-02-20 22:13:11: 删除文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/备注 2021年5月15日.pdf
+2024-02-20 22:13:11: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted image 20240220205248.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted image 20240220205248.png' (644,514)
+2024-02-20 22:13:11: 删除文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/备注 2021年5月17日 1.pdf
+2024-02-20 22:13:11: 删除文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/备注 2021年5月17日.pdf
+2024-02-20 22:13:12: 删除文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/备注 2021年7月7日.pdf
+2024-02-20 22:13:13: Close Modified Folder (mod-time, acl): /Setting/模板/template模板
+2024-02-20 22:13:13: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted image 20240220210555.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted image 20240220210555.png' (353,414)
+2024-02-20 22:13:13: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Project/中国风角色(主角)设计.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Project/中国风角色(主角)设计.md' (1,291)
+2024-02-20 22:13:14: Close Modified Folder (mod-time, acl): /Setting/Files
+2024-02-20 22:13:15: Close Modified Folder (mod-time, acl): /Project
+2024-02-20 22:13:15: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/Notes/20240220速写复盘.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/闪念笔记/Notes/20240220速写复盘.md' (230)
+2024-02-20 22:13:15: Close Modified Folder (mod-time, acl): /闪念笔记/Notes
+2024-02-20 22:13:16: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/卡片盒/项目复盘四步方法.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/闪念笔记/卡片盒/项目复盘四步方法.md' (3,148)
+2024-02-20 22:13:16: Close Modified Folder (mod-time, acl): /闪念笔记/卡片盒
+2024-02-20 22:13:16: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-20 22:13:17: 保持文件状态 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/_gsdata_/_file_state_v4._gs
+2024-02-20 22:13:20: == 同步完成. 历时: 00:00:29, 速度: 71.07 KB/s, 完成: 21, 错误: 0

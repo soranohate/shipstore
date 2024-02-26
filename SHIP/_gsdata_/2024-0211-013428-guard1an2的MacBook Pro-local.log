@@ -1,0 +1,52 @@
+2024-02-11 01:34:28: -- 分析开始 Periodic Timer
+2024-02-11 01:34:28: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-11 01:34:28: 右侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-11 01:34:28: 变更：39， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 441
+2024-02-11 01:34:28: Left to Right: Copy File: 10 Delete File: 7 Rename/Move File/Folder: 22 
+2024-02-11 01:34:28: == 同步开始由 Periodic Timer
+2024-02-11 01:34:28: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 01:34:28: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 01:34:28: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-11 01:34:28: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 01:34:28: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-11 01:34:28: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-11 01:34:28: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/bookmarks.json' (2,725)
+2024-02-11 01:34:28: 删除文件 /Users/IntoSoranohate/个人仓库/backup/Setting/script/changeSticky.js
+2024-02-11 01:34:28: 删除文件 /Users/IntoSoranohate/个人仓库/backup/Setting/script/copy_canvas_node_text.js
+2024-02-11 01:34:28: 删除文件 /Users/IntoSoranohate/个人仓库/backup/Setting/script/copyChat.js
+2024-02-11 01:34:28: 删除文件 /Users/IntoSoranohate/个人仓库/backup/Setting/script/dv_getWordCloud.js
+2024-02-11 01:34:28: 删除文件 /Users/IntoSoranohate/个人仓库/backup/Setting/script/dv_getwordcoutView.js
+2024-02-11 01:34:28: 创建文件夹 /Users/IntoSoranohate/个人仓库/backup/Setting/组件
+2024-02-11 01:34:28: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/community-plugins.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/community-plugins.json' (506)
+2024-02-11 01:34:28: 创建文件夹 /Users/IntoSoranohate/个人仓库/backup/Setting/组件/ReactJS
+2024-02-11 01:34:28: 移动文件 /Users/IntoSoranohate/个人仓库/backup/Setting/ReactJS/ColorfulClock.md -> /Users/IntoSoranohate/个人仓库/backup/Setting/组件/ReactJS/ColorfulClock.md
+2024-02-11 01:34:28: 创建文件夹 /Users/IntoSoranohate/个人仓库/backup/Setting/组件/script
+2024-02-11 01:34:28: 移动文件 /Users/IntoSoranohate/个人仓库/backup/Setting/ReactJS/DigitalClock.md -> /Users/IntoSoranohate/个人仓库/backup/Setting/组件/ReactJS/DigitalClock.md
+2024-02-11 01:34:28: 移动文件 /Users/IntoSoranohate/个人仓库/backup/Setting/script/changeInlineToYaml.js -> /Users/IntoSoranohate/个人仓库/backup/Setting/组件/script/changeInlineToYaml.js
+2024-02-11 01:34:28: 移动文件 /Users/IntoSoranohate/个人仓库/backup/Setting/script/colorclock.js -> /Users/IntoSoranohate/个人仓库/backup/Setting/组件/script/colorclock.js
+2024-02-11 01:34:28: 移动文件 /Users/IntoSoranohate/个人仓库/backup/Setting/script/dv_project_tracking.js -> /Users/IntoSoranohate/个人仓库/backup/Setting/组件/script/dv_project_tracking.js
+2024-02-11 01:34:28: 移动文件 /Users/IntoSoranohate/个人仓库/backup/Setting/script/dv_weatherSvg.js -> /Users/IntoSoranohate/个人仓库/backup/Setting/组件/script/dv_weatherSvg.js
+2024-02-11 01:34:28: 移动文件 /Users/IntoSoranohate/个人仓库/backup/Setting/script/dv_weatherView.js -> /Users/IntoSoranohate/个人仓库/backup/Setting/组件/script/dv_weatherView.js
+2024-02-11 01:34:28: 移动文件 /Users/IntoSoranohate/个人仓库/backup/Setting/ReactJS/react_weather.md -> /Users/IntoSoranohate/个人仓库/backup/Setting/组件/ReactJS/react_weather.md
+2024-02-11 01:34:28: 移动文件 /Users/IntoSoranohate/个人仓库/backup/Setting/ReactJS/ReactJS.md -> /Users/IntoSoranohate/个人仓库/backup/Setting/组件/ReactJS/ReactJS.md
+2024-02-11 01:34:28: 移动文件 /Users/IntoSoranohate/个人仓库/backup/彩色时钟.md -> /Users/IntoSoranohate/个人仓库/backup/Setting/组件/彩色时钟.md
+2024-02-11 01:34:28: 移动文件 /Users/IntoSoranohate/个人仓库/backup/最近天气查询.md -> /Users/IntoSoranohate/个人仓库/backup/Setting/组件/最近天气查询.md
+2024-02-11 01:34:28: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/workspace.json' (7,285)
+2024-02-11 01:34:28: 创建文件夹 /Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/obsidian-react-components
+2024-02-11 01:34:28: > 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-react-components/main.js' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/obsidian-react-components/main.js' (12,249,290)
+2024-02-11 01:34:28: < 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-react-components/main.js' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/obsidian-react-components/main.js' (12,249,290)
+2024-02-11 01:34:28: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/recent-files-obsidian/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/recent-files-obsidian/data.json' (4,637)
+2024-02-11 01:34:28: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-react-components/manifest.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/obsidian-react-components/manifest.json' (370)
+2024-02-11 01:34:28: Close Modified Folder (mod-time, acl): /Setting/组件/script
+2024-02-11 01:34:28: 删除文件夹 /Users/IntoSoranohate/个人仓库/backup/Setting/script
+2024-02-11 01:34:28: Close Modified Folder (mod-time, acl): /Setting/组件/ReactJS
+2024-02-11 01:34:28: Close Modified Folder (mod-time, acl): /.obsidian/plugins/recent-files-obsidian
+2024-02-11 01:34:28: 删除文件夹 /Users/IntoSoranohate/个人仓库/backup/Setting/ReactJS
+2024-02-11 01:34:28: Close Modified Folder (mod-time, acl): /.obsidian/plugins/obsidian-react-components
+2024-02-11 01:34:28: Close Modified Folder (mod-time, acl): /Setting/组件
+2024-02-11 01:34:28: Close Modified Folder (mod-time, acl): /.obsidian/plugins
+2024-02-11 01:34:28: Close Modified Folder (mod-time, acl): /Setting
+2024-02-11 01:34:28: Close Modified Folder (mod-time, acl): /.obsidian
+2024-02-11 01:34:28: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-11 01:34:28: 保持文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-11 01:34:28: == 同步完成. 历时: 00:00:00, 速度: 0.00/s, 完成: 39, 错误: 0

@@ -1,0 +1,22 @@
+2024-02-10 03:08:39: == 同步开始由 User Command
+2024-02-10 03:08:47: File Systems limited number of parallel threads to 0
+2024-02-10 03:08:52: Cannot get file info after Sync: SSL Library already initialized
+2024-02-10 03:08:52: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/app.json' -> 'icloud://www.icloud.com/Obsidian/Shipy/.obsidian/app.json' (206)
+- 错误: Cannot get file info after Sync: SSL Library already initialized
+2024-02-10 03:08:56: Cannot get file info after Sync: SSL Library already initialized
+2024-02-10 03:08:56: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/appearance.json' -> 'icloud://www.icloud.com/Obsidian/Shipy/.obsidian/appearance.json' (385)
+- 错误: Cannot get file info after Sync: SSL Library already initialized
+2024-02-10 03:08:59: Cannot get file info after Sync: SSL Library already initialized
+2024-02-10 03:08:59: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> 'icloud://www.icloud.com/Obsidian/Shipy/.obsidian/bookmarks.json' (2,725)
+- 错误: Cannot get file info after Sync: SSL Library already initialized
+2024-02-10 03:09:03: Cannot get file info after Sync: SSL Library already initialized
+2024-02-10 03:09:03: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/community-plugins.json' -> 'icloud://www.icloud.com/Obsidian/Shipy/.obsidian/community-plugins.json' (421)
+- 错误: Cannot get file info after Sync: SSL Library already initialized
+2024-02-10 03:09:07: Cannot get file info after Sync: SSL Library already initialized
+2024-02-10 03:09:07: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/core-plugins-migration.json' -> 'icloud://www.icloud.com/Obsidian/Shipy/.obsidian/core-plugins-migration.json' (638)
+- 错误: Cannot get file info after Sync: SSL Library already initialized
+2024-02-10 03:09:09: Stop requested by User Request: #1
+2024-02-10 03:09:10: Cannot get file info after Sync: stopped by User Request
+2024-02-10 03:09:10: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/core-plugins.json' -> 'icloud://www.icloud.com/Obsidian/Shipy/.obsidian/core-plugins.json' (278)
+- 错误: Cannot get file info after Sync: stopped by User Request
+2024-02-10 03:09:13: stopped by User Request

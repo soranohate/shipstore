@@ -1,0 +1,27 @@
+{
+  "accentColor": "",
+  "cssTheme": "Blue Topaz",
+  "enabledCssSnippets": [
+    "【AD优化】admonitions",
+    "【项目管理】sharetype",
+    "【收件箱图标】收件箱icon",
+    "【边栏图标】sidepane",
+    "【进度颜色】colourful progress bar",
+    "【分栏支持】admonition-col2-col3-flex",
+    "【天气】weather",
+    "【自定义】彩色时钟样式",
+    "custom-admonitions.c9c6cb",
+    "【自定义】表格样式TableStyles",
+    "【特效】fireworks",
+    "【自定义】mytools 样式",
+    "【自定义】数字时钟",
+    "【日记时间轴】Time",
+    "滚动条美化",
+    "【卡片视图】zettelkasten",
+    "【Memos】Popover",
+    "MinimalCards",
+    "noprop"
+  ],
+  "theme": "moonstone",
+  "nativeMenus": true
+}

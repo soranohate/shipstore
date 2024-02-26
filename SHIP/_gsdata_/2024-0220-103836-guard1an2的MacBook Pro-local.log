@@ -1,0 +1,25 @@
+2024-02-20 10:38:36: -- 分析开始 Periodic Timer
+2024-02-20 10:38:36: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-20 10:38:36: 右侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-20 10:38:36: 变更：6， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 632
+2024-02-20 10:38:36: Left to Right: Copy File: 5 Delete File: 1 
+2024-02-20 10:38:36: == 同步开始由 Periodic Timer
+2024-02-20 10:38:36: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-20 10:38:36: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-20 10:38:36: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-20 10:38:36: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-20 10:38:36: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-20 10:38:36: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-20 10:38:36: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/bookmarks.json' (3,412)
+2024-02-20 10:38:36: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/永久笔记/ART/ART.canvas' -> '/Users/IntoSoranohate/个人仓库/backup/永久笔记/ART/ART.canvas' (3,915)
+2024-02-20 10:38:36: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/永久笔记/ART/绘画练习.md' -> '/Users/IntoSoranohate/个人仓库/backup/永久笔记/ART/绘画练习.md' (482)
+2024-02-20 10:38:36: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/recent-files-obsidian/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/recent-files-obsidian/data.json' (5,165)
+2024-02-20 10:38:36: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/workspace.json' (8,590)
+2024-02-20 10:38:36: Close Modified Folder (mod-time, acl): /永久笔记/ART
+2024-02-20 10:38:36: Close Modified Folder (mod-time, acl): /.obsidian/plugins/recent-files-obsidian
+2024-02-20 10:38:36: Close Modified Folder (mod-time, acl): /.obsidian
+2024-02-20 10:38:36: 删除文件 /Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/未命名.canvas
+2024-02-20 10:38:36: Close Modified Folder (mod-time, acl): /闪念笔记/Notes
+2024-02-20 10:38:36: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-20 10:38:36: 保持文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-20 10:38:36: == 同步完成. 历时: 00:00:00, 速度: 0.00/s, 完成: 6, 错误: 0

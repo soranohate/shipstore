@@ -1,0 +1,47 @@
+2024-02-21 14:59:19: >> Resolved stor-dca1.storage to stor-dca1.goodsync.com:443-:443
+2024-02-21 14:59:20: REMOTE C:182.255.32.10(198.18.0.1) -> S:stor-dca1.goodsync.com:443
+2024-02-21 14:59:22: -- 分析开始 Periodic Timer
+2024-02-21 14:59:22: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-21 14:59:24: 右侧: 正在读取文件状态 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/_gsdata_/_file_state_v4._gs
+2024-02-21 14:59:26: 变更：40 (44)， 冲突：0， 复制时间：0， 复制状态：2， 错误： 0, All: 692
+2024-02-21 14:59:26: Left to Right: Copy File: 6 Delete File: 2 Rename/Move File/Folder: 32 
+2024-02-21 14:59:27: == 同步开始由 Periodic Timer
+2024-02-21 14:59:27: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-21 14:59:27: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-21 14:59:27: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-21 14:59:28: REMOTE C:182.255.32.10(198.18.0.1) -> S:stor-dca1.goodsync.com:443
+2024-02-21 14:59:28: REMOTE C:182.255.32.10(198.18.0.1) -> S:stor-dca1.goodsync.com:443
+2024-02-21 14:59:28: REMOTE C:182.255.32.10(198.18.0.1) -> S:stor-dca1.goodsync.com:443
+2024-02-21 14:59:28: ConnectCloned connected to gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y
+2024-02-21 14:59:28: ConnectCloned connected to gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y
+2024-02-21 14:59:28: ConnectCloned connected to gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y
+2024-02-21 14:59:29: 创建文件夹 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/daily
+2024-02-21 14:59:29: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/日记/2021短暂日记备份.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/daily/2021短暂日记备份.md
+2024-02-21 14:59:31: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/components/script/notice.js' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/components/script/notice.js' (229)
+2024-02-21 14:59:32: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/components/script/refreshhomepage.js' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/components/script/refreshhomepage.js' (837)
+2024-02-21 14:59:33: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/模板/template模板/日记模板.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/模板/template模板/日记模板.md' (2,988)
+2024-02-21 14:59:33: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/日记/2023-08-02.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/daily/2023-08-02.md
+2024-02-21 14:59:34: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/日记/2023-08-26.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/daily/2023-08-26.md
+2024-02-21 14:59:34: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/日记/2024-02-05_周一.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/daily/2024-02-05_周一.md
+2024-02-21 14:59:34: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/components/script/SwitchViews.js' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/components/script/SwitchViews.js' (1,193)
+2024-02-21 14:59:35: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/日记/2024-02-06_周二.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/daily/2024-02-06_周二.md
+2024-02-21 14:59:35: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/日记/2024-02-07_周三.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/daily/2024-02-07_周三.md
+2024-02-21 14:59:36: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/日记/2024-02-08_周四.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/daily/2024-02-08_周四.md
+2024-02-21 14:59:36: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/日记/2024-02-09_周五.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/daily/2024-02-09_周五.md
+2024-02-21 14:59:37: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/日记/2024-02-10_周六.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/daily/2024-02-10_周六.md
+2024-02-21 14:59:37: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/日记/2024-02-12_周一.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/daily/2024-02-12_周一.md
+2024-02-21 14:59:37: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/日记/2024-02-14_周三.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/daily/2024-02-14_周三.md
+2024-02-21 14:59:38: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/日记/2024-02-15_周四.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/daily/2024-02-15_周四.md
+2024-02-21 14:59:38: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/daily/2024-02-11_周日.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/daily/2024-02-11_周日.md' (1,697)
+2024-02-21 14:59:38: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/日记/2024-02-18_周日.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/daily/2024-02-18_周日.md
+2024-02-21 14:59:39: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/日记/2024-02-19_周一.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/daily/2024-02-19_周一.md
+2024-02-21 14:59:39: 移动文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/日记/2024-02-21_周三.md -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/daily/2024-02-21_周三.md
+2024-02-21 14:59:40: 移动文件夹 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/日记/情绪日记 -> gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/daily/情绪日记
+2024-02-21 14:59:40: Close Modified Folder (mod-time, acl): /Setting/模板/template模板
+2024-02-21 14:59:40: Close Modified Folder (mod-time, acl): /Setting/components/script
+2024-02-21 14:59:40: 删除文件 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/日记/2024-02-11_周日.md
+2024-02-21 14:59:40: Close Modified Folder (mod-time, acl): /daily
+2024-02-21 14:59:41: 删除文件夹 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/日记
+2024-02-21 14:59:41: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-21 14:59:42: 保持文件状态 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/_gsdata_/_file_state_v4._gs
+2024-02-21 14:59:44: == 同步完成. 历时: 00:00:26, 速度: 2.90 KB/s, 完成: 46, 错误: 0

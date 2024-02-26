@@ -1,0 +1,84 @@
+2024-02-11 01:04:22: -- 分析开始 Periodic Timer
+2024-02-11 01:04:22: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-11 01:04:22: 右侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-11 01:04:22: 变更：57， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 417
+2024-02-11 01:04:22: Left to Right: Copy File: 55 Rename/Move File/Folder: 2 
+2024-02-11 01:04:22: == 同步开始由 Periodic Timer
+2024-02-11 01:04:22: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 01:04:22: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 01:04:22: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 01:04:22: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-11 01:04:22: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-11 01:04:22: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-11 01:04:22: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/app.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/app.json' (206)
+2024-02-11 01:04:22: 创建文件夹 /Users/IntoSoranohate/个人仓库/backup/Setting/ReactJS
+2024-02-11 01:04:22: 创建文件夹 /Users/IntoSoranohate/个人仓库/backup/Setting/script
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/ReactJS/ColorfulClock.md' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/ReactJS/ColorfulClock.md' (4,018)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/script/changeInlineToYaml.js' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/script/changeInlineToYaml.js' (1,395)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/script/colorclock.js' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/script/colorclock.js' (3,746)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/script/dv_project_tracking.js' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/script/dv_project_tracking.js' (15,032)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/script/dv_weatherSvg.js' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/script/dv_weatherSvg.js' (27,280)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/script/dv_weatherView.js' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/script/dv_weatherView.js' (37,083)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/script/fetchhomepage.js' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/script/fetchhomepage.js' (10,378)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/script/moviefromdouban.js' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/script/moviefromdouban.js' (4,260)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/script/movies.js' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/script/movies.js' (3,045)
+2024-02-11 01:04:22: 创建文件夹 /Users/IntoSoranohate/个人仓库/backup/Setting/script/notesList
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/script/notice.js' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/script/notice.js' (229)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/script/notesList/README.md' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/script/notesList/README.md' (2,398)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/script/notesList/view - 副本.js' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/script/notesList/view - 副本.js' (4,079)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/script/notesList/view.css' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/script/notesList/view.css' (5,773)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/script/notesList/view.js' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/script/notesList/view.js' (3,927)
+2024-02-11 01:04:22: 创建文件夹 /Users/IntoSoranohate/个人仓库/backup/Setting/script/tasksCalendar
+2024-02-11 01:04:22: 创建文件夹 /Users/IntoSoranohate/个人仓库/backup/Setting/script/TasksTimeline
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/script/tasksCalendar/README.md' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/script/tasksCalendar/README.md' (10,269)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/script/TasksTimeline/README.md' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/script/TasksTimeline/README.md' (6,369)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/script/TasksTimeline/view.css' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/script/TasksTimeline/view.css' (5,599)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/script/TasksTimeline/view.js' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/script/TasksTimeline/view.js' (19,827)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/script/tasksCalendar/view.css' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/script/tasksCalendar/view.css' (27,568)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/script/tasksCalendar/view.js' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/script/tasksCalendar/view.js' (35,422)
+2024-02-11 01:04:22: 创建文件夹 /Users/IntoSoranohate/个人仓库/backup/Setting/script/template
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/ReactJS/DigitalClock.md' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/ReactJS/DigitalClock.md' (1,025)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/script/template/getweather.js' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/script/template/getweather.js' (4,692)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/script/template/taskprogress.js' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/script/template/taskprogress.js' (237)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/ReactJS/react_cat.md' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/ReactJS/react_cat.md' (18,878)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/ReactJS/react_weather.md' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/ReactJS/react_weather.md' (710)
+2024-02-11 01:04:22: 创建文件夹 /Users/IntoSoranohate/个人仓库/backup/Setting/tp
+2024-02-11 01:04:22: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/appearance.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/appearance.json' (488)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/tp/tp-book-callout.md' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/tp/tp-book-callout.md' (1,108)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/tp/tp-movie-douban.md' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/tp/tp-movie-douban.md' (1,127)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/tp/tp-movie.md' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/tp/tp-movie.md' (405)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/tp/tp-人物模板.md' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/tp/tp-人物模板.md' (1,513)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/tp/tp-插件启停模板.md' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/tp/tp-插件启停模板.md' (3,567)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/tp/tp-日记模板-心情.md' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/tp/tp-日记模板-心情.md' (784)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/tp/tp-日记模板-心情2.md' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/tp/tp-日记模板-心情2.md' (682)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/tp/tp-日记模板-日历.md' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/tp/tp-日记模板-日历.md' (2,143)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/tp/tp-流水账模板.md' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/tp/tp-流水账模板.md' (1,182)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/tp/tp-笔记分类模板.md' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/tp/tp-笔记分类模板.md' (2,144)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/tp/tp-笔记收集箱.md' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/tp/tp-笔记收集箱.md' (100)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/tp/tp-自动选择模板.md' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/tp/tp-自动选择模板.md' (102)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/tp/tp-通用模板.md' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/tp/tp-通用模板.md' (100)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/tp/tp-默认笔记模板.md' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/tp/tp-默认笔记模板.md' (1,736)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/tp/tp.md' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/tp/tp.md' (616)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/tp/tp_foldermoc-Include-subfolders.md' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/tp/tp_foldermoc-Include-subfolders.md' (0)
+2024-02-11 01:04:22: /Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json: Source file has changed between Analyze and Sync from '[file] size=2,725 accu-time=2024-02-11 01:04:17 attr=Hidden644 cktype=0' to 'size=2,725 time=2024-02-11 01:04:22', noted in source file state
+2024-02-11 01:04:22: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/bookmarks.json' (2,725)
+2024-02-11 01:04:22: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/workspace.json' (6,692)
+2024-02-11 01:04:22: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-minimal-settings/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/obsidian-minimal-settings/data.json' (934)
+2024-02-11 01:04:22: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/recent-files-obsidian/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/recent-files-obsidian/data.json' (4,959)
+2024-02-11 01:04:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/最近天气查询.md' -> '/Users/IntoSoranohate/个人仓库/backup/最近天气查询.md' (567)
+2024-02-11 01:04:22: Close Modified Folder (mod-time, acl): /Setting/script/notesList
+2024-02-11 01:04:22: Close Modified Folder (mod-time, acl): /Setting/script/TasksTimeline
+2024-02-11 01:04:22: 移动文件 /Users/IntoSoranohate/个人仓库/backup/5W2H方法.md -> /Users/IntoSoranohate/个人仓库/backup/灵感笔记/摘抄/5W2H方法.md
+2024-02-11 01:04:22: Close Modified Folder (mod-time, acl): /Setting/script/tasksCalendar
+2024-02-11 01:04:22: Close Modified Folder (mod-time, acl): /Setting/script/template
+2024-02-11 01:04:22: Close Modified Folder (mod-time, acl): /Setting/ReactJS
+2024-02-11 01:04:22: Close Modified Folder (mod-time, acl): /Setting/tp
+2024-02-11 01:04:22: Close Modified Folder (mod-time, acl): /.obsidian/plugins/obsidian-minimal-settings
+2024-02-11 01:04:22: Close Modified Folder (mod-time, acl): /.obsidian/plugins/recent-files-obsidian
+2024-02-11 01:04:22: Close Modified Folder (mod-time, acl): /灵感笔记/摘抄
+2024-02-11 01:04:22: Close Modified Folder (mod-time, acl): /Setting/script
+2024-02-11 01:04:22: Close Modified Folder (mod-time, acl): /Setting
+2024-02-11 01:04:22: Close Modified Folder (mod-time, acl): /.obsidian
+2024-02-11 01:04:22: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-11 01:04:22: 保持文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-11 01:04:22: == 同步完成. 历时: 00:00:00, 速度: 0.00/s, 完成: 57, 错误: 0

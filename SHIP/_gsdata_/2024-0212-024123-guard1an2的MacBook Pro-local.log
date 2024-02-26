@@ -1,0 +1,27 @@
+2024-02-12 02:41:23: -- 分析开始 Periodic Timer
+2024-02-12 02:41:23: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-12 02:41:23: 右侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-12 02:41:23: 变更：8， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 605
+2024-02-12 02:41:23: Left to Right: Copy File: 5 Delete File: 1 Rename/Move File/Folder: 2 
+2024-02-12 02:41:23: == 同步开始由 Periodic Timer
+2024-02-12 02:41:23: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-12 02:41:23: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-12 02:41:23: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-12 02:41:23: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-12 02:41:23: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-12 02:41:23: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-12 02:41:23: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/bookmarks.json' (3,412)
+2024-02-12 02:41:23: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/模板/template模板/情绪模版.md' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/模板/template模板/情绪模版.md' (68)
+2024-02-12 02:41:23: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/quickadd/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/quickadd/data.json' (4,580)
+2024-02-12 02:41:23: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/workspace.json' (8,950)
+2024-02-12 02:41:23: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/recent-files-obsidian/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/recent-files-obsidian/data.json' (6,882)
+2024-02-12 02:41:23: 删除文件 /Users/IntoSoranohate/个人仓库/backup/心情记录2024-02-12_周一.md
+2024-02-12 02:41:23: Close Modified Folder (mod-time, acl): /Setting/模板/template模板
+2024-02-12 02:41:23: 移动文件夹 /Users/IntoSoranohate/个人仓库/backup/日记/心情记录 -> /Users/IntoSoranohate/个人仓库/backup/日记/情绪日记
+2024-02-12 02:41:23: Close Modified Folder (mod-time, acl): /.obsidian/plugins/quickadd
+2024-02-12 02:41:23: Close Modified Folder (mod-time, acl): /.obsidian/plugins/recent-files-obsidian
+2024-02-12 02:41:23: Close Modified Folder (mod-time, acl): /日记
+2024-02-12 02:41:23: Close Modified Folder (mod-time, acl): /.obsidian
+2024-02-12 02:41:23: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-12 02:41:23: 保持文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-12 02:41:23: == 同步完成. 历时: 00:00:00, 速度: 0.00/s, 完成: 8, 错误: 0

@@ -1,0 +1,25 @@
+2024-02-13 22:19:41: -- 分析开始 Periodic Timer
+2024-02-13 22:19:41: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-13 22:19:41: 右侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-13 22:19:41: 变更：5， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 611
+2024-02-13 22:19:41: Left to Right: Copy File: 5 
+2024-02-13 22:19:41: == 同步开始由 Periodic Timer
+2024-02-13 22:19:41: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-13 22:19:41: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-13 22:19:41: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-13 22:19:41: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-13 22:19:41: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-13 22:19:41: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-13 22:19:41: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/bookmarks.json' (3,412)
+2024-02-13 22:19:41: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/日记/2024-02-12_周一.md' -> '/Users/IntoSoranohate/个人仓库/backup/日记/2024-02-12_周一.md' (1,470)
+2024-02-13 22:19:41: /Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json: Source file has changed between Analyze and Sync from '[file] size=8,236 accu-time=2024-02-13 22:19:36 attr=Hidden644 cktype=0' to 'size=8,097 time=2024-02-13 22:19:41', noted in source file state
+2024-02-13 22:19:41: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/workspace.json' (8,236)
+2024-02-13 22:19:41: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/recent-files-obsidian/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/recent-files-obsidian/data.json' (6,940)
+2024-02-13 22:19:41: Close Modified Folder (mod-time, acl): /日记
+2024-02-13 22:19:41: Close Modified Folder (mod-time, acl): /.obsidian/plugins/recent-files-obsidian
+2024-02-13 22:19:41: Close Modified Folder (mod-time, acl): /.obsidian
+2024-02-13 22:19:41: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/摘抄/绘画对人的影响.md' -> '/Users/IntoSoranohate/个人仓库/backup/闪念笔记/摘抄/绘画对人的影响.md' (196)
+2024-02-13 22:19:41: Close Modified Folder (mod-time, acl): /闪念笔记/摘抄
+2024-02-13 22:19:41: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-13 22:19:41: 保持文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-13 22:19:41: == 同步完成. 历时: 00:00:00, 速度: 0.00/s, 完成: 5, 错误: 0

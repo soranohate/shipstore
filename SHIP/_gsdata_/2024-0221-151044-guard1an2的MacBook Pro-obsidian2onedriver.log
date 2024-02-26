@@ -1,0 +1,74 @@
+2024-02-21 15:10:44: -- 分析开始 Periodic Timer
+2024-02-21 15:10:44: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-21 15:10:44: 右侧: 正在读取文件状态 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/_gsdata_/_file_state_v4._gs
+2024-02-21 15:10:44: 变更：60 (64)， 冲突：0， 复制时间：0， 复制状态：1， 错误： 0, All: 697
+2024-02-21 15:10:44: Left to Right: Copy File: 25 Delete File: 3 Rename/Move File/Folder: 32 
+2024-02-21 15:10:44: == 同步开始由 Periodic Timer
+2024-02-21 15:10:44: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-21 15:10:44: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-21 15:10:44: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-21 15:10:44: ConnectCloned connected to file:///Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy
+2024-02-21 15:10:44: ConnectCloned connected to file:///Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy
+2024-02-21 15:10:44: ConnectCloned connected to file:///Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy
+2024-02-21 15:10:44: 创建文件夹 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/daily
+2024-02-21 15:10:44: 移动文件 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/日记/2021短暂日记备份.md -> /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/daily/2021短暂日记备份.md
+2024-02-21 15:10:44: 移动文件 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/日记/2023-08-02.md -> /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/daily/2023-08-02.md
+2024-02-21 15:10:44: 移动文件 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/日记/2023-08-26.md -> /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/daily/2023-08-26.md
+2024-02-21 15:10:44: 移动文件 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/日记/2024-02-05_周一.md -> /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/daily/2024-02-05_周一.md
+2024-02-21 15:10:44: 移动文件 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/日记/2024-02-06_周二.md -> /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/daily/2024-02-06_周二.md
+2024-02-21 15:10:44: 移动文件 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/日记/2024-02-07_周三.md -> /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/daily/2024-02-07_周三.md
+2024-02-21 15:10:44: 移动文件 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/日记/2024-02-08_周四.md -> /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/daily/2024-02-08_周四.md
+2024-02-21 15:10:44: 移动文件 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/日记/2024-02-09_周五.md -> /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/daily/2024-02-09_周五.md
+2024-02-21 15:10:44: 移动文件 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/日记/2024-02-10_周六.md -> /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/daily/2024-02-10_周六.md
+2024-02-21 15:10:44: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/.diary-stats' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/.diary-stats' (472,730)
+2024-02-21 15:10:44: 移动文件 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/日记/2024-02-12_周一.md -> /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/daily/2024-02-12_周一.md
+2024-02-21 15:10:44: 移动文件 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/日记/2024-02-14_周三.md -> /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/daily/2024-02-14_周三.md
+2024-02-21 15:10:44: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/daily/2024-02-11_周日.md' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/daily/2024-02-11_周日.md' (1,697)
+2024-02-21 15:10:44: 移动文件 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/日记/2024-02-15_周四.md -> /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/daily/2024-02-15_周四.md
+2024-02-21 15:10:44: 移动文件 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/日记/2024-02-18_周日.md -> /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/daily/2024-02-18_周日.md
+2024-02-21 15:10:44: 移动文件 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/日记/2024-02-19_周一.md -> /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/daily/2024-02-19_周一.md
+2024-02-21 15:10:44: 移动文件 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/日记/2024-02-21_周三.md -> /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/daily/2024-02-21_周三.md
+2024-02-21 15:10:44: 移动文件夹 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/日记/情绪日记 -> /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/daily/情绪日记
+2024-02-21 15:10:44: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/app.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/app.json' (206)
+2024-02-21 15:10:44: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/appearance.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/appearance.json' (742)
+2024-02-21 15:10:44: /Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json: Source file has changed between Analyze and Sync from '[file] size=3,411 accu-time=2024-02-21 15:09:08 attr=Hidden644 cktype=0' to 'size=3,411 time=2024-02-21 15:10:44', noted in source file state
+2024-02-21 15:10:44: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/bookmarks.json' (3,411)
+2024-02-21 15:10:44: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/daily-notes.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/daily-notes.json' (113)
+2024-02-21 15:10:44: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/graph.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/graph.json' (511)
+2024-02-21 15:10:44: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/hotkeys.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/hotkeys.json' (1,613)
+2024-02-21 15:10:44: 删除文件 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/snippets/memos.css
+2024-02-21 15:10:44: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-admonition/data.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/plugins/obsidian-admonition/data.json' (1,705)
+2024-02-21 15:10:44: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-memos/data.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/plugins/obsidian-memos/data.json' (1,121)
+2024-02-21 15:10:44: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-minimal-settings/data.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/plugins/obsidian-minimal-settings/data.json' (934)
+2024-02-21 15:10:44: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-tasks-plugin/data.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/plugins/obsidian-tasks-plugin/data.json' (1,652)
+2024-02-21 15:10:44: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/quickadd/data.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/plugins/quickadd/data.json' (7,183)
+2024-02-21 15:10:44: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/recent-files-obsidian/data.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/plugins/recent-files-obsidian/data.json' (5,697)
+2024-02-21 15:10:44: 创建文件夹 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/themes/Blue Topaz
+2024-02-21 15:10:44: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/workspace.json' (8,711)
+2024-02-21 15:10:44: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/themes/Blue Topaz/manifest.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/themes/Blue Topaz/manifest.json' (157)
+2024-02-21 15:10:44: > 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/themes/Blue Topaz/theme.css' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/themes/Blue Topaz/theme.css' (1,123,414)
+2024-02-21 15:10:44: < 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/themes/Blue Topaz/theme.css' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/themes/Blue Topaz/theme.css' (1,123,414)
+2024-02-21 15:10:44: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspaces.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/workspaces.json' (6,642)
+2024-02-21 15:10:44: 删除文件 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/日记/2024-02-11_周日.md
+2024-02-21 15:10:44: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/components/script/fetchhomepage.js' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/Setting/components/script/fetchhomepage.js' (10,378)
+2024-02-21 15:10:44: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/模板/template模板/日记模板.md' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/Setting/模板/template模板/日记模板.md' (2,988)
+2024-02-21 15:10:44: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/components/script/notice.js' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/Setting/components/script/notice.js' (229)
+2024-02-21 15:10:44: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/components/script/refreshhomepage.js' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/Setting/components/script/refreshhomepage.js' (837)
+2024-02-21 15:10:44: Close Modified Folder (mod-time, acl): /daily
+2024-02-21 15:10:44: Close Modified Folder (mod-time, acl): /.obsidian/snippets
+2024-02-21 15:10:44: Close Modified Folder (mod-time, acl): /.obsidian/plugins/obsidian-admonition
+2024-02-21 15:10:44: Close Modified Folder (mod-time, acl): /.obsidian/plugins/obsidian-memos
+2024-02-21 15:10:44: Close Modified Folder (mod-time, acl): /.obsidian/plugins/obsidian-minimal-settings
+2024-02-21 15:10:44: Close Modified Folder (mod-time, acl): /.obsidian/plugins/obsidian-tasks-plugin
+2024-02-21 15:10:44: Close Modified Folder (mod-time, acl): /.obsidian/plugins/quickadd
+2024-02-21 15:10:44: Close Modified Folder (mod-time, acl): /.obsidian/plugins/recent-files-obsidian
+2024-02-21 15:10:44: Close Modified Folder (mod-time, acl): /.obsidian/themes/Blue Topaz
+2024-02-21 15:10:44: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/components/script/SwitchViews.js' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/Setting/components/script/SwitchViews.js' (1,193)
+2024-02-21 15:10:44: Close Modified Folder (mod-time, acl): /Setting/模板/template模板
+2024-02-21 15:10:44: Close Modified Folder (mod-time, acl): /.obsidian/themes
+2024-02-21 15:10:44: 删除文件夹 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/日记
+2024-02-21 15:10:44: Close Modified Folder (mod-time, acl): /Setting/components/script
+2024-02-21 15:10:44: Close Modified Folder (mod-time, acl): /.obsidian
+2024-02-21 15:10:44: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-21 15:10:44: 保持文件状态 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/_gsdata_/_file_state_v4._gs
+2024-02-21 15:10:44: == 同步完成. 历时: 00:00:00, 速度: 0.00/s, 完成: 65, 错误: 0

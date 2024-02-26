@@ -1,0 +1,28 @@
+2024-02-12 01:56:14: -- 分析开始 Periodic Timer
+2024-02-12 01:56:14: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-12 01:56:14: 右侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-12 01:56:14: 变更：7， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 603
+2024-02-12 01:56:14: Left to Right: Copy File: 7 
+2024-02-12 01:56:14: == 同步开始由 Periodic Timer
+2024-02-12 01:56:14: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-12 01:56:14: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-12 01:56:14: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-12 01:56:14: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-12 01:56:14: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-12 01:56:14: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-12 01:56:14: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/bookmarks.json' (3,412)
+2024-02-12 01:56:14: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/标签/日常.md' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/标签/日常.md' (167)
+2024-02-12 01:56:14: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/模板/template模板/情绪模版.md' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/模板/template模板/情绪模版.md' (155)
+2024-02-12 01:56:14: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/quickadd/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/quickadd/data.json' (4,579)
+2024-02-12 01:56:14: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/recent-files-obsidian/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/recent-files-obsidian/data.json' (6,896)
+2024-02-12 01:56:14: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/workspace.json' (9,808)
+2024-02-12 01:56:14: Close Modified Folder (mod-time, acl): /Setting/标签
+2024-02-12 01:56:14: Close Modified Folder (mod-time, acl): /Setting/模板/template模板
+2024-02-12 01:56:14: Close Modified Folder (mod-time, acl): /.obsidian/plugins/quickadd
+2024-02-12 01:56:14: Close Modified Folder (mod-time, acl): /.obsidian/plugins/recent-files-obsidian
+2024-02-12 01:56:14: 创建文件夹 /Users/IntoSoranohate/个人仓库/backup/日记/心情记录
+2024-02-12 01:56:14: Close Modified Folder (mod-time, acl): /日记
+2024-02-12 01:56:14: Close Modified Folder (mod-time, acl): /.obsidian
+2024-02-12 01:56:14: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-12 01:56:14: 保持文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-12 01:56:14: == 同步完成. 历时: 00:00:00, 速度: 0.00/s, 完成: 7, 错误: 0

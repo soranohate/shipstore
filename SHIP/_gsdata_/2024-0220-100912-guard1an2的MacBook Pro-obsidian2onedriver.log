@@ -1,0 +1,26 @@
+2024-02-20 10:09:12: -- 分析开始 Periodic Timer
+2024-02-20 10:09:12: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-20 10:09:12: 右侧: 正在读取文件状态 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/_gsdata_/_file_state_v4._gs
+2024-02-20 10:09:12: 变更：6， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 628
+2024-02-20 10:09:12: Left to Right: Copy File: 6 
+2024-02-20 10:09:12: == 同步开始由 Periodic Timer
+2024-02-20 10:09:12: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-20 10:09:12: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-20 10:09:12: ConnectCloned connected to file:///Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy
+2024-02-20 10:09:12: ConnectCloned connected to file:///Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy
+2024-02-20 10:09:12: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-20 10:09:12: ConnectCloned connected to file:///Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy
+2024-02-20 10:09:12: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/bookmarks.json' (3,412)
+2024-02-20 10:09:12: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted image 20240220095229.png' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/Setting/Files/Pasted image 20240220095229.png' (665,045)
+2024-02-20 10:09:12: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/quickadd/data.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/plugins/quickadd/data.json' (4,600)
+2024-02-20 10:09:12: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/recent-files-obsidian/data.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/plugins/recent-files-obsidian/data.json' (6,580)
+2024-02-20 10:09:12: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/workspace.json' (8,484)
+2024-02-20 10:09:12: Close Modified Folder (mod-time, acl): /Setting/Files
+2024-02-20 10:09:12: Close Modified Folder (mod-time, acl): /.obsidian/plugins/quickadd
+2024-02-20 10:09:12: Close Modified Folder (mod-time, acl): /.obsidian/plugins/recent-files-obsidian
+2024-02-20 10:09:12: Close Modified Folder (mod-time, acl): /.obsidian
+2024-02-20 10:09:12: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/永久笔记/ART/基础练习/速写.md' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/永久笔记/ART/基础练习/速写.md' (431)
+2024-02-20 10:09:12: Close Modified Folder (mod-time, acl): /永久笔记/ART/基础练习
+2024-02-20 10:09:12: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-20 10:09:12: 保持文件状态 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/_gsdata_/_file_state_v4._gs
+2024-02-20 10:09:12: == 同步完成. 历时: 00:00:00, 速度: 0.00/s, 完成: 6, 错误: 0

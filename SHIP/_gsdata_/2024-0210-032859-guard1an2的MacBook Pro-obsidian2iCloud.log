@@ -1,0 +1,11 @@
+2024-02-10 03:29:01: Turning Off Copy Attributes, as one of file systems does not support it
+2024-02-10 03:29:01: Turning Off Copy/Compare Extended Attributes, as one of file systems does not support it
+2024-02-10 03:29:01: Turning Off Copy Symbolic Links, as one of file systems does not support it. You may want to consider using Job -> Options -> Advanced -> Links -> Drill Down, if you need to copy folder to which the link points
+2024-02-10 03:29:01: Turning Off Copy Original File System Names option, as one of file systems does not support it
+2024-02-10 03:29:01: -- 分析开始 User Command
+2024-02-10 03:29:01: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-10 03:29:01: 右侧: 正在读取文件状态 msgraph://graph.microsoft.com/:drive:4abfdd26b9765232/Ship/_gsdata_/_file_state_v4._gs
+2024-02-10 03:29:02: File ModTime changed but CheckSum remains the same, request CopyState: /🏡 StartPage.md
+2024-02-10 03:29:03: 变更：22， 冲突：0， 复制时间：0， 复制状态：304， 错误： 0, All: 336
+2024-02-10 03:29:03: Left to Right: Copy File: 14 Delete File: 8 
+2024-02-10 03:29:03: -- 分析已结束。历时 00:00:03, 速度： 111 文件/秒

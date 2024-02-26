@@ -1,0 +1,50 @@
+2024-02-12 02:41:27: -- 分析开始 Periodic Timer
+2024-02-12 02:41:27: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-12 02:41:30: 右侧: 正在读取文件状态 gdrive://www.googleapis.com/shipy/_gsdata_/_file_state_v4._gs
+2024-02-12 02:41:32: 变更：34， 冲突：0， 复制时间：0， 复制状态：6， 错误： 0, All: 605
+2024-02-12 02:41:32: Left to Right: Copy File: 24 Delete File: 8 Rename/Move File/Folder: 2 
+2024-02-12 02:41:32: == 同步开始由 Periodic Timer
+2024-02-12 02:41:33: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-12 02:41:33: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-12 02:41:33: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-12 02:41:33: GsConnectAndSetRoot1 connected to gdrive://www.googleapis.com/shipy
+2024-02-12 02:41:33: GsConnectAndSetRoot1 connected to gdrive://www.googleapis.com/shipy
+2024-02-12 02:41:34: GsConnectAndSetRoot1 connected to gdrive://www.googleapis.com/shipy
+2024-02-12 02:41:40: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/IMGv2-3cf59881051877fcbf99409d80692745202402 12.jpeg' -> 'gdrive://www.googleapis.com/shipy/Setting/Files/IMGv2-3cf59881051877fcbf99409d80692745202402 12.jpeg' (109,097)
+2024-02-12 02:41:40: /Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json: Source file has changed between Analyze and Sync from '[file] size=3,412 accu-time=2024-02-12 02:41:23 attr=Hidden644 cktype=0' to 'size=3,412 time=2024-02-12 02:41:27', noted in source file state
+2024-02-12 02:41:40: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/bookmarks.json' (3,412)
+2024-02-12 02:41:42: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/标签/日常.md' -> 'gdrive://www.googleapis.com/shipy/Setting/标签/日常.md' (167)
+2024-02-12 02:41:43: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/IMGv2-ce85cd1da38f0971360dbeef07df3fd8202402 12.jpeg' -> 'gdrive://www.googleapis.com/shipy/Setting/Files/IMGv2-ce85cd1da38f0971360dbeef07df3fd8202402 12.jpeg' (71,835)
+2024-02-12 02:41:44: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/IMGv2-ce8f13f43068ca91bd332c35ea287fb0202402 12.jpeg' -> 'gdrive://www.googleapis.com/shipy/Setting/Files/IMGv2-ce8f13f43068ca91bd332c35ea287fb0202402 12.jpeg' (50,485)
+2024-02-12 02:41:44: 删除文件夹 gdrive://www.googleapis.com/shipy/Setting/Files/词典
+2024-02-12 02:41:46: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/焦虑.png' -> 'gdrive://www.googleapis.com/shipy/Setting/Files/焦虑.png' (94,919)
+2024-02-12 02:41:49: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/模板/template模板/卡片模板.md' -> 'gdrive://www.googleapis.com/shipy/Setting/模板/template模板/卡片模板.md' (161)
+2024-02-12 02:41:49: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-linter/data.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/plugins/obsidian-linter/data.json' (10,325)
+2024-02-12 02:41:50: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/模板/template模板/情绪模版.md' -> 'gdrive://www.googleapis.com/shipy/Setting/模板/template模板/情绪模版.md' (68)
+2024-02-12 02:41:54: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/quickadd/data.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/plugins/quickadd/data.json' (4,580)
+2024-02-12 02:41:56: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/recent-files-obsidian/data.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/plugins/recent-files-obsidian/data.json' (6,882)
+2024-02-12 02:41:58: /Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json: Source file has changed between Analyze and Sync from '[file] size=8,971 accu-time=2024-02-12 02:41:24 attr=Hidden644 cktype=0' to 'size=8,971 time=2024-02-12 02:41:28', noted in source file state
+2024-02-12 02:41:58: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/workspace.json' (8,971)
+2024-02-12 02:42:01: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/日记/2024-02-11_周日.md' -> 'gdrive://www.googleapis.com/shipy/日记/2024-02-11_周日.md' (1,704)
+2024-02-12 02:42:01: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/CardBox.md' -> 'gdrive://www.googleapis.com/shipy/闪念笔记/CardBox.md' (186)
+2024-02-12 02:42:03: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/卡片盒/5W2H方法.md' -> 'gdrive://www.googleapis.com/shipy/闪念笔记/卡片盒/5W2H方法.md' (1,192)
+2024-02-12 02:42:04: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/卡片盒/PKM 个人知识管理系统.md' -> 'gdrive://www.googleapis.com/shipy/闪念笔记/卡片盒/PKM 个人知识管理系统.md' (3,338)
+2024-02-12 02:42:06: 删除文件 gdrive://www.googleapis.com/shipy/闪念笔记/摘抄/专注（心流、高峰体验、自我效能感）的原理和方法.md
+2024-02-12 02:42:07: 删除文件 gdrive://www.googleapis.com/shipy/闪念笔记/摘抄/PKM 个人知识管理系统.md
+2024-02-12 02:42:07: 删除文件 gdrive://www.googleapis.com/shipy/闪念笔记/摘抄/5W2H方法.md
+2024-02-12 02:42:07: 删除文件 gdrive://www.googleapis.com/shipy/闪念笔记/摘抄/卡片盒笔记法.md
+2024-02-12 02:42:08: 删除文件 gdrive://www.googleapis.com/shipy/闪念笔记/摘抄/数字花园.md
+2024-02-12 02:42:09: 删除文件 gdrive://www.googleapis.com/shipy/闪念笔记/摘抄/最深的焦虑，来自对创造的拖延。当他明知现实，是奇迹唯一的藏身之所。.md
+2024-02-12 02:42:11: 移动文件 gdrive://www.googleapis.com/shipy/闪念笔记/卡片盒/笔记的组织方式.md -> gdrive://www.googleapis.com/shipy/闪念笔记/卡片盒/TOC与MOC.md
+2024-02-12 02:42:11: 删除文件 gdrive://www.googleapis.com/shipy/闪念笔记/摘抄/毛姆的「写作建议」.md
+2024-02-12 02:42:12: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/摘抄/焦虑与拖延.md' -> 'gdrive://www.googleapis.com/shipy/闪念笔记/摘抄/焦虑与拖延.md' (109)
+2024-02-12 02:42:13: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/卡片盒/卡片盒笔记法.md' -> 'gdrive://www.googleapis.com/shipy/闪念笔记/卡片盒/卡片盒笔记法.md' (8,797)
+2024-02-12 02:42:15: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/卡片盒/心流.md' -> 'gdrive://www.googleapis.com/shipy/闪念笔记/卡片盒/心流.md' (1,517)
+2024-02-12 02:42:15: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/卡片盒/数字花园.md' -> 'gdrive://www.googleapis.com/shipy/闪念笔记/卡片盒/数字花园.md' (2,183)
+2024-02-12 02:42:17: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/卡片盒/毛姆的「写作建议」.md' -> 'gdrive://www.googleapis.com/shipy/闪念笔记/卡片盒/毛姆的「写作建议」.md' (4,368)
+2024-02-12 02:42:18: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/卡片盒/认知行为疗法.md' -> 'gdrive://www.googleapis.com/shipy/闪念笔记/卡片盒/认知行为疗法.md' (1,078)
+2024-02-12 02:42:19: 创建文件夹 gdrive://www.googleapis.com/shipy/日记/情绪日记
+2024-02-12 02:42:19: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/日记/2024-02-12_周一.md' -> 'gdrive://www.googleapis.com/shipy/日记/2024-02-12_周一.md' (1,334)
+2024-02-12 02:42:19: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-12 02:42:21: 保持文件状态 gdrive://www.googleapis.com/shipy/_gsdata_/_file_state_v4._gs
+2024-02-12 02:42:24: == 同步完成. 历时: 00:00:58, 速度: 10.38 KB/s, 完成: 40, 错误: 0

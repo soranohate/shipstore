@@ -1,0 +1,19 @@
+2024-02-16 09:31:10: -- 分析开始 Periodic Timer
+2024-02-16 09:31:10: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-16 09:31:15: 右侧: 正在读取文件状态 gdrive://www.googleapis.com/shipy/_gsdata_/_file_state_v4._gs
+2024-02-16 09:31:17: 变更：4， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 614
+2024-02-16 09:31:17: Left to Right: Copy File: 4 
+2024-02-16 09:31:17: == 同步开始由 Periodic Timer
+2024-02-16 09:31:17: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-16 09:31:17: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-16 09:31:17: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-16 09:31:17: GsConnectAndSetRoot1 connected to gdrive://www.googleapis.com/shipy
+2024-02-16 09:31:18: GsConnectAndSetRoot1 connected to gdrive://www.googleapis.com/shipy
+2024-02-16 09:31:18: GsConnectAndSetRoot1 connected to gdrive://www.googleapis.com/shipy
+2024-02-16 09:31:26: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/bookmarks.json' (3,412)
+2024-02-16 09:31:28: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/日记/2024-02-15_周四.md' -> 'gdrive://www.googleapis.com/shipy/日记/2024-02-15_周四.md' (1,362)
+2024-02-16 09:31:29: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/workspace.json' (8,153)
+2024-02-16 09:31:31: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/recent-files-obsidian/data.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/plugins/recent-files-obsidian/data.json' (6,899)
+2024-02-16 09:31:32: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-16 09:31:34: 保持文件状态 gdrive://www.googleapis.com/shipy/_gsdata_/_file_state_v4._gs
+2024-02-16 09:31:36: == 同步完成. 历时: 00:00:27, 速度: 968.00/s, 完成: 4, 错误: 0

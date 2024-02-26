@@ -1,0 +1,19 @@
+2024-02-10 17:53:21: -- 分析开始 Analyze And Sync Command
+2024-02-10 17:53:21: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-10 17:53:29: 右侧: 正在读取文件状态 icloud://www.icloud.com/Obsidian/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-10 17:55:06: 变更：3， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 338
+2024-02-10 17:55:06: Left to Right: Copy File: 3 
+2024-02-10 17:55:08: == 同步开始由 Analyze And Sync Command
+2024-02-10 17:55:09: File Systems limited number of parallel threads to 0
+2024-02-10 17:55:14: Cannot get file info after Sync: SSL Library already initialized
+2024-02-10 17:55:14: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> 'icloud://www.icloud.com/Obsidian/SHIP/.obsidian/bookmarks.json' (2,725)
+- 错误: Cannot get file info after Sync: SSL Library already initialized
+2024-02-10 17:55:53: Cannot get file info after Sync: SSL Library already initialized
+2024-02-10 17:55:53: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/recent-files-obsidian/data.json' -> 'icloud://www.icloud.com/Obsidian/SHIP/.obsidian/plugins/recent-files-obsidian/data.json' (5,413)
+- 错误: Cannot get file info after Sync: SSL Library already initialized
+2024-02-10 17:56:00: Cannot get file info after Sync: SSL Library already initialized
+2024-02-10 17:56:00: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json' -> 'icloud://www.icloud.com/Obsidian/SHIP/.obsidian/workspace.json' (7,288)
+- 错误: Cannot get file info after Sync: SSL Library already initialized
+2024-02-10 17:56:00: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-10 17:56:02: 保持文件状态 icloud://www.icloud.com/Obsidian/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-10 17:56:13: == 同步完成. 历时: 00:02:57, 速度: 100.00/s, 完成: 0, 错误: 3

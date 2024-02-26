@@ -1,0 +1,53 @@
+2024-02-12 01:41:35: -- 分析开始 Periodic Timer
+2024-02-12 01:41:35: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-12 01:41:35: 右侧: 正在读取文件状态 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/_gsdata_/_file_state_v4._gs
+2024-02-12 01:41:35: 变更：30， 冲突：0， 复制时间：0， 复制状态：4， 错误： 0, All: 601
+2024-02-12 01:41:35: Left to Right: Copy File: 20 Delete File: 8 Rename/Move File/Folder: 2 
+2024-02-12 01:41:35: == 同步开始由 Periodic Timer
+2024-02-12 01:41:35: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-12 01:41:35: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-12 01:41:35: ConnectCloned connected to file:///Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy
+2024-02-12 01:41:35: ConnectCloned connected to file:///Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy
+2024-02-12 01:41:35: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-12 01:41:35: ConnectCloned connected to file:///Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy
+2024-02-12 01:41:35: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/bookmarks.json' (3,412)
+2024-02-12 01:41:35: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/IMGv2-3cf59881051877fcbf99409d80692745202402 12.jpeg' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/Setting/Files/IMGv2-3cf59881051877fcbf99409d80692745202402 12.jpeg' (109,097)
+2024-02-12 01:41:35: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-linter/data.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/plugins/obsidian-linter/data.json' (10,325)
+2024-02-12 01:41:35: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/quickadd/data.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/plugins/quickadd/data.json' (4,476)
+2024-02-12 01:41:35: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/IMGv2-ce85cd1da38f0971360dbeef07df3fd8202402 12.jpeg' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/Setting/Files/IMGv2-ce85cd1da38f0971360dbeef07df3fd8202402 12.jpeg' (71,835)
+2024-02-12 01:41:35: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/recent-files-obsidian/data.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/plugins/recent-files-obsidian/data.json' (6,937)
+2024-02-12 01:41:35: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/IMGv2-ce8f13f43068ca91bd332c35ea287fb0202402 12.jpeg' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/Setting/Files/IMGv2-ce8f13f43068ca91bd332c35ea287fb0202402 12.jpeg' (50,485)
+2024-02-12 01:41:35: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/焦虑.png' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/Setting/Files/焦虑.png' (94,919)
+2024-02-12 01:41:35: 删除文件夹 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/Setting/Files/词典
+2024-02-12 01:41:35: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/.obsidian/workspace.json' (9,813)
+2024-02-12 01:41:35: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/日记/2024-02-11_周日.md' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/日记/2024-02-11_周日.md' (1,697)
+2024-02-12 01:41:35: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/CardBox.md' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/闪念笔记/CardBox.md' (185)
+2024-02-12 01:41:35: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/卡片盒/5W2H方法.md' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/闪念笔记/卡片盒/5W2H方法.md' (1,192)
+2024-02-12 01:41:35: 删除文件 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/闪念笔记/摘抄/5W2H方法.md
+2024-02-12 01:41:35: 删除文件 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/闪念笔记/摘抄/PKM 个人知识管理系统.md
+2024-02-12 01:41:35: 删除文件 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/闪念笔记/摘抄/专注（心流、高峰体验、自我效能感）的原理和方法.md
+2024-02-12 01:41:35: 删除文件 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/闪念笔记/摘抄/卡片盒笔记法.md
+2024-02-12 01:41:35: 删除文件 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/闪念笔记/摘抄/数字花园.md
+2024-02-12 01:41:35: 删除文件 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/闪念笔记/摘抄/最深的焦虑，来自对创造的拖延。当他明知现实，是奇迹唯一的藏身之所。.md
+2024-02-12 01:41:35: 删除文件 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/闪念笔记/摘抄/毛姆的「写作建议」.md
+2024-02-12 01:41:35: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/摘抄/焦虑与拖延.md' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/闪念笔记/摘抄/焦虑与拖延.md' (109)
+2024-02-12 01:41:35: 移动文件 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/闪念笔记/卡片盒/笔记的组织方式.md -> /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/闪念笔记/卡片盒/TOC与MOC.md
+2024-02-12 01:41:35: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/卡片盒/PKM 个人知识管理系统.md' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/闪念笔记/卡片盒/PKM 个人知识管理系统.md' (3,338)
+2024-02-12 01:41:35: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/卡片盒/卡片盒笔记法.md' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/闪念笔记/卡片盒/卡片盒笔记法.md' (8,797)
+2024-02-12 01:41:35: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/卡片盒/心流.md' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/闪念笔记/卡片盒/心流.md' (1,517)
+2024-02-12 01:41:35: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/卡片盒/数字花园.md' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/闪念笔记/卡片盒/数字花园.md' (2,183)
+2024-02-12 01:41:35: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/卡片盒/毛姆的「写作建议」.md' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/闪念笔记/卡片盒/毛姆的「写作建议」.md' (4,368)
+2024-02-12 01:41:35: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/卡片盒/认知行为疗法.md' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/闪念笔记/卡片盒/认知行为疗法.md' (1,078)
+2024-02-12 01:41:35: Close Modified Folder (mod-time, acl): /.obsidian/plugins/obsidian-linter
+2024-02-12 01:41:35: Close Modified Folder (mod-time, acl): /.obsidian/plugins/quickadd
+2024-02-12 01:41:35: Close Modified Folder (mod-time, acl): /.obsidian/plugins/recent-files-obsidian
+2024-02-12 01:41:35: Close Modified Folder (mod-time, acl): /Setting/Files
+2024-02-12 01:41:35: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/日记/2024-02-12_周一.md' -> '/Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/日记/2024-02-12_周一.md' (1,334)
+2024-02-12 01:41:35: Close Modified Folder (mod-time, acl): /闪念笔记/摘抄
+2024-02-12 01:41:35: Close Modified Folder (mod-time, acl): /闪念笔记/卡片盒
+2024-02-12 01:41:35: Close Modified Folder (mod-time, acl): /日记
+2024-02-12 01:41:35: Close Modified Folder (mod-time, acl): /闪念笔记
+2024-02-12 01:41:35: Close Modified Folder (mod-time, acl): /.obsidian
+2024-02-12 01:41:35: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-12 01:41:35: 保持文件状态 /Users/IntoSoranohate/Library/CloudStorage/OneDrive-个人/Shipy/_gsdata_/_file_state_v4._gs
+2024-02-12 01:41:35: == 同步完成. 历时: 00:00:00, 速度: 0.00/s, 完成: 34, 错误: 0

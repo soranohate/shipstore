@@ -1,0 +1,91 @@
+2024-02-11 01:59:02: -- 分析开始 Periodic Timer
+2024-02-11 01:59:02: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-11 01:59:04: 右侧: 正在读取文件状态 gdrive://www.googleapis.com/shipy/_gsdata_/_file_state_v4._gs
+2024-02-11 01:59:06: 变更：63， 冲突：0， 复制时间：0， 复制状态：77， 错误： 0, All: 455
+2024-02-11 01:59:06: Left to Right: Copy File: 61 Delete File: 2 
+2024-02-11 01:59:06: == 同步开始由 Periodic Timer
+2024-02-11 01:59:06: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 01:59:06: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 01:59:06: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 01:59:07: GsConnectAndSetRoot1 connected to gdrive://www.googleapis.com/shipy
+2024-02-11 01:59:07: GsConnectAndSetRoot1 connected to gdrive://www.googleapis.com/shipy
+2024-02-11 01:59:07: GsConnectAndSetRoot1 connected to gdrive://www.googleapis.com/shipy
+2024-02-11 01:59:09: 创建文件夹 gdrive://www.googleapis.com/shipy/.makemd
+2024-02-11 01:59:11: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.makemd/fileCache.mdb' -> 'gdrive://www.googleapis.com/shipy/.makemd/fileCache.mdb' (446,464)
+2024-02-11 01:59:15: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/IMGckeditor-633408c5443fb202402 10.png' -> 'gdrive://www.googleapis.com/shipy/Setting/Files/IMGckeditor-633408c5443fb202402 10.png' (106,255)
+2024-02-11 01:59:17: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/标签/项目追踪.md' -> 'gdrive://www.googleapis.com/shipy/Setting/标签/项目追踪.md' (69)
+2024-02-11 01:59:18: 删除文件 gdrive://www.googleapis.com/shipy/Setting/模板/template模板/Daily.md
+2024-02-11 01:59:18: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/模板/存档.md' -> 'gdrive://www.googleapis.com/shipy/Setting/模板/存档.md' (3,585)
+2024-02-11 01:59:19: 创建文件夹 gdrive://www.googleapis.com/shipy/Setting/组件
+2024-02-11 01:59:19: > 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.makemd/superstate.mdb' -> 'gdrive://www.googleapis.com/shipy/.makemd/superstate.mdb' (1,064,960)
+2024-02-11 01:59:19: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/模板/template模板/复盘Note模板.md' -> 'gdrive://www.googleapis.com/shipy/Setting/模板/template模板/复盘Note模板.md' (790)
+2024-02-11 01:59:20: 创建文件夹 gdrive://www.googleapis.com/shipy/Setting/组件/ReactJS
+2024-02-11 01:59:21: < 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.makemd/superstate.mdb' -> 'gdrive://www.googleapis.com/shipy/.makemd/superstate.mdb' (1,064,960)
+2024-02-11 01:59:22: 创建文件夹 gdrive://www.googleapis.com/shipy/Setting/组件/script
+2024-02-11 01:59:24: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/组件/ReactJS/ColorfulClock.md' -> 'gdrive://www.googleapis.com/shipy/Setting/组件/ReactJS/ColorfulClock.md' (4,018)
+2024-02-11 01:59:25: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/组件/ReactJS/DigitalClock.md' -> 'gdrive://www.googleapis.com/shipy/Setting/组件/ReactJS/DigitalClock.md' (1,025)
+2024-02-11 01:59:26: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/组件/script/colorclock.js' -> 'gdrive://www.googleapis.com/shipy/Setting/组件/script/colorclock.js' (3,746)
+2024-02-11 01:59:27: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/组件/script/changeInlineToYaml.js' -> 'gdrive://www.googleapis.com/shipy/Setting/组件/script/changeInlineToYaml.js' (1,395)
+2024-02-11 01:59:28: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/组件/script/dv_project_tracking.js' -> 'gdrive://www.googleapis.com/shipy/Setting/组件/script/dv_project_tracking.js' (15,032)
+2024-02-11 01:59:29: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/组件/script/dv_weatherSvg.js' -> 'gdrive://www.googleapis.com/shipy/Setting/组件/script/dv_weatherSvg.js' (27,280)
+2024-02-11 01:59:30: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/组件/script/dv_weatherView.js' -> 'gdrive://www.googleapis.com/shipy/Setting/组件/script/dv_weatherView.js' (37,083)
+2024-02-11 01:59:32: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/组件/ReactJS/react_weather.md' -> 'gdrive://www.googleapis.com/shipy/Setting/组件/ReactJS/react_weather.md' (710)
+2024-02-11 01:59:33: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/组件/ReactJS/ReactJS.md' -> 'gdrive://www.googleapis.com/shipy/Setting/组件/ReactJS/ReactJS.md' (418)
+2024-02-11 01:59:33: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/组件/彩色时钟.md' -> 'gdrive://www.googleapis.com/shipy/Setting/组件/彩色时钟.md' (141)
+2024-02-11 01:59:36: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/组件/最近天气查询.md' -> 'gdrive://www.googleapis.com/shipy/Setting/组件/最近天气查询.md' (558)
+2024-02-11 01:59:37: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/app.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/app.json' (206)
+2024-02-11 01:59:37: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/appearance.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/appearance.json' (579)
+2024-02-11 01:59:42: /Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json: Source file has changed between Analyze and Sync from '[file] size=2,725 accu-time=2024-02-11 01:57:42 attr=Hidden644 cktype=0' to 'size=2,725 time=2024-02-11 01:59:02', noted in source file state
+2024-02-11 01:59:42: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/bookmarks.json' (2,725)
+2024-02-11 01:59:43: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/community-plugins.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/community-plugins.json' (486)
+2024-02-11 01:59:44: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/core-plugins-migration.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/core-plugins-migration.json' (640)
+2024-02-11 01:59:48: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/core-plugins.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/core-plugins.json' (242)
+2024-02-11 01:59:48: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/daily-notes.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/daily-notes.json' (114)
+2024-02-11 01:59:50: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/graph.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/graph.json' (510)
+2024-02-11 01:59:52: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/templates.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/templates.json' (109)
+2024-02-11 01:59:53: 创建文件夹 gdrive://www.googleapis.com/shipy/.obsidian/plugins/metaedit
+2024-02-11 01:59:54: 创建文件夹 gdrive://www.googleapis.com/shipy/.obsidian/plugins/obsidian-hider
+2024-02-11 01:59:57: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/calendar/data.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/plugins/calendar/data.json' (231)
+2024-02-11 01:59:57: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-hider/data.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/plugins/obsidian-hider/data.json' (321)
+2024-02-11 01:59:59: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-admonition/data.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/plugins/obsidian-admonition/data.json' (1,705)
+2024-02-11 02:00:00: Waiting for 1+4(120) sec on verb PATCH: Connecting to www.googleapis.com: Cannot switch to TLS mode: rc=-1 err=5 t=error:00000000:lib(0):func(0):reason(0)[0]
+2024-02-11 02:00:00: Waiting for 1+4(120) sec on verb CopyFileSimple: CloseUpload: Connecting to www.googleapis.com: Cannot switch to TLS mode: rc=-1 err=5 t=error:00000000:lib(0):func(0):reason(0)[0]
+2024-02-11 02:00:01: Waiting for 1+4(120) sec on verb CopyFileSimple: OpenUpload: changes.list: Connecting to www.googleapis.com: Cannot switch to TLS mode: rc=-1 err=5 t=error:00000000:lib(0):func(0):reason(0)[0]
+2024-02-11 02:00:05: Waiting for 6+8(120) sec on verb PATCH: Connecting to www.googleapis.com: Cannot switch to TLS mode: rc=-1 err=5 t=error:00000000:lib(0):func(0):reason(0)[0]
+2024-02-11 02:00:05: Waiting for 5+8(120) sec on verb CopyFileSimple: OpenUpload: changes.list: Connecting to www.googleapis.com: Cannot switch to TLS mode: rc=-1 err=5 t=error:00000000:lib(0):func(0):reason(0)[0]
+2024-02-11 02:00:06: Recovered the connection, continuing operations
+2024-02-11 02:00:08: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-hider/manifest.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/plugins/obsidian-hider/manifest.json' (332)
+2024-02-11 02:00:10: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/metaedit/data.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/plugins/metaedit/data.json' (392)
+2024-02-11 02:00:14: Recovered the connection, continuing operations
+2024-02-11 02:00:14: Recovered the connection, continuing operations
+2024-02-11 02:00:14: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-hider/main.js' -> 'gdrive://www.googleapis.com/shipy/.obsidian/plugins/obsidian-hider/main.js' (50,130)
+2024-02-11 02:00:14: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/metaedit/main.js' -> 'gdrive://www.googleapis.com/shipy/.obsidian/plugins/metaedit/main.js' (180,374)
+2024-02-11 02:00:16: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-hider/styles.css' -> 'gdrive://www.googleapis.com/shipy/.obsidian/plugins/obsidian-hider/styles.css' (1,861)
+2024-02-11 02:00:17: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/metaedit/manifest.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/plugins/metaedit/manifest.json' (252)
+2024-02-11 02:00:19: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/metaedit/styles.css' -> 'gdrive://www.googleapis.com/shipy/.obsidian/plugins/metaedit/styles.css' (255)
+2024-02-11 02:00:19: 创建文件夹 gdrive://www.googleapis.com/shipy/.obsidian/plugins/obsidian-react-components
+2024-02-11 02:00:20: > 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-react-components/main.js' -> 'gdrive://www.googleapis.com/shipy/.obsidian/plugins/obsidian-react-components/main.js' (12,249,290)
+2024-02-11 02:00:24: < 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-react-components/main.js' -> 'gdrive://www.googleapis.com/shipy/.obsidian/plugins/obsidian-react-components/main.js' (12,249,290)
+2024-02-11 02:00:25: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-minimal-settings/data.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/plugins/obsidian-minimal-settings/data.json' (934)
+2024-02-11 02:00:26: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-react-components/manifest.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/plugins/obsidian-react-components/manifest.json' (370)
+2024-02-11 02:00:28: /Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/recent-files-obsidian/data.json: Source file has changed between Analyze and Sync from '[file] size=4,637 accu-time=2024-02-11 01:55:58 attr=Hidden644 cktype=0' to 'size=4,637 time=2024-02-11 01:59:56', noted in source file state
+2024-02-11 02:00:28: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/recent-files-obsidian/data.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/plugins/recent-files-obsidian/data.json' (4,637)
+2024-02-11 02:00:30: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/snippets/【图标】iconfont.css' -> 'gdrive://www.googleapis.com/shipy/.obsidian/snippets/【图标】iconfont.css' (71,273)
+2024-02-11 02:00:31: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/snippets/custom-admonitions.c9c6cb.css' -> 'gdrive://www.googleapis.com/shipy/.obsidian/snippets/custom-admonitions.c9c6cb.css' (16,749)
+2024-02-11 02:00:33: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/snippets/【天气】weather.css' -> 'gdrive://www.googleapis.com/shipy/.obsidian/snippets/【天气】weather.css' (18,579)
+2024-02-11 02:00:34: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/snippets/【自定义】mytools 样式.css' -> 'gdrive://www.googleapis.com/shipy/.obsidian/snippets/【自定义】mytools 样式.css' (7,958)
+2024-02-11 02:00:34: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/table-editor-obsidian/data.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/plugins/table-editor-obsidian/data.json' (95)
+2024-02-11 02:00:37: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/snippets/【自定义】彩色时钟样式.css' -> 'gdrive://www.googleapis.com/shipy/.obsidian/snippets/【自定义】彩色时钟样式.css' (2,802)
+2024-02-11 02:00:39: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/snippets/【自定义】数字时钟.css' -> 'gdrive://www.googleapis.com/shipy/.obsidian/snippets/【自定义】数字时钟.css' (2,614)
+2024-02-11 02:00:40: 创建文件夹 gdrive://www.googleapis.com/shipy/Spaces
+2024-02-11 02:00:41: /Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json: Source file has changed between Analyze and Sync from '[file] size=7,342 accu-time=2024-02-11 01:57:43 attr=Hidden644 cktype=0' to 'size=7,352 time=2024-02-11 02:00:10', noted in source file state
+2024-02-11 02:00:41: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/workspace.json' (7,342)
+2024-02-11 02:00:43: 创建文件夹 gdrive://www.googleapis.com/shipy/Spaces/Home
+2024-02-11 02:00:43: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/日记/2024-02-10_周六.md' -> 'gdrive://www.googleapis.com/shipy/日记/2024-02-10_周六.md' (1,490)
+2024-02-11 02:00:44: 删除文件 gdrive://www.googleapis.com/shipy/日记/20240206周二.md
+2024-02-11 02:00:45: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/Notes/2024-02-10项目追踪复盘.md' -> 'gdrive://www.googleapis.com/shipy/灵感笔记/Notes/2024-02-10项目追踪复盘.md' (302)
+2024-02-11 02:00:48: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/摘抄/5W2H方法.md' -> 'gdrive://www.googleapis.com/shipy/灵感笔记/摘抄/5W2H方法.md' (1,060)
+2024-02-11 02:00:49: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/🏡 StartPage.md' -> 'gdrive://www.googleapis.com/shipy/🏡 StartPage.md' (19,229)
+2024-02-11 02:00:49: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-11 02:00:51: 保持文件状态 gdrive://www.googleapis.com/shipy/_gsdata_/_file_state_v4._gs
+2024-02-11 02:00:53: == 同步完成. 历时: 00:01:52, 速度: 134.41 KB/s, 完成: 140, 错误: 0

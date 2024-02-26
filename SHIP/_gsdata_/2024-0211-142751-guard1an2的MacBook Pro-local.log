@@ -1,0 +1,25 @@
+2024-02-11 14:27:51: -- 分析开始 Periodic Timer
+2024-02-11 14:27:51: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-11 14:27:51: 右侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-11 14:27:51: 变更：7， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 582
+2024-02-11 14:27:51: Left to Right: Copy File: 6 Delete File: 1 
+2024-02-11 14:27:51: == 同步开始由 Periodic Timer
+2024-02-11 14:27:51: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 14:27:51: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 14:27:51: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-11 14:27:51: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-11 14:27:51: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 14:27:51: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-11 14:27:51: 删除文件夹 /Users/IntoSoranohate/个人仓库/backup/Inbox
+2024-02-11 14:27:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/bookmarks.json' (3,460)
+2024-02-11 14:27:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/workspace.json' (8,437)
+2024-02-11 14:27:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspaces.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/workspaces.json' (7,043)
+2024-02-11 14:27:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/recent-files-obsidian/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/recent-files-obsidian/data.json' (5,257)
+2024-02-11 14:27:51: Close Modified Folder (mod-time, acl): /.obsidian/plugins/recent-files-obsidian
+2024-02-11 14:27:51: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/卡片盒/CardBox.md' -> '/Users/IntoSoranohate/个人仓库/backup/闪念笔记/卡片盒/CardBox.md' (184)
+2024-02-11 14:27:51: Close Modified Folder (mod-time, acl): /.obsidian
+2024-02-11 14:27:51: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/卡片盒/笔记的组织方式.md' -> '/Users/IntoSoranohate/个人仓库/backup/闪念笔记/卡片盒/笔记的组织方式.md' (238)
+2024-02-11 14:27:51: Close Modified Folder (mod-time, acl): /闪念笔记/卡片盒
+2024-02-11 14:27:51: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-11 14:27:51: 保持文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-11 14:27:51: == 同步完成. 历时: 00:00:00, 速度: 0.00/s, 完成: 7, 错误: 0

@@ -1,0 +1,7 @@
+2024-02-19 19:13:16: >> Resolved stor-dca1.storage to stor-dca1.goodsync.com:443-:443
+2024-02-19 19:13:17: REMOTE C:103.238.130.133(198.18.0.1) -> S:stor-dca1.goodsync.com:443
+2024-02-19 19:13:19: -- 分析开始 Periodic Timer
+2024-02-19 19:13:19: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-19 19:13:21: 右侧: 正在读取文件状态 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/_gsdata_/_file_state_v4._gs
+2024-02-19 19:13:23: 变更：0， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 621
+2024-02-19 19:13:23: -- 分析已结束。历时 00:00:08, 速度： 30 文件/秒

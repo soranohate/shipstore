@@ -1,0 +1,30 @@
+2024-02-21 11:09:32: -- 分析开始 Periodic Timer
+2024-02-21 11:09:32: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-21 11:09:32: 右侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-21 11:09:32: 变更：13， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 661
+2024-02-21 11:09:32: Left to Right: Copy File: 9 Rename/Move File/Folder: 4 
+2024-02-21 11:09:32: == 同步开始由 Periodic Timer
+2024-02-21 11:09:32: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-21 11:09:32: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-21 11:09:32: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-21 11:09:32: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-21 11:09:32: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-21 11:09:32: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-21 11:09:32: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/bookmarks.json' (3,412)
+2024-02-21 11:09:32: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Project/2024-02-21中国风角色策划.md' -> '/Users/IntoSoranohate/个人仓库/backup/Project/2024-02-21中国风角色策划.md' (50)
+2024-02-21 11:09:32: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/Project/中国风角色(主角)设计.md' -> '/Users/IntoSoranohate/个人仓库/backup/Project/中国风角色(主角)设计.md' (1,410)
+2024-02-21 11:09:32: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/workspace.json' (8,066)
+2024-02-21 11:09:32: 移动文件 /Users/IntoSoranohate/个人仓库/backup/日记/20230802日记.md -> /Users/IntoSoranohate/个人仓库/backup/日记/2023-08-02.md
+2024-02-21 11:09:32: 移动文件 /Users/IntoSoranohate/个人仓库/backup/日记/20230826.md -> /Users/IntoSoranohate/个人仓库/backup/日记/2023-08-26.md
+2024-02-21 11:09:32: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/recent-files-obsidian/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/recent-files-obsidian/data.json' (5,661)
+2024-02-21 11:09:32: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/日记/2024-02-18_周日.md' -> '/Users/IntoSoranohate/个人仓库/backup/日记/2024-02-18_周日.md' (1,232)
+2024-02-21 11:09:32: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/日记/2024-02-19_周一.md' -> '/Users/IntoSoranohate/个人仓库/backup/日记/2024-02-19_周一.md' (1,475)
+2024-02-21 11:09:32: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/日记/2024-02-21_周三.md' -> '/Users/IntoSoranohate/个人仓库/backup/日记/2024-02-21_周三.md' (1,054)
+2024-02-21 11:09:32: Close Modified Folder (mod-time, acl): /Project
+2024-02-21 11:09:32: Close Modified Folder (mod-time, acl): /.obsidian/plugins/recent-files-obsidian
+2024-02-21 11:09:32: Close Modified Folder (mod-time, acl): /日记
+2024-02-21 11:09:32: Close Modified Folder (mod-time, acl): /.obsidian
+2024-02-21 11:09:32: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/🏡 StartPage.md' -> '/Users/IntoSoranohate/个人仓库/backup/🏡 StartPage.md' (16,274)
+2024-02-21 11:09:32: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-21 11:09:32: 保持文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-21 11:09:32: == 同步完成. 历时: 00:00:00, 速度: 0.00/s, 完成: 13, 错误: 0

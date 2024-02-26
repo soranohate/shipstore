@@ -1,0 +1,47 @@
+2024-02-22 10:18:42: -- 分析开始 Periodic Timer
+2024-02-22 10:18:42: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-22 10:18:42: 右侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-22 10:18:42: 变更：22， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 714
+2024-02-22 10:18:42: Left to Right: Copy File: 22 
+2024-02-22 10:18:42: == 同步开始由 Periodic Timer
+2024-02-22 10:18:42: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-22 10:18:42: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-22 10:18:42: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-22 10:18:42: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-22 10:18:42: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-22 10:18:42: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-22 10:18:42: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/app.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/app.json' (206)
+2024-02-22 10:18:42: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/daily/2023-08-02.md' -> '/Users/IntoSoranohate/个人仓库/backup/daily/2023-08-02.md' (530)
+2024-02-22 10:18:42: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/daily/2023-08-26.md' -> '/Users/IntoSoranohate/个人仓库/backup/daily/2023-08-26.md' (1,008)
+2024-02-22 10:18:42: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/daily/2024-02-05_周一.md' -> '/Users/IntoSoranohate/个人仓库/backup/daily/2024-02-05_周一.md' (750)
+2024-02-22 10:18:42: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/daily/2024-02-07_周三.md' -> '/Users/IntoSoranohate/个人仓库/backup/daily/2024-02-07_周三.md' (1,001)
+2024-02-22 10:18:42: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/appearance.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/appearance.json' (773)
+2024-02-22 10:18:42: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/daily/情绪日记/心情记录2024-02-14_周三.md' -> '/Users/IntoSoranohate/个人仓库/backup/daily/情绪日记/心情记录2024-02-14_周三.md' (704)
+2024-02-22 10:18:42: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/daily/情绪日记/心情记录2024-02-19_周一.md' -> '/Users/IntoSoranohate/个人仓库/backup/daily/情绪日记/心情记录2024-02-19_周一.md' (719)
+2024-02-22 10:18:42: /Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json: Source file has changed between Analyze and Sync from '[file] size=3,411 accu-time=2024-02-22 10:04:33 attr=Hidden644 cktype=0' to 'size=3,411 time=2024-02-22 10:18:42', noted in source file state
+2024-02-22 10:18:42: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/bookmarks.json' (3,411)
+2024-02-22 10:18:42: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/community-plugins.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/community-plugins.json' (618)
+2024-02-22 10:18:42: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/core-plugins-migration.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/core-plugins-migration.json' (637)
+2024-02-22 10:18:42: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/core-plugins.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/core-plugins.json' (295)
+2024-02-22 10:18:42: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/graph.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/graph.json' (511)
+2024-02-22 10:18:42: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/workspace.json' (8,127)
+2024-02-22 10:18:42: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/calendar/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/calendar/data.json' (231)
+2024-02-22 10:18:42: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/hidden-folder-obsidian/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/hidden-folder-obsidian/data.json' (45)
+2024-02-22 10:18:42: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/obsidian-admonition/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/obsidian-admonition/data.json' (1,705)
+2024-02-22 10:18:42: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/recent-files-obsidian/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/recent-files-obsidian/data.json' (5,380)
+2024-02-22 10:18:42: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspaces.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/workspaces.json' (7,581)
+2024-02-22 10:18:42: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/table-editor-obsidian/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/table-editor-obsidian/data.json' (95)
+2024-02-22 10:18:42: Close Modified Folder (mod-time, acl): /daily/情绪日记
+2024-02-22 10:18:42: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/Project/2024-02-21中国风角色策划.md' -> '/Users/IntoSoranohate/个人仓库/backup/Project/2024-02-21中国风角色策划.md' (304)
+2024-02-22 10:18:42: Close Modified Folder (mod-time, acl): /.obsidian/plugins/calendar
+2024-02-22 10:18:42: Close Modified Folder (mod-time, acl): /.obsidian/plugins/hidden-folder-obsidian
+2024-02-22 10:18:42: Close Modified Folder (mod-time, acl): /.obsidian/plugins/obsidian-admonition
+2024-02-22 10:18:42: Close Modified Folder (mod-time, acl): /.obsidian/plugins/recent-files-obsidian
+2024-02-22 10:18:42: Close Modified Folder (mod-time, acl): /.obsidian/plugins/table-editor-obsidian
+2024-02-22 10:18:42: Close Modified Folder (mod-time, acl): /daily
+2024-02-22 10:18:42: Close Modified Folder (mod-time, acl): /.obsidian
+2024-02-22 10:18:42: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/Project/中国风角色(主角)设计.md' -> '/Users/IntoSoranohate/个人仓库/backup/Project/中国风角色(主角)设计.md' (1,588)
+2024-02-22 10:18:42: Close Modified Folder (mod-time, acl): /Project
+2024-02-22 10:18:42: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-22 10:18:42: 保持文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-22 10:18:42: == 同步完成. 历时: 00:00:00, 速度: 0.00/s, 完成: 22, 错误: 0

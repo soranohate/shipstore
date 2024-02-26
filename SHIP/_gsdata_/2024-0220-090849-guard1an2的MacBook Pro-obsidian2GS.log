@@ -1,0 +1,16 @@
+2024-02-20 09:08:49: Waiting for 0+4(120) sec on verb Med-Get:1: Cannot connect to Mediator (no Internet connection): Connecting to mediator.goodsync.com: Cannot switch to TLS mode: rc=-1 err=5 t=error:00000000:lib(0):func(0):reason(0)[0]
+2024-02-20 09:08:55: >> Resolved stor-dca1.storage to stor-dca1.goodsync.com:443-:443
+2024-02-20 09:08:56: REMOTE C:103.238.130.133(198.18.0.1) -> S:stor-dca1.goodsync.com:443
+2024-02-20 09:08:57: Recovered the connection, continuing operations
+2024-02-20 09:08:58: -- 分析开始 Periodic Timer
+2024-02-20 09:08:58: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-20 09:09:00: 右侧: 正在读取文件状态 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/_gsdata_/_file_state_v4._gs
+2024-02-20 09:09:02: 变更：1， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 622
+2024-02-20 09:09:02: Left to Right: Copy File: 1 
+2024-02-20 09:09:03: == 同步开始由 Periodic Timer
+2024-02-20 09:09:03: Start only 1 threads, limited by tasks to run
+2024-02-20 09:09:06: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/日记/2024-02-19_周一.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/日记/2024-02-19_周一.md' (1,454)
+2024-02-20 09:09:06: Close Modified Folder (mod-time, acl): /日记
+2024-02-20 09:09:06: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-20 09:09:07: 保持文件状态 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/_gsdata_/_file_state_v4._gs
+2024-02-20 09:09:09: == 同步完成. 历时: 00:00:20, 速度: 240.00/s, 完成: 1, 错误: 0

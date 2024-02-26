@@ -1,0 +1,66 @@
+2024-02-11 13:55:42: -- 分析开始 Periodic Timer
+2024-02-11 13:55:42: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-11 13:55:42: 右侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-11 13:55:42: 变更：68 (160)， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 580
+2024-02-11 13:55:42: Left to Right: Copy File: 13 Delete File: 5 Rename/Move File/Folder: 50 
+2024-02-11 13:55:42: == 同步开始由 Periodic Timer
+2024-02-11 13:55:42: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 13:55:42: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 13:55:42: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-11 13:55:42: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-11 13:55:42: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-11 13:55:42: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-11 13:55:42: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/bookmarks.json' (3,592)
+2024-02-11 13:55:42: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/标签/笔记.md' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/标签/笔记.md' (98)
+2024-02-11 13:55:42: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/模板/template模板/卡片模板.md' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/模板/template模板/卡片模板.md' (44)
+2024-02-11 13:55:42: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/quickadd/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/quickadd/data.json' (3,165)
+2024-02-11 13:55:42: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/recent-files-obsidian/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/recent-files-obsidian/data.json' (5,153)
+2024-02-11 13:55:42: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/模板/template模板/复盘Note模板.md' -> '/Users/IntoSoranohate/个人仓库/backup/Setting/模板/template模板/复盘Note模板.md' (790)
+2024-02-11 13:55:42: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/workspace.json' (8,349)
+2024-02-11 13:55:42: 删除文件 /Users/IntoSoranohate/个人仓库/backup/灵感笔记/Notes/2024-02-10项目追踪复盘.md
+2024-02-11 13:55:42: 删除文件 /Users/IntoSoranohate/个人仓库/backup/灵感笔记/卡片盒/CardBox.md
+2024-02-11 13:55:42: 创建文件夹 /Users/IntoSoranohate/个人仓库/backup/闪念笔记
+2024-02-11 13:55:42: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/🏡 StartPage.md' -> '/Users/IntoSoranohate/个人仓库/backup/🏡 StartPage.md' (16,360)
+2024-02-11 13:55:42: 移动文件夹 /Users/IntoSoranohate/个人仓库/backup/灵感笔记/personal -> /Users/IntoSoranohate/个人仓库/backup/闪念笔记/personal
+2024-02-11 13:55:42: 创建文件夹 /Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes
+2024-02-11 13:55:42: 移动文件 /Users/IntoSoranohate/个人仓库/backup/灵感笔记/Notes/20230628复盘.md -> /Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/20230628复盘.md
+2024-02-11 13:55:42: 移动文件 /Users/IntoSoranohate/个人仓库/backup/灵感笔记/Notes/20230830复盘.md -> /Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/20230830复盘.md
+2024-02-11 13:55:42: 移动文件 /Users/IntoSoranohate/个人仓库/backup/灵感笔记/Notes/20230907复盘.md -> /Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/20230907复盘.md
+2024-02-11 13:55:42: 移动文件 /Users/IntoSoranohate/个人仓库/backup/灵感笔记/Notes/20230911复盘.md -> /Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/20230911复盘.md
+2024-02-11 13:55:42: 移动文件 /Users/IntoSoranohate/个人仓库/backup/灵感笔记/Notes/20230913复盘.md -> /Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/20230913复盘.md
+2024-02-11 13:55:42: 移动文件 /Users/IntoSoranohate/个人仓库/backup/灵感笔记/Notes/20230920复盘.md -> /Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/20230920复盘.md
+2024-02-11 13:55:42: 移动文件 /Users/IntoSoranohate/个人仓库/backup/灵感笔记/Notes/20230922复盘.md -> /Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/20230922复盘.md
+2024-02-11 13:55:42: 移动文件 /Users/IntoSoranohate/个人仓库/backup/灵感笔记/Notes/20230925复盘.md -> /Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/20230925复盘.md
+2024-02-11 13:55:42: 移动文件 /Users/IntoSoranohate/个人仓库/backup/灵感笔记/Notes/20230927复盘.md -> /Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/20230927复盘.md
+2024-02-11 13:55:42: 移动文件 /Users/IntoSoranohate/个人仓库/backup/灵感笔记/Notes/20231001复盘.md -> /Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/20231001复盘.md
+2024-02-11 13:55:42: 移动文件 /Users/IntoSoranohate/个人仓库/backup/灵感笔记/Notes/20231008复盘.md -> /Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/20231008复盘.md
+2024-02-11 13:55:42: 移动文件 /Users/IntoSoranohate/个人仓库/backup/灵感笔记/Notes/20231025复盘.md -> /Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/20231025复盘.md
+2024-02-11 13:55:42: 移动文件 /Users/IntoSoranohate/个人仓库/backup/灵感笔记/Notes/20231028复盘.md -> /Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/20231028复盘.md
+2024-02-11 13:55:42: 移动文件 /Users/IntoSoranohate/个人仓库/backup/灵感笔记/Notes/世界观复盘.md -> /Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/世界观复盘.md
+2024-02-11 13:55:42: 移动文件 /Users/IntoSoranohate/个人仓库/backup/灵感笔记/Notes/动作设计复盘.md -> /Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/动作设计复盘.md
+2024-02-11 13:55:42: 移动文件 /Users/IntoSoranohate/个人仓库/backup/灵感笔记/Notes/参考复盘.md -> /Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/参考复盘.md
+2024-02-11 13:55:42: 移动文件 /Users/IntoSoranohate/个人仓库/backup/灵感笔记/Notes/工作总结复盘.md -> /Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/工作总结复盘.md
+2024-02-11 13:55:42: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/Notes/2024-02-10项目追踪复盘.md' -> '/Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/2024-02-10项目追踪复盘.md' (302)
+2024-02-11 13:55:42: 移动文件 /Users/IntoSoranohate/个人仓库/backup/灵感笔记/Notes/心态复盘.md -> /Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/心态复盘.md
+2024-02-11 13:55:42: 移动文件 /Users/IntoSoranohate/个人仓库/backup/灵感笔记/Notes/效率复盘.md -> /Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/效率复盘.md
+2024-02-11 13:55:42: 移动文件 /Users/IntoSoranohate/个人仓库/backup/灵感笔记/Notes/日常练习复盘.md -> /Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/日常练习复盘.md
+2024-02-11 13:55:42: 移动文件 /Users/IntoSoranohate/个人仓库/backup/灵感笔记/Notes/深度工作复盘.md -> /Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/深度工作复盘.md
+2024-02-11 13:55:42: 移动文件 /Users/IntoSoranohate/个人仓库/backup/灵感笔记/Notes/线稿图形复盘.md -> /Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/线稿图形复盘.md
+2024-02-11 13:55:42: 移动文件 /Users/IntoSoranohate/个人仓库/backup/灵感笔记/Notes/线稿线条复盘.md -> /Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/线稿线条复盘.md
+2024-02-11 13:55:42: 移动文件夹 /Users/IntoSoranohate/个人仓库/backup/灵感笔记/摘抄 -> /Users/IntoSoranohate/个人仓库/backup/闪念笔记/摘抄
+2024-02-11 13:55:42: 创建文件夹 /Users/IntoSoranohate/个人仓库/backup/闪念笔记/卡片盒
+2024-02-11 13:55:42: Close Modified Folder (mod-time, acl): /Setting/标签
+2024-02-11 13:55:42: Close Modified Folder (mod-time, acl): /.obsidian/plugins/quickadd
+2024-02-11 13:55:42: Close Modified Folder (mod-time, acl): /.obsidian/plugins/recent-files-obsidian
+2024-02-11 13:55:42: Close Modified Folder (mod-time, acl): /Setting/模板/template模板
+2024-02-11 13:55:42: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/卡片盒/CardBox.md' -> '/Users/IntoSoranohate/个人仓库/backup/闪念笔记/卡片盒/CardBox.md' (152)
+2024-02-11 13:55:42: 删除文件夹 /Users/IntoSoranohate/个人仓库/backup/灵感笔记/卡片盒
+2024-02-11 13:55:42: Close Modified Folder (mod-time, acl): /闪念笔记/Notes
+2024-02-11 13:55:42: 删除文件夹 /Users/IntoSoranohate/个人仓库/backup/灵感笔记/Notes
+2024-02-11 13:55:42: Close Modified Folder (mod-time, acl): /闪念笔记/卡片盒
+2024-02-11 13:55:42: Close Modified Folder (mod-time, acl): /.obsidian
+2024-02-11 13:55:42: 删除文件夹 /Users/IntoSoranohate/个人仓库/backup/灵感笔记
+2024-02-11 13:55:42: Close Modified Folder (mod-time, acl): /闪念笔记
+2024-02-11 13:55:42: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-11 13:55:42: 保持文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-11 13:55:42: == 同步完成. 历时: 00:00:00, 速度: 0.00/s, 完成: 160, 错误: 0

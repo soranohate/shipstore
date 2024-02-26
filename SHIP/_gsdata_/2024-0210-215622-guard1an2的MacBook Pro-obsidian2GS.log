@@ -1,0 +1,25 @@
+2024-02-10 21:56:24: >> Resolved stor-dca1.storage to stor-dca1.goodsync.com:443-:443
+2024-02-10 21:56:25: REMOTE C:103.238.130.133(198.18.0.1) -> S:stor-dca1.goodsync.com:443
+2024-02-10 21:56:26: -- 分析开始 Periodic Timer
+2024-02-10 21:56:26: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-10 21:56:28: 右侧: 正在读取文件状态 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/_gsdata_/_file_state_v4._gs
+2024-02-10 21:56:30: 变更：3， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 333
+2024-02-10 21:56:30: Left to Right: Copy File: 3 
+2024-02-10 21:56:31: == 同步开始由 Periodic Timer
+2024-02-10 21:56:31: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-10 21:56:31: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-10 21:56:31: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-10 21:56:32: REMOTE C:103.238.130.133(198.18.0.1) -> S:stor-dca1.goodsync.com:443
+2024-02-10 21:56:32: REMOTE C:103.238.130.133(198.18.0.1) -> S:stor-dca1.goodsync.com:443
+2024-02-10 21:56:32: REMOTE C:103.238.130.133(198.18.0.1) -> S:stor-dca1.goodsync.com:443
+2024-02-10 21:56:32: ConnectCloned connected to gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y
+2024-02-10 21:56:32: ConnectCloned connected to gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y
+2024-02-10 21:56:32: ConnectCloned connected to gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y
+2024-02-10 21:56:36: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/日记/2024-02-09_周五.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/日记/2024-02-09_周五.md' (1,497)
+2024-02-10 21:56:36: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/日记/2024-02-10_周六.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/日记/2024-02-10_周六.md' (1,424)
+2024-02-10 21:56:36: Close Modified Folder (mod-time, acl): /日记
+2024-02-10 21:56:40: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/模板/template模板/日记模板.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/模板/template模板/日记模板.md' (2,983)
+2024-02-10 21:56:40: Close Modified Folder (mod-time, acl): /Setting/模板/template模板
+2024-02-10 21:56:40: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-10 21:56:41: 保持文件状态 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/_gsdata_/_file_state_v4._gs
+2024-02-10 21:56:43: == 同步完成. 历时: 00:00:21, 速度: 646.00/s, 完成: 3, 错误: 0

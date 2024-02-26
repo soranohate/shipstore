@@ -1,0 +1,15 @@
+2024-02-18 11:38:29: -- 分析开始 Periodic Timer
+2024-02-18 11:38:29: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-18 11:38:33: 右侧: 正在读取文件状态 gdrive://www.googleapis.com/shipy/_gsdata_/_file_state_v4._gs
+2024-02-18 11:38:35: 变更：13， 冲突：0， 复制时间：0， 复制状态：7， 错误： 0, All: 625
+2024-02-18 11:38:35: Left to Right: Copy File: 13 
+2024-02-18 11:38:35: == 同步开始由 Periodic Timer
+2024-02-18 11:38:36: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-18 11:38:36: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-18 11:38:36: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-18 11:38:36: GsConnectAndSetRoot1 connected to gdrive://www.googleapis.com/shipy
+2024-02-18 11:38:36: GsConnectAndSetRoot1 connected to gdrive://www.googleapis.com/shipy
+2024-02-18 11:38:37: worker: GsConnectAndSetRoot: Connecting to www.googleapis.com: Cannot switch to TLS mode: rc=-1 err=5 t=error:00000000:lib(0):func(0):reason(0)[0]
+2024-02-18 11:38:43: /Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json: Source file has changed between Analyze and Sync from '[file] size=3,412 accu-time=2024-02-18 11:38:25 attr=Hidden644 cktype=0' to 'size=3,412 time=2024-02-18 11:38:29', noted in source file state
+2024-02-18 11:38:43: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/bookmarks.json' (3,412)
+2024-02-18 11:38:43: worker: GsConnectAndSetRoot: Connecting to www.googleapis.com: Cannot switch to TLS mode: rc=-1 err=5 t=error:00000000:lib(0):func(0):reason(0)[0]

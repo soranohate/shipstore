@@ -1,0 +1,19 @@
+{
+  "todoPageName": "checklist",
+  "showChecked": true,
+  "showAllTodos": false,
+  "autoRefresh": true,
+  "subGroups": false,
+  "groupBy": "page",
+  "sortDirectionItems": "new->old",
+  "sortDirectionGroups": "new->old",
+  "sortDirectionSubGroups": "new->old",
+  "includeFiles": "",
+  "lookAndFeel": "compact",
+  "_collapsedSections": [
+    "Setting/模板/template模板/日记模板.md",
+    "日记/2024-02-15_周四.md",
+    "daily/2024-02-19_周一.md"
+  ],
+  "_hiddenTags": []
+}

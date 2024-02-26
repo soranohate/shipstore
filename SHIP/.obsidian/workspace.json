@@ -1,0 +1,280 @@
+{
+  "main": {
+    "id": "19458e7495517a8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "be07a75b51c0eda3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b0bee07e9ad75d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting/模板/template模板/项目模板.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9042c60877799527",
+    "type": "split",
+    "children": [
+      {
+        "id": "63a51b6fa7becac8",
+        "type": "tabs",
+        "dimension": 64.6379853095488,
+        "children": [
+          {
+            "id": "369be619194fa4c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "b5cc1f5d463aee38",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "168279812626fce1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "888d90345aa313e6",
+        "type": "tabs",
+        "dimension": 35.362014690451204,
+        "children": [
+          {
+            "id": "866dd940ebe3d167",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "2d71fc124ac6b325",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c1f0633ce70d716a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e62b82b48033629",
+        "type": "tabs",
+        "dimension": 30.220356768100736,
+        "children": [
+          {
+            "id": "ebc6d0c9a6907eea",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "707b9aaae5cd023b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting/components/彩色时钟.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "133427708a87ffae",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "d7f098a74542ad21",
+        "type": "tabs",
+        "dimension": 69.77964323189927,
+        "children": [
+          {
+            "id": "01ac248029da0dae",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "c98084b006af3960",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "a0730284619407e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Setting/模板/template模板/项目模板.md"
+              }
+            }
+          },
+          {
+            "id": "8c4c436869275481",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Setting/模板/template模板/项目模板.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e78b90a1fdb69403",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Setting/模板/template模板/项目模板.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 324.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-to-notion:Share to notion": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": true,
+      "canvas:新建白板": false,
+      "custom-sort:Toggle custom sorting": false,
+      "homepage:Open homepage": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "audio-recorder:开始/结束录音": false,
+      "obsidian-memos:Memos": false,
+      "hidden-folder-obsidian:显示文件夹": false
+    }
+  },
+  "active": "3b0bee07e9ad75d4",
+  "lastOpenFiles": [
+    "🏡 StartPage.md",
+    "daily/2024-02-21_周三.md",
+    "Project/中国风角色(主角)设计.md",
+    "Setting/模板/template模板/日记模板.md",
+    "闪念笔记/卡片盒/5W2H方法.md",
+    "闪念笔记/卡片盒/心流.md",
+    "闪念笔记/卡片盒/数字花园.md",
+    "闪念笔记/卡片盒/项目复盘四步方法.md",
+    "闪念笔记/卡片盒/长青笔记.md",
+    "闪念笔记/卡片盒/MOC（Map of Contents）.md",
+    "闪念笔记/CardBox.md",
+    "闪念笔记/卡片盒/TOC与MOC.md",
+    "闪念笔记/卡片盒/PKM 个人知识管理系统.md",
+    "Setting/Files/IMGdikw-model202402 06.png",
+    "闪念笔记/personal/高清影视之家.md",
+    "闪念笔记/personal/多益面试问题.md",
+    "闪念笔记/personal/【中国联通沃小号】您已成功开通中国联通沃小号业务，小号：18574381474，序号1，包季度 12元季度，订购立即生效，到期未….md",
+    "闪念笔记/personal/推辞测试.md",
+    "闪念笔记/personal/cleaner-uninstaller.md",
+    "闪念笔记/personal/Key.md",
+    "闪念笔记/personal/Little Snitch.md",
+    "闪念笔记/personal/ManicTime Pro 单用户版.md",
+    "闪念笔记/personal/parallels.md",
+    "Project/IDEA 备忘.md",
+    "啥啥啥.md",
+    "未命名.md",
+    "Setting/标签/项目追踪.md",
+    "_gsdata_/2024-0222-125300-guard1an2的MacBook Pro-local.log",
+    "_gsdata_/_insync_v4.gsl",
+    "_gsdata_/lock.gsl",
+    "_gsdata_/2024-0222-121906-guard1an2的MacBook Pro-local.log",
+    "_gsdata_/2024-0222-120915-guard1an2的MacBook Pro-obsidian2onedriver.log",
+    "_gsdata_/2024-0222-120403-guard1an2的MacBook Pro-local.log",
+    "_gsdata_/2024-0222-114900-guard1an2的MacBook Pro-local.log",
+    "_gsdata_/2024-0222-113357-guard1an2的MacBook Pro-local.log",
+    "_gsdata_/2024-0222-111854-guard1an2的MacBook Pro-local.log",
+    "_gsdata_/2024-0222-110913-guard1an2的MacBook Pro-obsidian2onedriver.log",
+    "Setting/Files/Pasted Graphic.png",
+    "Setting/Files/IMG2020-07-05_17202402 07.png",
+    "Setting/Files/源自于馆受跃至的自再心。这一向题其.png",
+    "Setting/Files/如果A=A就很无聊。我们都喜欢比喻句，那么如果A=B呢？如何去证明A=B就是一个.png",
+    "Setting/Files/焦虑.png",
+    "Setting/Files/3.jpg",
+    "Setting/Files/3 1.jpg",
+    "Setting/Files/3 2.jpg",
+    "Setting/Files/和生活主要高层目标.png",
+    "永久笔记/CANVAS/ART.canvas",
+    "未命名.canvas"
+  ]
+}

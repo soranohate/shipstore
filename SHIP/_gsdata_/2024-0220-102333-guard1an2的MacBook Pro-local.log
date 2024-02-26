@@ -1,0 +1,27 @@
+2024-02-20 10:23:33: -- 分析开始 Periodic Timer
+2024-02-20 10:23:33: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-20 10:23:33: 右侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-20 10:23:33: 变更：7， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 631
+2024-02-20 10:23:33: Left to Right: Copy File: 7 
+2024-02-20 10:23:33: == 同步开始由 Periodic Timer
+2024-02-20 10:23:33: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-20 10:23:33: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-20 10:23:33: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-20 10:23:33: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-20 10:23:33: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-20 10:23:33: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-20 10:23:33: /Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json: Source file has changed between Analyze and Sync from '[file] size=3,412 accu-time=2024-02-20 10:20:24 attr=Hidden644 cktype=0' to 'size=3,412 time=2024-02-20 10:23:33', noted in source file state
+2024-02-20 10:23:33: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/bookmarks.json' (3,412)
+2024-02-20 10:23:33: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/canvas.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/canvas.json' (115)
+2024-02-20 10:23:33: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/永久笔记/ART/基础练习/速写.md' -> '/Users/IntoSoranohate/个人仓库/backup/永久笔记/ART/基础练习/速写.md' (380)
+2024-02-20 10:23:33: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/workspace.json' (8,930)
+2024-02-20 10:23:33: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/recent-files-obsidian/data.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/plugins/recent-files-obsidian/data.json' (6,539)
+2024-02-20 10:23:33: Close Modified Folder (mod-time, acl): /永久笔记/ART/基础练习
+2024-02-20 10:23:33: Close Modified Folder (mod-time, acl): /.obsidian/plugins/recent-files-obsidian
+2024-02-20 10:23:33: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/Notes/20240220速写复盘.md' -> '/Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/20240220速写复盘.md' (139)
+2024-02-20 10:23:33: Close Modified Folder (mod-time, acl): /.obsidian
+2024-02-20 10:23:33: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/闪念笔记/Notes/未命名.canvas' -> '/Users/IntoSoranohate/个人仓库/backup/闪念笔记/Notes/未命名.canvas' (0)
+2024-02-20 10:23:33: Close Modified Folder (mod-time, acl): /闪念笔记/Notes
+2024-02-20 10:23:33: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-20 10:23:33: 保持文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-20 10:23:33: == 同步完成. 历时: 00:00:00, 速度: 0.00/s, 完成: 7, 错误: 0

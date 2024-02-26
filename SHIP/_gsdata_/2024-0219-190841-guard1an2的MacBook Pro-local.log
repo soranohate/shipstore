@@ -1,0 +1,17 @@
+2024-02-19 19:08:41: -- 分析开始 Periodic Timer
+2024-02-19 19:08:41: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-19 19:08:41: 右侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-19 19:08:41: 变更：2， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 626
+2024-02-19 19:08:41: Left to Right: Copy File: 2 
+2024-02-19 19:08:41: == 同步开始由 Periodic Timer
+2024-02-19 19:08:41: Start only 2 threads, limited by tasks to run
+2024-02-19 19:08:41: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-19 19:08:41: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-19 19:08:41: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-19 19:08:41: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/backup
+2024-02-19 19:08:41: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/bookmarks.json' (3,412)
+2024-02-19 19:08:41: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json' -> '/Users/IntoSoranohate/个人仓库/backup/.obsidian/workspace.json' (8,459)
+2024-02-19 19:08:41: Close Modified Folder (mod-time, acl): /.obsidian
+2024-02-19 19:08:41: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-19 19:08:41: 保持文件状态 /Users/IntoSoranohate/个人仓库/backup/_gsdata_/_file_state_v4._gs
+2024-02-19 19:08:41: == 同步完成. 历时: 00:00:00, 速度: 0.00/s, 完成: 2, 错误: 0

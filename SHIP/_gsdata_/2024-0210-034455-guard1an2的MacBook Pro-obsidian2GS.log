@@ -1,0 +1,8 @@
+2024-02-10 03:45:08: >> Resolved stor-dca1.storage to stor-dca1.goodsync.com:443-:443
+2024-02-10 03:45:08: REMOTE C:103.238.130.133(198.18.0.1) -> S:stor-dca1.goodsync.com:443
+2024-02-10 03:45:10: == 同步开始由 User Command
+2024-02-10 03:45:12: Start only 0 threads, limited by tasks to run
+2024-02-10 03:45:12: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-10 03:45:13: 保持文件状态 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/_gsdata_/_file_state_v4._gs
+2024-02-10 03:45:14: GsDeleteEmptyFoldersFS: Server List: No such file or directory (error 2)
+2024-02-10 03:45:14: == 同步完成. 历时: 00:00:08, 速度: 3.41 KB/s, 完成: 5, 错误: 0

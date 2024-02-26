@@ -1,0 +1,249 @@
+2024-02-10 03:11:55: >> Resolved stor-dca1.storage to stor-dca1.goodsync.com:443-:443
+2024-02-10 03:11:57: REMOTE C:103.238.130.131(198.18.0.1) -> S:stor-dca1.goodsync.com:443
+2024-02-10 03:11:58: == 同步开始由 User Command
+2024-02-10 03:11:59: GsspFileSys::FileApiTxn: verb=DeleteFile: ERR=server: cannot lstat file /mnt/hgst-VLKJ75RZ/disk251/_store/SHIP'y/_gsdata_/_insync_v4.gsl: No such file or directory (error 2)
+2024-02-10 03:12:00: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-10 03:12:00: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-10 03:12:00: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-10 03:12:01: REMOTE C:103.238.130.131(198.18.0.1) -> S:stor-dca1.goodsync.com:443
+2024-02-10 03:12:01: REMOTE C:103.238.130.131(198.18.0.1) -> S:stor-dca1.goodsync.com:443
+2024-02-10 03:12:01: REMOTE C:103.238.130.131(198.18.0.1) -> S:stor-dca1.goodsync.com:443
+2024-02-10 03:12:01: ConnectCloned connected to gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y
+2024-02-10 03:12:02: ConnectCloned connected to gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y
+2024-02-10 03:12:02: ConnectCloned connected to gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y
+2024-02-10 03:12:02: 创建文件夹 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Inbox
+2024-02-10 03:12:03: 创建文件夹 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Project
+2024-02-10 03:12:03: 创建文件夹 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting
+2024-02-10 03:12:04: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Project/IDEA 备忘.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Project/IDEA 备忘.md' (70)
+2024-02-10 03:12:04: 创建文件夹 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files
+2024-02-10 03:12:05: 创建文件夹 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/标签
+2024-02-10 03:12:05: 创建文件夹 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/模板
+2024-02-10 03:12:07: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/标签/日常.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/标签/日常.md' (152)
+2024-02-10 03:12:07: 创建文件夹 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/模板/template模板
+2024-02-10 03:12:08: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/模板/存档.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/模板/存档.md' (3,362)
+2024-02-10 03:12:08: 创建文件夹 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/模板/日记模板
+2024-02-10 03:12:10: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/模板/template模板/Daily.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/模板/template模板/Daily.md' (615)
+2024-02-10 03:12:11: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/模板/template模板/Insert Callouts.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/模板/template模板/Insert Callouts.md' (1,047)
+2024-02-10 03:12:11: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/模板/日记模板/日记.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/模板/日记模板/日记.md' (614)
+2024-02-10 03:12:12: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/模板/template模板/日记模板.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/模板/template模板/日记模板.md' (2,986)
+2024-02-10 03:12:13: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/模板/template模板/规范化笔记(ART).md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/模板/template模板/规范化笔记(ART).md' (360)
+2024-02-10 03:12:14: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/模板/template模板/读书笔记模板.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/模板/template模板/读书笔记模板.md' (323)
+2024-02-10 03:12:14: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/模板/template模板/项目模板.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/模板/template模板/项目模板.md' (316)
+2024-02-10 03:12:15: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/标签/知识.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/标签/知识.md' (484)
+2024-02-10 03:12:16: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/标签/笔记.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/标签/笔记.md' (82)
+2024-02-10 03:12:17: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/标签/读书.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/标签/读书.md' (64)
+2024-02-10 03:12:17: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/标签/项目追踪.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/标签/项目追踪.md' (59)
+2024-02-10 03:12:19: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/1 1.jpg' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/1 1.jpg' (96,319)
+2024-02-10 03:12:21: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/- 1.jpg' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/- 1.jpg' (522,123)
+2024-02-10 03:12:21: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/1 3.jpg' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/1 3.jpg' (135,775)
+2024-02-10 03:12:21: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/1 2.jpg' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/1 2.jpg' (124,686)
+2024-02-10 03:12:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/1.jpg' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/1.jpg' (151,985)
+2024-02-10 03:12:23: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/2 1.jpg' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/2 1.jpg' (207,104)
+2024-02-10 03:12:24: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/2 3.jpg' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/2 3.jpg' (129,170)
+2024-02-10 03:12:25: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/2.jpg' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/2.jpg' (42,408)
+2024-02-10 03:12:26: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/3 1.jpg' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/3 1.jpg' (156,856)
+2024-02-10 03:12:26: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/3 2.jpg' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/3 2.jpg' (33,058)
+2024-02-10 03:12:27: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/3.jpg' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/3.jpg' (34,238)
+2024-02-10 03:12:29: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/IMGdikw-model202402 06.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/IMGdikw-model202402 06.png' (11,985)
+2024-02-10 03:12:29: > 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Notability 笔记.pdf' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Notability 笔记.pdf' (2,037,442)
+2024-02-10 03:12:30: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/IMG2020-07-05_17202402 07.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/IMG2020-07-05_17202402 07.png' (491,970)
+2024-02-10 03:12:34: < 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Notability 笔记.pdf' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Notability 笔记.pdf' (2,037,442)
+2024-02-10 03:12:35: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted Graphic 1 1.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted Graphic 1 1.png' (1,044,117)
+2024-02-10 03:12:36: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted Graphic 1 2.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted Graphic 1 2.png' (654,166)
+2024-02-10 03:12:37: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted Graphic 1.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted Graphic 1.png' (78,130)
+2024-02-10 03:12:39: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted Graphic 1 3.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted Graphic 1 3.png' (592,789)
+2024-02-10 03:12:40: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted Graphic 10.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted Graphic 10.png' (306,602)
+2024-02-10 03:12:41: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted Graphic 13.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted Graphic 13.png' (156,371)
+2024-02-10 03:12:43: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted Graphic 12.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted Graphic 12.png' (602,873)
+2024-02-10 03:12:44: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted Graphic 14.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted Graphic 14.png' (734,420)
+2024-02-10 03:12:45: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted Graphic 16.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted Graphic 16.png' (394,796)
+2024-02-10 03:12:47: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted Graphic 17.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted Graphic 17.png' (494,313)
+2024-02-10 03:12:47: > 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted Graphic 3 1.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted Graphic 3 1.png' (2,118,827)
+2024-02-10 03:12:47: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted Graphic 2.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted Graphic 2.png' (211,271)
+2024-02-10 03:12:48: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted Graphic 2 1.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted Graphic 2 1.png' (800,138)
+2024-02-10 03:12:52: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted Graphic 3 2.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted Graphic 3 2.png' (928,079)
+2024-02-10 03:12:52: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted Graphic 3.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted Graphic 3.png' (928,079)
+2024-02-10 03:12:55: < 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted Graphic 3 1.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted Graphic 3 1.png' (2,118,827)
+2024-02-10 03:12:55: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted Graphic 4 1.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted Graphic 4 1.png' (249,375)
+2024-02-10 03:12:55: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted Graphic 322.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted Graphic 322.png' (308,812)
+2024-02-10 03:12:55: > 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted Graphic 4 3.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted Graphic 4 3.png' (1,058,816)
+2024-02-10 03:12:58: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted Graphic 4 2.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted Graphic 4 2.png' (489,516)
+2024-02-10 03:12:59: < 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted Graphic 4 3.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted Graphic 4 3.png' (1,058,816)
+2024-02-10 03:13:00: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted Graphic 4.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted Graphic 4.png' (494,313)
+2024-02-10 03:13:00: > 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted Graphic 6 1.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted Graphic 6 1.png' (1,362,293)
+2024-02-10 03:13:02: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted Graphic 5 1.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted Graphic 5 1.png' (761,200)
+2024-02-10 03:13:05: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted Graphic 5.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted Graphic 5.png' (394,796)
+2024-02-10 03:13:06: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted Graphic 6.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted Graphic 6.png' (554,852)
+2024-02-10 03:13:07: < 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted Graphic 6 1.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted Graphic 6 1.png' (1,362,293)
+2024-02-10 03:13:09: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted Graphic 7 1.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted Graphic 7 1.png' (506,132)
+2024-02-10 03:13:11: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted Graphic 7.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted Graphic 7.png' (317,281)
+2024-02-10 03:13:12: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted Graphic 8.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted Graphic 8.png' (354,309)
+2024-02-10 03:13:13: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted Graphic 9.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted Graphic 9.png' (386,137)
+2024-02-10 03:13:14: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted Graphic.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted Graphic.png' (161,454)
+2024-02-10 03:13:15: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted Graphic122.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted Graphic122.png' (287,331)
+2024-02-10 03:13:18: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted image 20240210011914.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted image 20240210011914.png' (1,042,737)
+2024-02-10 03:13:19: > 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted image 20240210012429.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted image 20240210012429.png' (1,780,397)
+2024-02-10 03:13:21: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted image 20240210012024.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted image 20240210012024.png' (538,761)
+2024-02-10 03:13:21: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted image 20240210012054.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted image 20240210012054.png' (941,491)
+2024-02-10 03:13:21: > 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted image 20240210012528.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted image 20240210012528.png' (4,129,242)
+2024-02-10 03:13:28: < 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted image 20240210012429.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted image 20240210012429.png' (1,780,397)
+2024-02-10 03:13:28: > 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted image 20240210012712.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted image 20240210012712.png' (7,249,871)
+2024-02-10 03:13:30: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted image 20240210012506.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted image 20240210012506.png' (827,419)
+2024-02-10 03:13:30: > 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted image 20240210012933.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted image 20240210012933.png' (2,620,693)
+2024-02-10 03:13:40: < 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted image 20240210012528.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted image 20240210012528.png' (4,129,242)
+2024-02-10 03:13:40: > 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted image 20240210012956.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted image 20240210012956.png' (1,962,439)
+2024-02-10 03:13:42: < 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted image 20240210012933.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted image 20240210012933.png' (2,620,693)
+2024-02-10 03:13:44: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/和生活主要高层目标.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/和生活主要高层目标.png' (231,756)
+2024-02-10 03:13:49: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/备注  2021年7月1日.pdf' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/备注  2021年7月1日.pdf' (298,525)
+2024-02-10 03:13:49: < 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted image 20240210012956.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted image 20240210012956.png' (1,962,439)
+2024-02-10 03:13:51: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/备注 2021年3月24日.pdf' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/备注 2021年3月24日.pdf' (27,106)
+2024-02-10 03:13:51: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/备注 2021年3月25日.pdf' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/备注 2021年3月25日.pdf' (19,943)
+2024-02-10 03:13:52: < 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/Pasted image 20240210012712.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/Pasted image 20240210012712.png' (7,249,871)
+2024-02-10 03:13:54: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/备注 2021年5月17日 1.pdf' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/备注 2021年5月17日 1.pdf' (144,981)
+2024-02-10 03:13:56: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/备注 2021年4月15日.pdf' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/备注 2021年4月15日.pdf' (665,503)
+2024-02-10 03:13:56: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/备注 2021年5月15日.pdf' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/备注 2021年5月15日.pdf' (830,934)
+2024-02-10 03:13:58: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/备注 2021年5月17日.pdf' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/备注 2021年5月17日.pdf' (144,981)
+2024-02-10 03:13:59: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/备注 2021年7月7日.pdf' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/备注 2021年7月7日.pdf' (24,198)
+2024-02-10 03:14:02: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/如果A=A就很无聊。我们都喜欢比喻句，那么如果A=B呢？如何去证明A=B就是一个.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/如果A=A就很无聊。我们都喜欢比喻句，那么如果A=B呢？如何去证明A=B就是一个.png' (435,494)
+2024-02-10 03:14:04: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/找不到生活的方向，是号致这种症状的.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/找不到生活的方向，是号致这种症状的.png' (602,355)
+2024-02-10 03:14:04: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/Files/源自于馆受跃至的自再心。这一向题其.png' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Setting/Files/源自于馆受跃至的自再心。这一向题其.png' (513,981)
+2024-02-10 03:14:04: 创建文件夹 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/Project/归档
+2024-02-10 03:14:05: 创建文件夹 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/文献笔记
+2024-02-10 03:14:05: 创建文件夹 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/日记
+2024-02-10 03:14:06: 创建文件夹 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/文献笔记/读书
+2024-02-10 03:14:07: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/日记/2021短暂日记备份.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/日记/2021短暂日记备份.md' (141)
+2024-02-10 03:14:08: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/文献笔记/读书/读书清单.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/文献笔记/读书/读书清单.md' (46)
+2024-02-10 03:14:09: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/日记/20230802日记.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/日记/20230802日记.md' (404)
+2024-02-10 03:14:10: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/日记/20230826.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/日记/20230826.md' (881)
+2024-02-10 03:14:10: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/日记/2024-02-05_周一.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/日记/2024-02-05_周一.md' (622)
+2024-02-10 03:14:11: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/日记/2024-02-06_周二.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/日记/2024-02-06_周二.md' (1,593)
+2024-02-10 03:14:11: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/日记/2024-02-07_周三.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/日记/2024-02-07_周三.md' (1,020)
+2024-02-10 03:14:12: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/日记/2024-02-08_周四.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/日记/2024-02-08_周四.md' (1,593)
+2024-02-10 03:14:13: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/日记/2024-02-09_周五.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/日记/2024-02-09_周五.md' (1,500)
+2024-02-10 03:14:14: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/日记/2024-02-10_周六.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/日记/2024-02-10_周六.md' (1,182)
+2024-02-10 03:14:14: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/日记/20240206周二.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/日记/20240206周二.md' (845)
+2024-02-10 03:14:14: 创建文件夹 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/永久笔记
+2024-02-10 03:14:15: 创建文件夹 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记
+2024-02-10 03:14:16: 创建文件夹 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes
+2024-02-10 03:14:16: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/🏡 StartPage.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/🏡 StartPage.md' (19,019)
+2024-02-10 03:14:17: 创建文件夹 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/personal
+2024-02-10 03:14:19: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/Notes/20230628复盘.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/20230628复盘.md' (4,420)
+2024-02-10 03:14:20: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/personal/cleaner-uninstaller.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/personal/cleaner-uninstaller.md' (329)
+2024-02-10 03:14:20: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/personal/Key.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/personal/Key.md' (228)
+2024-02-10 03:14:21: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/personal/Little Snitch.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/personal/Little Snitch.md' (76)
+2024-02-10 03:14:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/personal/ManicTime Pro 单用户版.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/personal/ManicTime Pro 单用户版.md' (1,416)
+2024-02-10 03:14:23: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/personal/parallels.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/personal/parallels.md' (357)
+2024-02-10 03:14:23: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/personal/【中国联通沃小号】您已成功开通中国联通沃小号业务，小号：18574381474，序号1，包季度 12元季度，订购立即生效，到期未….md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/personal/【中国联通沃小号】您已成功开通中国联通沃小号业务，小号：18574381474，序号1，包季度 12元季度，订购立即生效，到期未….md' (497)
+2024-02-10 03:14:24: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/personal/多益面试问题.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/personal/多益面试问题.md' (4,139)
+2024-02-10 03:14:24: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/personal/推辞测试.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/personal/推辞测试.md' (340)
+2024-02-10 03:14:25: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/personal/高清影视之家.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/personal/高清影视之家.md' (558)
+2024-02-10 03:14:26: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/Notes/20230830复盘.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/20230830复盘.md' (239)
+2024-02-10 03:14:27: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/Notes/20230907复盘.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/20230907复盘.md' (290)
+2024-02-10 03:14:27: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/Notes/20230911复盘.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/20230911复盘.md' (268)
+2024-02-10 03:14:28: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/Notes/20230913复盘.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/20230913复盘.md' (214)
+2024-02-10 03:14:29: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/Notes/20230920复盘.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/20230920复盘.md' (291)
+2024-02-10 03:14:30: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/Notes/20230922复盘.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/20230922复盘.md' (341)
+2024-02-10 03:14:31: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/Notes/20230925复盘.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/20230925复盘.md' (201)
+2024-02-10 03:14:31: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/Notes/20230927复盘.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/20230927复盘.md' (398)
+2024-02-10 03:14:32: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/Notes/20231001复盘.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/20231001复盘.md' (170)
+2024-02-10 03:14:33: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/Notes/20231008复盘.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/20231008复盘.md' (397)
+2024-02-10 03:14:34: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/Notes/20231025复盘.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/20231025复盘.md' (532)
+2024-02-10 03:14:35: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/Notes/20231028复盘.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/20231028复盘.md' (1,524)
+2024-02-10 03:14:35: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/Notes/世界观复盘.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/世界观复盘.md' (360)
+2024-02-10 03:14:36: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/Notes/动作设计复盘.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/动作设计复盘.md' (360)
+2024-02-10 03:14:37: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/Notes/参考复盘.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/参考复盘.md' (308)
+2024-02-10 03:14:38: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/Notes/工作总结复盘.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/工作总结复盘.md' (1,030)
+2024-02-10 03:14:38: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/Notes/心态复盘.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/心态复盘.md' (1,057)
+2024-02-10 03:14:39: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/Notes/效率复盘.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/效率复盘.md' (113)
+2024-02-10 03:14:40: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/Notes/日常练习复盘.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/日常练习复盘.md' (200)
+2024-02-10 03:14:41: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/Notes/深度工作复盘.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/深度工作复盘.md' (1,092)
+2024-02-10 03:14:41: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/Notes/线稿图形复盘.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/线稿图形复盘.md' (426)
+2024-02-10 03:14:41: 创建文件夹 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄
+2024-02-10 03:14:42: 创建文件夹 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/永久笔记/ART
+2024-02-10 03:14:42: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/Notes/线稿线条复盘.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/Notes/线稿线条复盘.md' (1,022)
+2024-02-10 03:14:43: 创建文件夹 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/永久笔记/ART/基础练习
+2024-02-10 03:14:44: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/摘抄/3ff0430d.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄/3ff0430d.md' (785)
+2024-02-10 03:14:45: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/永久笔记/ART/概念设计.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/永久笔记/ART/概念设计.md' (337)
+2024-02-10 03:14:46: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/永久笔记/ART/基础练习/光影.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/永久笔记/ART/基础练习/光影.md' (317)
+2024-02-10 03:14:47: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/永久笔记/ART/基础练习/构图.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/永久笔记/ART/基础练习/构图.md' (317)
+2024-02-10 03:14:48: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/永久笔记/ART/基础练习/线条.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/永久笔记/ART/基础练习/线条.md' (335)
+2024-02-10 03:14:48: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/永久笔记/ART/基础练习/色彩.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/永久笔记/ART/基础练习/色彩.md' (326)
+2024-02-10 03:14:49: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/永久笔记/ART/基础练习/速写.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/永久笔记/ART/基础练习/速写.md' (380)
+2024-02-10 03:14:50: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/永久笔记/ART/基础练习/造型.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/永久笔记/ART/基础练习/造型.md' (317)
+2024-02-10 03:14:50: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/永久笔记/ART/基础练习/配色.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/永久笔记/ART/基础练习/配色.md' (369)
+2024-02-10 03:14:51: 创建文件夹 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/永久笔记/ART/设计原理
+2024-02-10 03:14:51: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/永久笔记/ART/绘画练习.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/永久笔记/ART/绘画练习.md' (473)
+2024-02-10 03:14:52: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/摘抄/als ich can.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄/als ich can.md' (11)
+2024-02-10 03:14:54: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/永久笔记/ART/设计原理/pose&动态.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/永久笔记/ART/设计原理/pose&动态.md' (319)
+2024-02-10 03:14:54: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/永久笔记/ART/设计原理/三级型.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/永久笔记/ART/设计原理/三级型.md' (1,314)
+2024-02-10 03:14:55: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/永久笔记/ART/设计原理/世界观设计&提炼.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/永久笔记/ART/设计原理/世界观设计&提炼.md' (348)
+2024-02-10 03:14:55: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/永久笔记/ART/设计原理/切分.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/永久笔记/ART/设计原理/切分.md' (330)
+2024-02-10 03:14:56: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/永久笔记/ART/设计原理/参考.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/永久笔记/ART/设计原理/参考.md' (479)
+2024-02-10 03:14:57: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/永久笔记/ART/设计原理/对比.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/永久笔记/ART/设计原理/对比.md' (317)
+2024-02-10 03:14:58: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/永久笔记/ART/设计原理/形状.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/永久笔记/ART/设计原理/形状.md' (343)
+2024-02-10 03:14:58: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/永久笔记/ART/设计原理/细节设计.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/永久笔记/ART/设计原理/细节设计.md' (299)
+2024-02-10 03:14:59: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/永久笔记/ART/设计原理/聚焦点设计.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/永久笔记/ART/设计原理/聚焦点设计.md' (351)
+2024-02-10 03:15:00: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/永久笔记/ART/设计原理/视觉引导.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/永久笔记/ART/设计原理/视觉引导.md' (333)
+2024-02-10 03:15:01: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/永久笔记/ART/设计原理/风格化.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/永久笔记/ART/设计原理/风格化.md' (333)
+2024-02-10 03:15:02: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/摘抄/euphoria.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄/euphoria.md' (12)
+2024-02-10 03:15:03: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/摘抄/Hallelujah.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄/Hallelujah.md' (10)
+2024-02-10 03:15:03: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/摘抄/Into-soranohate.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄/Into-soranohate.md' (17)
+2024-02-10 03:15:04: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/摘抄/Moments.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄/Moments.md' (258)
+2024-02-10 03:15:05: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/摘抄/per aspera ad astra（循此苦旅，以达天际）.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄/per aspera ad astra（循此苦旅，以达天际）.md' (52)
+2024-02-10 03:15:06: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/摘抄/PKM 个人知识管理系统.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄/PKM 个人知识管理系统.md' (3,216)
+2024-02-10 03:15:07: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/摘抄/“应该是从喜欢里得到力量和快乐，而不是花光了所有力量和快乐去喜欢”.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄/“应该是从喜欢里得到力量和快乐，而不是花光了所有力量和快乐去喜欢”.md' (99)
+2024-02-10 03:15:07: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/摘抄/“我的母语世界已经沉沦，我的精神家园欧洲亦已自取灭亡。”.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄/“我的母语世界已经沉沦，我的精神家园欧洲亦已自取灭亡。”.md' (0)
+2024-02-10 03:15:08: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/摘抄/不实的爱.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄/不实的爱.md' (1,227)
+2024-02-10 03:15:09: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/摘抄/与自己相处.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄/与自己相处.md' (5,471)
+2024-02-10 03:15:10: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/摘抄/专注（心流、高峰体验、自我效能感）的原理和方法.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄/专注（心流、高峰体验、自我效能感）的原理和方法.md' (1,335)
+2024-02-10 03:15:11: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/摘抄/体验，享受生活.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄/体验，享受生活.md' (5,452)
+2024-02-10 03:15:12: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/摘抄/六幡南宫响河.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄/六幡南宫响河.md' (20)
+2024-02-10 03:15:12: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/摘抄/卡片盒笔记法.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄/卡片盒笔记法.md' (8,653)
+2024-02-10 03:15:13: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/摘抄/发现真实的自我.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄/发现真实的自我.md' (11,496)
+2024-02-10 03:15:14: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/摘抄/各位猴毛宝宝们，关于814（或者类似问题），别急着给自己太多负担。河堤说爱自己的全部，不会不包括各位爱他的人。所以不要急着忏悔，过去….md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄/各位猴毛宝宝们，关于814（或者类似问题），别急着给自己太多负担。河堤说爱自己的全部，不会不包括各位爱他的人。所以不要急着忏悔，过去….md' (775)
+2024-02-10 03:15:15: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/摘抄/唯一不可饶恕的罪，就是相信上帝不会饶恕你.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄/唯一不可饶恕的罪，就是相信上帝不会饶恕你.md' (5)
+2024-02-10 03:15:16: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/摘抄/善于微弱，人得以自由。像窗台的植物无动于观赏的期待。做心安的事，读有益的书，赏相合的人。便有生活的全部温柔。.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄/善于微弱，人得以自由。像窗台的植物无动于观赏的期待。做心安的事，读有益的书，赏相合的人。便有生活的全部温柔。.md' (334)
+2024-02-10 03:15:16: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/摘抄/在哲学中寻找到的亲近感，才是内心文化归属的根源。.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄/在哲学中寻找到的亲近感，才是内心文化归属的根源。.md' (72)
+2024-02-10 03:15:17: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/摘抄/天若有情.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄/天若有情.md' (14)
+2024-02-10 03:15:18: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/摘抄/失败是常态.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄/失败是常态.md' (52)
+2024-02-10 03:15:19: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/摘抄/当有关虚假的想法一直纠缠您的时候，您就站在明亮的舞台灯光前问自己这样一个问题以自检：‘我是在行动还是在与虚假作斗争？’.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄/当有关虚假的想法一直纠缠您的时候，您就站在明亮的舞台灯光前问自己这样一个问题以自检：‘我是在行动还是在与虚假作斗争？’.md' (1,057)
+2024-02-10 03:15:19: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/摘抄/故事.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄/故事.md' (691)
+2024-02-10 03:15:20: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/摘抄/数字花园.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄/数字花园.md' (2,049)
+2024-02-10 03:15:21: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/摘抄/早上起来第一句，嬲你滴起暗哒。.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄/早上起来第一句，嬲你滴起暗哒。.md' (76)
+2024-02-10 03:15:22: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/摘抄/昨天给朋友讲的插画手法总结：.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄/昨天给朋友讲的插画手法总结：.md' (4,189)
+2024-02-10 03:15:23: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/摘抄/昭和元禄落语心中.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄/昭和元禄落语心中.md' (24)
+2024-02-10 03:15:24: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/摘抄/最深的焦虑，来自对创造的拖延。当他明知现实，是奇迹唯一的藏身之所。.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄/最深的焦虑，来自对创造的拖延。当他明知现实，是奇迹唯一的藏身之所。.md' (109)
+2024-02-10 03:15:24: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/摘抄/未知的索引.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄/未知的索引.md' (43,585)
+2024-02-10 03:15:26: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/摘抄/毛姆的「写作建议」.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄/毛姆的「写作建议」.md' (4,243)
+2024-02-10 03:15:26: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/摘抄/演出是行动.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄/演出是行动.md' (267)
+2024-02-10 03:15:27: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/摘抄/热门概念的代表作品.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄/热门概念的代表作品.md' (124)
+2024-02-10 03:15:27: Close Modified Folder (mod-time, acl): /Setting/模板/日记模板
+2024-02-10 03:15:27: Waiting for 0+4(120) sec on verb SetFolderModTime:14: Recv: Unexpected EOF when reading reply
+2024-02-10 03:15:28: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/摘抄/真诚就是“不欺”，能够“全身心投入行动”“不遗余力”……这意味着，既不浪费一丝力量，也不保留一丝力量，真实不虚。一个人能这样生活，他….md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄/真诚就是“不欺”，能够“全身心投入行动”“不遗余力”……这意味着，既不浪费一丝力量，也不保留一丝力量，真实不虚。一个人能这样生活，他….md' (297)
+2024-02-10 03:15:29: 新建复制 '/Users/IntoSoranohate/个人仓库/SHIP/灵感笔记/摘抄/美少女特工队.md' -> 'gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/灵感笔记/摘抄/美少女特工队.md' (20)
+2024-02-10 03:15:32: ReArrange after Recv Err: Recv: Unexpected EOF when reading reply
+2024-02-10 03:15:32: REMOTE C:103.238.130.131(198.18.0.1) -> S:stor-dca1.goodsync.com:443
+2024-02-10 03:15:33: RestoreContext after Reconnect OK: /SHIP'y
+2024-02-10 03:15:34: Close Modified Folder (mod-time, acl): /Setting/模板/template模板
+2024-02-10 03:15:34: Close Modified Folder (mod-time, acl): /Setting/标签
+2024-02-10 03:15:34: Close Modified Folder (mod-time, acl): /Setting/Files
+2024-02-10 03:15:34: Close Modified Folder (mod-time, acl): /Project
+2024-02-10 03:15:35: Close Modified Folder (mod-time, acl): /文献笔记/读书
+2024-02-10 03:15:35: Close Modified Folder (mod-time, acl): /日记
+2024-02-10 03:15:35: Close Modified Folder (mod-time, acl): /灵感笔记/personal
+2024-02-10 03:15:35: Close Modified Folder (mod-time, acl): /灵感笔记/Notes
+2024-02-10 03:15:36: Close Modified Folder (mod-time, acl): /永久笔记/ART/基础练习
+2024-02-10 03:15:36: Close Modified Folder (mod-time, acl): /永久笔记/ART/设计原理
+2024-02-10 03:15:36: Close Modified Folder (mod-time, acl): /灵感笔记/摘抄
+2024-02-10 03:15:36: Close Modified Folder (mod-time, acl): /Setting/模板
+2024-02-10 03:15:37: Close Modified Folder (mod-time, acl): /文献笔记
+2024-02-10 03:15:37: Close Modified Folder (mod-time, acl): /永久笔记/ART
+2024-02-10 03:15:37: Close Modified Folder (mod-time, acl): /灵感笔记
+2024-02-10 03:15:37: Close Modified Folder (mod-time, acl): /Setting
+2024-02-10 03:15:38: Close Modified Folder (mod-time, acl): /永久笔记
+2024-02-10 03:15:38: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-10 03:15:39: 保持文件状态 gstore://RealDisk-10.1072710413-qq-com.goodsync/SHIP'y/_gsdata_/_file_state_v4._gs
+2024-02-10 03:15:39: Waiting for 95+4(120) sec on verb Disconnect:204: Recv: Unexpected EOF when reading reply
+2024-02-10 03:15:43: ReArrange after Recv Err: Recv: Unexpected EOF when reading reply
+2024-02-10 03:15:44: GsDeleteEmptyFoldersFS: Server List: No such file or directory (error 2)
+2024-02-10 03:15:45: == 同步完成. 历时: 00:03:51, 速度: 208.75 KB/s, 完成: 199, 错误: 0

@@ -1,0 +1,21 @@
+2024-02-15 13:30:20: -- 分析开始 Periodic Timer
+2024-02-15 13:30:20: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-15 13:30:23: 右侧: 正在读取文件状态 gdrive://www.googleapis.com/shipy/_gsdata_/_file_state_v4._gs
+2024-02-15 13:30:25: 变更：4， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 613
+2024-02-15 13:30:25: Left to Right: Copy File: 4 
+2024-02-15 13:30:25: == 同步开始由 Periodic Timer
+2024-02-15 13:30:25: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-15 13:30:25: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-15 13:30:25: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-15 13:30:25: GsConnectAndSetRoot1 connected to gdrive://www.googleapis.com/shipy
+2024-02-15 13:30:26: GsConnectAndSetRoot1 connected to gdrive://www.googleapis.com/shipy
+2024-02-15 13:30:27: GsConnectAndSetRoot1 connected to gdrive://www.googleapis.com/shipy
+2024-02-15 13:30:32: /Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json: Source file has changed between Analyze and Sync from '[file] size=3,412 accu-time=2024-02-15 13:30:17 attr=Hidden644 cktype=0' to 'size=3,412 time=2024-02-15 13:30:20', noted in source file state
+2024-02-15 13:30:32: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/bookmarks.json' (3,412)
+2024-02-15 13:30:32: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/日记/2024-02-14_周三.md' -> 'gdrive://www.googleapis.com/shipy/日记/2024-02-14_周三.md' (1,781)
+2024-02-15 13:30:35: /Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json: Source file has changed between Analyze and Sync from '[file] size=8,146 accu-time=2024-02-15 13:30:18 attr=Hidden644 cktype=0' to 'size=8,146 time=2024-02-15 13:30:21', noted in source file state
+2024-02-15 13:30:35: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/workspace.json' (8,146)
+2024-02-15 13:30:37: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/recent-files-obsidian/data.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/plugins/recent-files-obsidian/data.json' (6,894)
+2024-02-15 13:30:37: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-15 13:30:39: 保持文件状态 gdrive://www.googleapis.com/shipy/_gsdata_/_file_state_v4._gs
+2024-02-15 13:30:41: == 同步完成. 历时: 00:00:23, 速度: 1.11 KB/s, 完成: 4, 错误: 0

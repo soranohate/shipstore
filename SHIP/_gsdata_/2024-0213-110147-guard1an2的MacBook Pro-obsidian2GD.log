@@ -1,0 +1,25 @@
+2024-02-13 11:01:49: -- 分析开始 Periodic Timer
+2024-02-13 11:01:49: 左侧: 正在读取文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-13 11:01:53: 右侧: 正在读取文件状态 gdrive://www.googleapis.com/shipy/_gsdata_/_file_state_v4._gs
+2024-02-13 11:01:55: 变更：8， 冲突：0， 复制时间：0， 复制状态：5， 错误： 0, All: 610
+2024-02-13 11:01:55: Left to Right: Copy File: 8 
+2024-02-13 11:01:55: == 同步开始由 Periodic Timer
+2024-02-13 11:01:55: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-13 11:01:55: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-13 11:01:55: ConnectCloned connected to file:///Users/IntoSoranohate/个人仓库/SHIP
+2024-02-13 11:01:55: GsConnectAndSetRoot1 connected to gdrive://www.googleapis.com/shipy
+2024-02-13 11:01:56: GsConnectAndSetRoot1 connected to gdrive://www.googleapis.com/shipy
+2024-02-13 11:01:57: GsConnectAndSetRoot1 connected to gdrive://www.googleapis.com/shipy
+2024-02-13 11:02:03: /Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json: Source file has changed between Analyze and Sync from '[file] size=3,412 accu-time=2024-02-13 11:01:46 attr=Hidden644 cktype=0' to 'size=3,412 time=2024-02-13 11:01:49', noted in source file state
+2024-02-13 11:02:03: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/bookmarks.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/bookmarks.json' (3,412)
+2024-02-13 11:02:03: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/community-plugins.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/community-plugins.json' (570)
+2024-02-13 11:02:08: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/Setting/模板/template模板/情绪模版.md' -> 'gdrive://www.googleapis.com/shipy/Setting/模板/template模板/情绪模版.md' (77)
+2024-02-13 11:02:09: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/quickadd/data.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/plugins/quickadd/data.json' (4,600)
+2024-02-13 11:02:12: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/recent-files-obsidian/data.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/plugins/recent-files-obsidian/data.json' (7,008)
+2024-02-13 11:02:14: /Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json: Source file has changed between Analyze and Sync from '[file] size=8,265 accu-time=2024-02-13 11:01:47 attr=Hidden644 cktype=0' to 'size=8,265 time=2024-02-13 11:01:50', noted in source file state
+2024-02-13 11:02:14: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/workspace.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/workspace.json' (8,265)
+2024-02-13 11:02:16: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/.obsidian/plugins/table-editor-obsidian/data.json' -> 'gdrive://www.googleapis.com/shipy/.obsidian/plugins/table-editor-obsidian/data.json' (95)
+2024-02-13 11:02:18: 覆盖复制 '/Users/IntoSoranohate/个人仓库/SHIP/日记/2024-02-12_周一.md' -> 'gdrive://www.googleapis.com/shipy/日记/2024-02-12_周一.md' (1,334)
+2024-02-13 11:02:18: 保持文件状态 /Users/IntoSoranohate/个人仓库/SHIP/_gsdata_/_file_state_v4._gs
+2024-02-13 11:02:20: 保持文件状态 gdrive://www.googleapis.com/shipy/_gsdata_/_file_state_v4._gs
+2024-02-13 11:02:22: == 同步完成. 历时: 00:00:35, 速度: 1.22 KB/s, 完成: 13, 错误: 0
